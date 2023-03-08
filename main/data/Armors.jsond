@@ -247,56 +247,16 @@
     "path": "/123/damage"
   },
   {
-    "op": "replace",
-    "path": "/123/description",
-    "value": "Versatile and universally loved.\nIncreases ALL STATS."
-  },
-  {
-    "op": "replace",
-    "path": "/123/name",
-    "value": "ROSE HAIRCLIP"
-  },
-  {
     "op": "remove",
     "path": "/122/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/122/description",
-    "value": "A very sturdy and resilient plant.\nDEF +15, HEART +15"
-  },
-  {
-    "op": "replace",
-    "path": "/122/name",
-    "value": "CACTUS HAIRCLIP"
   },
   {
     "op": "remove",
     "path": "/121/damage"
   },
   {
-    "op": "replace",
-    "path": "/121/description",
-    "value": "Represents strength of character.\nATK +10, LUCK +10, Increases HIT RATE."
-  },
-  {
-    "op": "replace",
-    "path": "/121/name",
-    "value": "GLADIOLUS HAIRBAND"
-  },
-  {
     "op": "remove",
     "path": "/120/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/120/description",
-    "value": "Plain, simple, and bulbous.\nHEART +50, Wearer gains more EXP."
-  },
-  {
-    "op": "replace",
-    "path": "/120/name",
-    "value": "TULIP HAIRSTICK"
   },
   {
     "op": "remove",
@@ -393,280 +353,80 @@
     "path": "/109/damage"
   },
   {
-    "op": "replace",
-    "path": "/109/description",
-    "value": "KEL's best friend."
-  },
-  {
-    "op": "replace",
-    "path": "/109/name",
-    "value": "KEL'S PET ROCK"
-  },
-  {
     "op": "remove",
     "path": "/108/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/108/description",
-    "value": "Rare and vintage. Mildly shiny."
-  },
-  {
-    "op": "replace",
-    "path": "/108/name",
-    "value": "COOL BOTTLECAP"
   },
   {
     "op": "remove",
     "path": "/107/damage"
   },
   {
-    "op": "replace",
-    "path": "/107/description",
-    "value": "Feels cool to carry around."
-  },
-  {
-    "op": "replace",
-    "path": "/107/name",
-    "value": "PAINT BRUSH"
-  },
-  {
     "op": "remove",
     "path": "/106/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/106/description",
-    "value": "Prettier in the wind."
-  },
-  {
-    "op": "replace",
-    "path": "/106/name",
-    "value": "PINWHEEL"
   },
   {
     "op": "remove",
     "path": "/105/damage"
   },
   {
-    "op": "replace",
-    "path": "/105/description",
-    "value": "A prestigious cap bestowed upon the PET ROCK \nchampion. 100% cotton."
-  },
-  {
-    "op": "replace",
-    "path": "/105/name",
-    "value": "\"YOU ROCK\" CAP"
-  },
-  {
     "op": "remove",
     "path": "/104/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/104/description",
-    "value": "Better when you hug it."
-  },
-  {
-    "op": "replace",
-    "path": "/104/name",
-    "value": "TEDDY BEAR"
   },
   {
     "op": "remove",
     "path": "/103/damage"
   },
   {
-    "op": "replace",
-    "path": "/103/description",
-    "value": "No rabbits were harmed."
-  },
-  {
-    "op": "replace",
-    "path": "/103/name",
-    "value": "RABBIT FOOT"
-  },
-  {
     "op": "remove",
     "path": "/102/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/102/description",
-    "value": "Goes on your head, but it shouldn't."
-  },
-  {
-    "op": "replace",
-    "path": "/102/name",
-    "value": "FEDORA"
   },
   {
     "op": "remove",
     "path": "/101/damage"
   },
   {
-    "op": "replace",
-    "path": "/101/description",
-    "value": "Is this even real gold?"
-  },
-  {
-    "op": "replace",
-    "path": "/101/name",
-    "value": "\"GOLD\" WATCH"
-  },
-  {
     "op": "remove",
     "path": "/100/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/100/description",
-    "value": "A shiny item for your wrist."
-  },
-  {
-    "op": "replace",
-    "path": "/100/name",
-    "value": "GOLD WATCH"
   },
   {
     "op": "remove",
     "path": "/99/damage"
   },
   {
-    "op": "replace",
-    "path": "/99/description",
-    "value": "You can almost feel the sea breeze."
-  },
-  {
-    "op": "replace",
-    "path": "/99/name",
-    "value": "SEASHELL NECKLACE"
-  },
-  {
     "op": "remove",
     "path": "/98/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/98/description",
-    "value": "Even cooler when worn indoors."
-  },
-  {
-    "op": "replace",
-    "path": "/98/name",
-    "value": "COOL GLASSES"
   },
   {
     "op": "remove",
     "path": "/97/damage"
   },
   {
-    "op": "replace",
-    "path": "/97/description",
-    "value": "A headband that is orange."
-  },
-  {
-    "op": "replace",
-    "path": "/97/name",
-    "value": "ORANGE HEADBAND"
-  },
-  {
     "op": "remove",
     "path": "/96/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/96/description",
-    "value": "A headband that is red."
-  },
-  {
-    "op": "replace",
-    "path": "/96/name",
-    "value": "RED HEADBAND"
   },
   {
     "op": "remove",
     "path": "/95/damage"
   },
   {
-    "op": "replace",
-    "path": "/95/description",
-    "value": "A flower on a clip."
-  },
-  {
-    "op": "replace",
-    "path": "/95/name",
-    "value": "FLOWER CLIP"
-  },
-  {
     "op": "remove",
     "path": "/94/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/94/description",
-    "value": "The most loyal rock."
-  },
-  {
-    "op": "replace",
-    "path": "/94/name",
-    "value": "PET ROCK"
   },
   {
     "op": "remove",
     "path": "/93/damage"
   },
   {
-    "op": "replace",
-    "path": "/93/description",
-    "value": "A portable... cat?"
-  },
-  {
-    "op": "replace",
-    "path": "/93/name",
-    "value": "CHIMERA KEYCHAIN"
-  },
-  {
     "op": "remove",
     "path": "/92/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/92/description",
-    "value": "A portable pink cat."
-  },
-  {
-    "op": "replace",
-    "path": "/92/name",
-    "value": "PINK KEYCHAIN"
   },
   {
     "op": "remove",
     "path": "/91/damage"
   },
   {
-    "op": "replace",
-    "path": "/91/description",
-    "value": "A portable green cat."
-  },
-  {
-    "op": "replace",
-    "path": "/91/name",
-    "value": "GREEN KEYCHAIN"
-  },
-  {
     "op": "remove",
     "path": "/90/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/90/description",
-    "value": "A portable yellow cat."
-  },
-  {
-    "op": "replace",
-    "path": "/90/name",
-    "value": "YELLOW KEYCHAIN"
   },
   {
     "op": "remove",
@@ -674,18 +434,8 @@
   },
   {
     "op": "replace",
-    "path": "/89/description",
-    "value": "A yellow springy toy."
-  },
-  {
-    "op": "replace",
     "path": "/89/note",
     "value": "<IconIndex:69>\n<gachaImage:YellowSlinky>\n<gachaNumLot: 2>\n<gachaRank: 3> \n"
-  },
-  {
-    "op": "replace",
-    "path": "/89/name",
-    "value": "YELLOW SLINKY"
   },
   {
     "op": "remove",
@@ -693,18 +443,8 @@
   },
   {
     "op": "replace",
-    "path": "/88/description",
-    "value": "A blue springy toy."
-  },
-  {
-    "op": "replace",
     "path": "/88/note",
     "value": "<IconIndex:69>\n<gachaImage:BlueSlinky>\n<gachaNumLot: 3>\n<gachaRank: 2> \n"
-  },
-  {
-    "op": "replace",
-    "path": "/88/name",
-    "value": "BLUE SLINKY"
   },
   {
     "op": "remove",
@@ -712,111 +452,36 @@
   },
   {
     "op": "replace",
-    "path": "/87/description",
-    "value": "A green springy toy."
-  },
-  {
-    "op": "replace",
     "path": "/87/note",
     "value": "<IconIndex:69>\n<gachaImage:GreenSlinky>\n<gachaNumLot: 4>\n<gachaRank: 1> \n"
-  },
-  {
-    "op": "replace",
-    "path": "/87/name",
-    "value": "GREEN SLINKY"
   },
   {
     "op": "remove",
     "path": "/86/damage"
   },
   {
-    "op": "replace",
-    "path": "/86/description",
-    "value": "A bouncy green ball."
-  },
-  {
-    "op": "replace",
-    "path": "/86/name",
-    "value": "GREEN BALL"
-  },
-  {
     "op": "remove",
     "path": "/85/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/85/description",
-    "value": "A bouncy pink ball."
-  },
-  {
-    "op": "replace",
-    "path": "/85/name",
-    "value": "PINK BALL"
   },
   {
     "op": "remove",
     "path": "/84/damage"
   },
   {
-    "op": "replace",
-    "path": "/84/description",
-    "value": "A bouncy purple ball."
-  },
-  {
-    "op": "replace",
-    "path": "/84/name",
-    "value": "PURPLE BALL"
-  },
-  {
     "op": "remove",
     "path": "/83/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/83/description",
-    "value": "Purple, sticky, and shaped like a hand."
-  },
-  {
-    "op": "replace",
-    "path": "/83/name",
-    "value": "PURPLE HAND"
   },
   {
     "op": "remove",
     "path": "/82/damage"
   },
   {
-    "op": "replace",
-    "path": "/82/description",
-    "value": "Green, sticky, and shaped like a hand."
-  },
-  {
-    "op": "replace",
-    "path": "/82/name",
-    "value": "GREEN HAND"
-  },
-  {
     "op": "remove",
     "path": "/81/damage"
   },
   {
-    "op": "replace",
-    "path": "/81/description",
-    "value": "Red, sticky, and shaped like a hand."
-  },
-  {
-    "op": "replace",
-    "path": "/81/name",
-    "value": "RED HAND"
-  },
-  {
     "op": "remove",
     "path": "/80/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/80/name",
-    "value": "// FAR AWAY TOWN //"
   },
   {
     "op": "add",
@@ -837,135 +502,40 @@
     "path": "/78/damage"
   },
   {
-    "op": "replace",
-    "path": "/78/description",
-    "value": "ABBI's remains. Predicts who a foe<br>\nwill target at the start of battle."
-  },
-  {
-    "op": "replace",
-    "path": "/78/name",
-    "value": "ABBI'S EYE"
-  },
-  {
     "op": "remove",
     "path": "/77/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/77/description",
-    "value": "A precious gift made by BASIL.\nHEART +100, JUICE +25"
-  },
-  {
-    "op": "replace",
-    "path": "/77/name",
-    "value": "FLOWER CROWN"
   },
   {
     "op": "remove",
     "path": "/76/damage"
   },
   {
-    "op": "replace",
-    "path": "/76/description",
-    "value": "A powerful piece of paper.<br>\nTrades HEART and JUICE for other STATS."
-  },
-  {
-    "op": "replace",
-    "path": "/76/name",
-    "value": "CONTRACT"
-  },
-  {
     "op": "remove",
     "path": "/75/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/75/description",
-    "value": "Embodies the spirit of SUMMER.<br>\nHEART +15"
-  },
-  {
-    "op": "replace",
-    "path": "/75/name",
-    "value": "SUNSCREEN"
   },
   {
     "op": "remove",
     "path": "/74/damage"
   },
   {
-    "op": "replace",
-    "path": "/74/description",
-    "value": "Changes channels on the TV.<br>\nDEF +2, HEART +5"
-  },
-  {
-    "op": "replace",
-    "path": "/74/name",
-    "value": "TV REMOTE"
-  },
-  {
     "op": "remove",
     "path": "/73/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/73/description",
-    "value": "The pride of every chef.<br>\nDEF +15, Restores JUICE every turn."
-  },
-  {
-    "op": "replace",
-    "path": "/73/name",
-    "value": "CHEF'S HAT"
   },
   {
     "op": "remove",
     "path": "/72/damage"
   },
   {
-    "op": "replace",
-    "path": "/72/description",
-    "value": "Can change the universe.<br>\nIncreases ALL STATS."
-  },
-  {
-    "op": "replace",
-    "path": "/72/name",
-    "value": "UNIVERSAL REMOTE"
-  },
-  {
     "op": "remove",
     "path": "/71/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/71/description",
-    "value": "Brightens up a room.<br>\nDEF +4"
-  },
-  {
-    "op": "replace",
-    "path": "/71/name",
-    "value": "FLASHLIGHT"
   },
   {
     "op": "remove",
     "path": "/70/damage"
   },
   {
-    "op": "replace",
-    "path": "/70/description",
-    "value": "A fluffy ball of cotton.<br>\nDEF +1, SPD +3"
-  },
-  {
-    "op": "replace",
-    "path": "/70/name",
-    "value": "COTTON BALL"
-  },
-  {
     "op": "remove",
     "path": "/69/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/69/name",
-    "value": "TEDDY BEAR"
   },
   {
     "op": "add",
@@ -977,107 +547,32 @@
     "path": "/68/damage"
   },
   {
-    "op": "replace",
-    "path": "/68/description",
-    "value": "Embodies the spirit of WINTER.<br>\nDEF +3"
-  },
-  {
-    "op": "replace",
-    "path": "/68/name",
-    "value": "SCARF"
-  },
-  {
     "op": "remove",
     "path": "/67/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/67/description",
-    "value": "Embodies the spirit of FALL.<br>\nATK +3"
-  },
-  {
-    "op": "replace",
-    "path": "/67/name",
-    "value": "RAKE"
   },
   {
     "op": "remove",
     "path": "/66/damage"
   },
   {
-    "op": "replace",
-    "path": "/66/description",
-    "value": "Embodies the spirit of SPRING.<br>\nJUICE +10"
-  },
-  {
-    "op": "replace",
-    "path": "/66/name",
-    "value": "WATERING PAIL"
-  },
-  {
     "op": "remove",
     "path": "/65/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/65/description",
-    "value": "A young vegetable.<br>\nHEART +15, JUICE +15"
-  },
-  {
-    "op": "replace",
-    "path": "/65/name",
-    "value": "VEGGIE KID"
   },
   {
     "op": "remove",
     "path": "/64/damage"
   },
   {
-    "op": "replace",
-    "path": "/64/description",
-    "value": "For all your wish-making needs.<br>\nLUCK +7"
-  },
-  {
-    "op": "replace",
-    "path": "/64/name",
-    "value": "WISHBONE"
-  },
-  {
     "op": "remove",
     "path": "/63/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/63/description",
-    "value": "Ruthlessly discarded by SWEETHEART.<br>\nIncreases ALL STATS. Wearer starts HAPPY."
-  },
-  {
-    "op": "replace",
-    "path": "/63/name",
-    "value": "WEDDING RING"
   },
   {
     "op": "remove",
     "path": "/62/damage"
   },
   {
-    "op": "replace",
-    "path": "/62/description",
-    "value": "Can talk, but is very shy.<br>\nStats increase with more ENERGY."
-  },
-  {
-    "op": "replace",
-    "path": "/62/name",
-    "value": "HECTOR JR"
-  },
-  {
     "op": "remove",
     "path": "/61/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/61/name",
-    "value": "PET ROCK"
   },
   {
     "op": "add",
@@ -1089,168 +584,48 @@
     "path": "/60/damage"
   },
   {
-    "op": "replace",
-    "path": "/60/description",
-    "value": "Hope it's not haunted...<br>\nDEF +13, LUCK +13, HEART +13"
-  },
-  {
-    "op": "replace",
-    "path": "/60/name",
-    "value": "TOP HAT"
-  },
-  {
     "op": "remove",
     "path": "/59/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/59/description",
-    "value": "Goggles that know everything.<br>\nDEF +1, LUCK +3, Increases HIT RATE."
-  },
-  {
-    "op": "replace",
-    "path": "/59/name",
-    "value": "SEER GOGGLES"
   },
   {
     "op": "remove",
     "path": "/58/damage"
   },
   {
-    "op": "replace",
-    "path": "/58/description",
-    "value": "To help you remember your friends...<br>\nDEF +5, HEART +25, JUICE +25"
-  },
-  {
-    "op": "replace",
-    "path": "/58/name",
-    "value": "SEASHELL NECKLACE"
-  },
-  {
     "op": "remove",
     "path": "/57/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/57/description",
-    "value": "Who can resist a sale?<br>\nReduces cost of the first SKILL used in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/57/name",
-    "value": "SALES TAG"
   },
   {
     "op": "remove",
     "path": "/56/damage"
   },
   {
-    "op": "replace",
-    "path": "/56/description",
-    "value": "A cute rubber duck. Doesn’t like you very much.<br>\nDEF +7"
-  },
-  {
-    "op": "replace",
-    "path": "/56/name",
-    "value": "RUBBER DUCK"
-  },
-  {
     "op": "remove",
     "path": "/55/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/55/description",
-    "value": "Touches the soul deeply.<br>\nWearer starts SAD in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/55/name",
-    "value": "DEEP POETRY BOOK"
   },
   {
     "op": "remove",
     "path": "/54/damage"
   },
   {
-    "op": "replace",
-    "path": "/54/description",
-    "value": "A pretty red ribbon.<br>\nDEF +5, ATTACK increases with more ENERGY."
-  },
-  {
-    "op": "replace",
-    "path": "/54/name",
-    "value": "RED RIBBON"
-  },
-  {
     "op": "remove",
     "path": "/53/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/53/description",
-    "value": "A little yucky, but keeps you lucky.<br>\nSPD +15, LUCK +10"
-  },
-  {
-    "op": "replace",
-    "path": "/53/name",
-    "value": "RABBIT FOOT"
   },
   {
     "op": "remove",
     "path": "/52/damage"
   },
   {
-    "op": "replace",
-    "path": "/52/description",
-    "value": "Has a picture of KEL on it.<br>\nWearer starts ANGRY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/52/name",
-    "value": "PUNCHING BAG"
-  },
-  {
     "op": "remove",
     "path": "/51/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/51/description",
-    "value": "A polkadot bow. Too flashy for your taste.<br>\nHEART +50, ATK +10, DEF +3"
-  },
-  {
-    "op": "replace",
-    "path": "/51/name",
-    "value": "PRETTY BOW"
   },
   {
     "op": "remove",
     "path": "/50/damage"
   },
   {
-    "op": "replace",
-    "path": "/50/description",
-    "value": "Can talk, but is very shy.<br>\nHe is a good friend."
-  },
-  {
-    "op": "replace",
-    "path": "/50/name",
-    "value": "HECTOR"
-  },
-  {
     "op": "remove",
     "path": "/49/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/49/description",
-    "value": "Wear it over your head.<br>\nDEF +13, HEART +40, Prevents EMOTION."
-  },
-  {
-    "op": "replace",
-    "path": "/49/name",
-    "value": "PAPER BAG"
   },
   {
     "op": "add",
@@ -1266,630 +641,180 @@
     "path": "/48/damage"
   },
   {
-    "op": "replace",
-    "path": "/48/description",
-    "value": "Fashionable and practical.<br>\nDEF +13, HEART +30"
-  },
-  {
-    "op": "replace",
-    "path": "/48/name",
-    "value": "OVEN MITTS"
-  },
-  {
     "op": "remove",
     "path": "/47/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/47/description",
-    "value": "Just one.<br>\nHEART +20, JUICE +20"
-  },
-  {
-    "op": "replace",
-    "path": "/47/name",
-    "value": "ONION RING"
   },
   {
     "op": "remove",
     "path": "/46/damage"
   },
   {
-    "op": "replace",
-    "path": "/46/description",
-    "value": "The pride of every gentleman.<br>\nATK +5, LUCK +10"
-  },
-  {
-    "op": "replace",
-    "path": "/46/name",
-    "value": "MUSTACHE"
-  },
-  {
     "op": "remove",
     "path": "/45/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/45/description",
-    "value": "Designed for the rich and people with one eye.<br>\nALL STATS +1"
-  },
-  {
-    "op": "replace",
-    "path": "/45/name",
-    "value": "MONOCLE"
   },
   {
     "op": "remove",
     "path": "/44/damage"
   },
   {
-    "op": "replace",
-    "path": "/44/description",
-    "value": "Wearer starts battle with a random EMOTION."
-  },
-  {
-    "op": "replace",
-    "path": "/44/name",
-    "value": "MAGICAL BEAN"
-  },
-  {
     "op": "remove",
     "path": "/43/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/43/description",
-    "value": "Prevents TOAST if wearer has more than<br>\n1 HEART. LUCK +10"
-  },
-  {
-    "op": "replace",
-    "path": "/43/name",
-    "value": "LUCKY TOKEN"
   },
   {
     "op": "remove",
     "path": "/42/damage"
   },
   {
-    "op": "replace",
-    "path": "/42/description",
-    "value": "Makes swimming easier, yet harder.<br>\nDEFENSE increases with more ENERGY."
-  },
-  {
-    "op": "replace",
-    "path": "/42/name",
-    "value": "INNER TUBE"
-  },
-  {
     "op": "remove",
     "path": "/41/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/41/description",
-    "value": "The bane of every child's existence.<br>\nWearer starts SAD in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/41/name",
-    "value": "HOMEWORK"
   },
   {
     "op": "remove",
     "path": "/40/damage"
   },
   {
-    "op": "replace",
-    "path": "/40/description",
-    "value": "Makes you taller! KEL would probably like these.<br>\nATK +10, SPD -10"
-  },
-  {
-    "op": "replace",
-    "path": "/40/name",
-    "value": "HIGH HEELS"
-  },
-  {
     "op": "remove",
     "path": "/39/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/39/description",
-    "value": "Fragile. Treat well.<br>\nHEART +30, Wearer starts HAPPY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/39/name",
-    "value": "HEART STRING"
   },
   {
     "op": "remove",
     "path": "/38/damage"
   },
   {
-    "op": "replace",
-    "path": "/38/description",
-    "value": "Used to keep the hair out of your face.<br>\nRaises most STATS."
-  },
-  {
-    "op": "replace",
-    "path": "/38/name",
-    "value": "HEADBAND"
-  },
-  {
     "op": "remove",
     "path": "/37/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/37/description",
-    "value": "More difficult than an easy hat.<br>\nDEF +6"
-  },
-  {
-    "op": "replace",
-    "path": "/37/name",
-    "value": "HARD HAT"
   },
   {
     "op": "remove",
     "path": "/36/damage"
   },
   {
-    "op": "replace",
-    "path": "/36/description",
-    "value": "Definitely 100% gold. You can tell by the weight.<br>\nSPD -10"
-  },
-  {
-    "op": "replace",
-    "path": "/36/name",
-    "value": "GOLD WATCH"
-  },
-  {
     "op": "remove",
     "path": "/35/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/35/description",
-    "value": "Automatically makes you look smarter.<br>\nDEF +5, Increases HIT RATE."
-  },
-  {
-    "op": "replace",
-    "path": "/35/name",
-    "value": "NERDY GLASSES"
   },
   {
     "op": "remove",
     "path": "/34/damage"
   },
   {
-    "op": "replace",
-    "path": "/34/description",
-    "value": "A bracelet that embodies friendship.<br>\nHEART +10, JUICE +10"
-  },
-  {
-    "op": "replace",
-    "path": "/34/name",
-    "value": "FRIENDSHIP BRACELET"
-  },
-  {
     "op": "remove",
     "path": "/33/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/33/description",
-    "value": "A real fox tail!<br>\nSPEED increases with more ENERGY."
-  },
-  {
-    "op": "replace",
-    "path": "/33/name",
-    "value": "FOX TAIL"
   },
   {
     "op": "remove",
     "path": "/32/damage"
   },
   {
-    "op": "replace",
-    "path": "/32/description",
-    "value": "A nice gift.<br>\nDEF +2, Wearer starts HAPPY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/32/name",
-    "value": "FLOWER CLIP"
-  },
-  {
     "op": "remove",
     "path": "/31/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/31/description",
-    "value": "A dismembered finger. Still fresh.<br>\nATK +10, DEF -5, Wearer starts ANGRY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/31/name",
-    "value": "FINGER"
   },
   {
     "op": "remove",
     "path": "/30/damage"
   },
   {
-    "op": "replace",
-    "path": "/30/description",
-    "value": "MR. JAWSUM pulls it off.<br>\nDEF +5, LUCK +5"
-  },
-  {
-    "op": "replace",
-    "path": "/30/name",
-    "value": "FEDORA"
-  },
-  {
     "op": "remove",
     "path": "/29/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/29/description",
-    "value": "Not a real tail.<br>\nSPD +15"
-  },
-  {
-    "op": "replace",
-    "path": "/29/name",
-    "value": "FAUX TAIL"
   },
   {
     "op": "remove",
     "path": "/28/damage"
   },
   {
-    "op": "replace",
-    "path": "/28/description",
-    "value": "The first step to becoming a pirate.<br>\nATK +7, but reduces HIT RATE."
-  },
-  {
-    "op": "replace",
-    "path": "/28/name",
-    "value": "EYE PATCH"
-  },
-  {
     "op": "remove",
     "path": "/27/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/27/description",
-    "value": "A daisy from DAISY.<br>\nHEART +10, Wearer starts HAPPY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/27/name",
-    "value": "DAISY"
   },
   {
     "op": "remove",
     "path": "/26/damage"
   },
   {
-    "op": "replace",
-    "path": "/26/description",
-    "value": "Keeps germs close to your face.<br>\nIncreases ALL STATS."
-  },
-  {
-    "op": "replace",
-    "path": "/26/name",
-    "value": "COUGH MASK"
-  },
-  {
     "op": "remove",
     "path": "/25/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/25/description",
-    "value": "Pretty neat.<br>\nHEART +10"
-  },
-  {
-    "op": "replace",
-    "path": "/25/name",
-    "value": "BOTTLE CAP"
   },
   {
     "op": "remove",
     "path": "/24/damage"
   },
   {
-    "op": "replace",
-    "path": "/24/description",
-    "value": "Even cooler when worn indoors.<br>\nATK +5, DEF +5"
-  },
-  {
-    "op": "replace",
-    "path": "/24/name",
-    "value": "COOL GLASSES"
-  },
-  {
     "op": "remove",
     "path": "/23/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/23/description",
-    "value": "Said to bring great wealth and fortune!<br>\nIncreases CLAMS earned in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/23/name",
-    "value": "CLAM COIN"
   },
   {
     "op": "remove",
     "path": "/22/damage"
   },
   {
-    "op": "replace",
-    "path": "/22/description",
-    "value": "Absolutely indestructible.<br>\nDEF +10"
-  },
-  {
-    "op": "replace",
-    "path": "/22/name",
-    "value": "CELLPHONE"
-  },
-  {
     "op": "remove",
     "path": "/21/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/21/description",
-    "value": "Gives you catlike reflexes!<br>\nDEF +1, SPD +10"
-  },
-  {
-    "op": "replace",
-    "path": "/21/name",
-    "value": "CAT EARS"
   },
   {
     "op": "remove",
     "path": "/20/damage"
   },
   {
-    "op": "replace",
-    "path": "/20/description",
-    "value": "Spiky on the outside, soft on the inside.<br>\nDEF +3, ATK +3"
-  },
-  {
-    "op": "replace",
-    "path": "/20/name",
-    "value": "CACTUS"
-  },
-  {
     "op": "remove",
     "path": "/19/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/19/description",
-    "value": "Helps you hear better.<br>\nDEF +3, SPD +12"
-  },
-  {
-    "op": "replace",
-    "path": "/19/name",
-    "value": "BUNNY EARS"
   },
   {
     "op": "remove",
     "path": "/18/damage"
   },
   {
-    "op": "replace",
-    "path": "/18/description",
-    "value": "Therapeutic packaging.<br>\nDEF +3"
-  },
-  {
-    "op": "replace",
-    "path": "/18/name",
-    "value": "BUBBLE WRAP"
-  },
-  {
     "op": "remove",
     "path": "/17/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/17/description",
-    "value": "Two rolls of bread. HEART +10, DEF + 5<br>\nLIFE JAM will heal more HEART when used in battle. "
-  },
-  {
-    "op": "replace",
-    "path": "/17/name",
-    "value": "BREADPHONES"
   },
   {
     "op": "remove",
     "path": "/16/damage"
   },
   {
-    "op": "replace",
-    "path": "/16/description",
-    "value": "A simple bracelet.<br>\nDEF +1"
-  },
-  {
-    "op": "replace",
-    "path": "/16/name",
-    "value": "BRACELET"
-  },
-  {
     "op": "remove",
     "path": "/15/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/15/description",
-    "value": "A simple and elegant bow.<br>\nDEF +4"
-  },
-  {
-    "op": "replace",
-    "path": "/15/name",
-    "value": "BOW-TIE"
   },
   {
     "op": "remove",
     "path": "/14/damage"
   },
   {
-    "op": "replace",
-    "path": "/14/description",
-    "value": "Contains a wealth of knowledge within it.<br>\nWearer gains more EXP in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/14/name",
-    "value": "BOOK"
-  },
-  {
     "op": "remove",
     "path": "/13/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/13/description",
-    "value": "Soft, fluffy, and protects you from monsters.<br>\nDEF +1, HEART +10"
-  },
-  {
-    "op": "replace",
-    "path": "/13/name",
-    "value": "BLANKET"
   },
   {
     "op": "remove",
     "path": "/12/damage"
   },
   {
-    "op": "replace",
-    "path": "/12/description",
-    "value": "Two noculars. Noculars x2.<br>\nDEF +2, Increases HIT RATE."
-  },
-  {
-    "op": "replace",
-    "path": "/12/name",
-    "value": "BINOCULARS"
-  },
-  {
     "op": "remove",
     "path": "/11/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/11/description",
-    "value": "A mystical hat dating back to 199X.<br>\nDEF +10, SPD +15"
-  },
-  {
-    "op": "replace",
-    "path": "/11/name",
-    "value": "BASEBALL CAP"
   },
   {
     "op": "remove",
     "path": "/10/damage"
   },
   {
-    "op": "replace",
-    "path": "/10/description",
-    "value": "A convenient storage device.<br>\nDEF +2"
-  },
-  {
-    "op": "replace",
-    "path": "/10/name",
-    "value": "BACKPACK"
-  },
-  {
     "op": "remove",
     "path": "/9/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/9/description",
-    "value": "You can't be sad while holding a baby chicken.<br>\nHEART +30, Wearer starts HAPPY in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/9/name",
-    "value": "BABY CHICKEN"
   },
   {
     "op": "remove",
     "path": "/8/damage"
   },
   {
-    "op": "replace",
-    "path": "/8/description",
-    "value": "Does nothing."
-  },
-  {
-    "op": "replace",
-    "path": "/8/name",
-    "value": "APPENDIX"
-  },
-  {
     "op": "remove",
     "path": "/7/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/7/description",
-    "value": "Is it even a clover at this point?<br>\nLUCK increases with more ENERGY."
-  },
-  {
-    "op": "replace",
-    "path": "/7/name",
-    "value": "5-LEAF CLOVER"
   },
   {
     "op": "remove",
     "path": "/6/damage"
   },
   {
-    "op": "replace",
-    "path": "/6/description",
-    "value": "If you find one, it’s supposed to make you lucky!<br>\nLUCK +4, HEART +4"
-  },
-  {
-    "op": "replace",
-    "path": "/6/name",
-    "value": "4-LEAF CLOVER"
-  },
-  {
     "op": "remove",
     "path": "/5/damage"
   },
   {
-    "op": "replace",
-    "path": "/5/description",
-    "value": "Just a regular clover.<br>\nLUCK +3"
-  },
-  {
-    "op": "replace",
-    "path": "/5/name",
-    "value": "3-LEAF CLOVER"
-  },
-  {
     "op": "remove",
     "path": "/4/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/4/description",
-    "value": "Now has one more D than 2D glasses.<br>\nDEF +3"
-  },
-  {
-    "op": "replace",
-    "path": "/4/name",
-    "value": "3D GLASSES"
   },
   {
     "op": "remove",
@@ -1905,23 +830,8 @@
     "path": "/2/damage"
   },
   {
-    "op": "replace",
-    "path": "/2/description",
-    "value": "Most definitely-probably-not-really<br>\nmade of gold. Useless in battle."
-  },
-  {
-    "op": "replace",
-    "path": "/2/name",
-    "value": "\"GOLD\" WATCH"
-  },
-  {
     "op": "remove",
     "path": "/1/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/1/name",
-    "value": "// CHARMS //"
   },
   {
     "op": "add",

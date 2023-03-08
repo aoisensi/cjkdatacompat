@@ -2732,11 +2732,6 @@
     "path": "/16/params"
   },
   {
-    "op": "replace",
-    "path": "/16/name",
-    "value": "BERLY"
-  },
-  {
     "op": "add",
     "path": "/16/battlerName",
     "value": ""
@@ -2902,11 +2897,6 @@
     "path": "/11/params"
   },
   {
-    "op": "replace",
-    "path": "/11/name",
-    "value": "HERO"
-  },
-  {
     "op": "add",
     "path": "/11/battlerName",
     "value": ""
@@ -2935,11 +2925,6 @@
     "path": "/10/params"
   },
   {
-    "op": "replace",
-    "path": "/10/name",
-    "value": "KEL"
-  },
-  {
     "op": "add",
     "path": "/10/battlerName",
     "value": ""
@@ -2966,11 +2951,6 @@
   {
     "op": "remove",
     "path": "/9/params"
-  },
-  {
-    "op": "replace",
-    "path": "/9/name",
-    "value": "AUBREY"
   },
   {
     "op": "add",
@@ -3128,11 +3108,6 @@
     "path": "/4/params"
   },
   {
-    "op": "replace",
-    "path": "/4/name",
-    "value": "HERO"
-  },
-  {
     "op": "add",
     "path": "/4/battlerName",
     "value": ""
@@ -3159,11 +3134,6 @@
   {
     "op": "remove",
     "path": "/3/params"
-  },
-  {
-    "op": "replace",
-    "path": "/3/name",
-    "value": "KEL"
   },
   {
     "op": "add",
@@ -3194,11 +3164,6 @@
     "path": "/2/params"
   },
   {
-    "op": "replace",
-    "path": "/2/name",
-    "value": "AUBREY"
-  },
-  {
     "op": "add",
     "path": "/2/battlerName",
     "value": ""
@@ -3225,11 +3190,6 @@
   {
     "op": "remove",
     "path": "/1/params"
-  },
-  {
-    "op": "replace",
-    "path": "/1/name",
-    "value": "OMORI"
   },
   {
     "op": "add",

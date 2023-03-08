@@ -1,1 +1,3254 @@
-[{"op":"remove","path":"/99/damage"},{"op":"remove","path":"/99/params"},{"op":"add","path":"/99/battlerName","value":""},{"op":"add","path":"/99/faceName","value":""},{"op":"add","path":"/99/nickname","value":""},{"op":"add","path":"/99/profile","value":""},{"op":"remove","path":"/98/damage"},{"op":"remove","path":"/98/params"},{"op":"add","path":"/98/battlerName","value":""},{"op":"add","path":"/98/faceName","value":""},{"op":"add","path":"/98/nickname","value":""},{"op":"add","path":"/98/profile","value":""},{"op":"remove","path":"/97/damage"},{"op":"remove","path":"/97/params"},{"op":"add","path":"/97/battlerName","value":""},{"op":"add","path":"/97/faceName","value":""},{"op":"add","path":"/97/nickname","value":""},{"op":"add","path":"/97/profile","value":""},{"op":"remove","path":"/96/damage"},{"op":"remove","path":"/96/params"},{"op":"add","path":"/96/battlerName","value":""},{"op":"add","path":"/96/characterName","value":""},{"op":"add","path":"/96/faceName","value":""},{"op":"add","path":"/96/nickname","value":""},{"op":"add","path":"/96/profile","value":""},{"op":"remove","path":"/95/damage"},{"op":"remove","path":"/95/params"},{"op":"add","path":"/95/battlerName","value":""},{"op":"add","path":"/95/characterName","value":""},{"op":"add","path":"/95/faceName","value":""},{"op":"add","path":"/95/nickname","value":""},{"op":"add","path":"/95/profile","value":""},{"op":"remove","path":"/94/damage"},{"op":"remove","path":"/94/params"},{"op":"add","path":"/94/battlerName","value":""},{"op":"add","path":"/94/characterName","value":""},{"op":"add","path":"/94/faceName","value":""},{"op":"add","path":"/94/nickname","value":""},{"op":"add","path":"/94/profile","value":""},{"op":"remove","path":"/93/damage"},{"op":"remove","path":"/93/params"},{"op":"add","path":"/93/battlerName","value":""},{"op":"add","path":"/93/characterName","value":""},{"op":"add","path":"/93/faceName","value":""},{"op":"add","path":"/93/nickname","value":""},{"op":"add","path":"/93/profile","value":""},{"op":"remove","path":"/92/damage"},{"op":"remove","path":"/92/params"},{"op":"add","path":"/92/battlerName","value":""},{"op":"add","path":"/92/characterName","value":""},{"op":"add","path":"/92/faceName","value":""},{"op":"add","path":"/92/nickname","value":""},{"op":"add","path":"/92/profile","value":""},{"op":"remove","path":"/91/damage"},{"op":"remove","path":"/91/params"},{"op":"add","path":"/91/battlerName","value":""},{"op":"add","path":"/91/characterName","value":""},{"op":"add","path":"/91/faceName","value":""},{"op":"add","path":"/91/nickname","value":""},{"op":"add","path":"/91/profile","value":""},{"op":"remove","path":"/90/damage"},{"op":"remove","path":"/90/params"},{"op":"add","path":"/90/battlerName","value":""},{"op":"add","path":"/90/characterName","value":""},{"op":"add","path":"/90/faceName","value":""},{"op":"add","path":"/90/nickname","value":""},{"op":"add","path":"/90/profile","value":""},{"op":"remove","path":"/89/damage"},{"op":"remove","path":"/89/params"},{"op":"add","path":"/89/battlerName","value":""},{"op":"add","path":"/89/characterName","value":""},{"op":"add","path":"/89/faceName","value":""},{"op":"add","path":"/89/nickname","value":""},{"op":"add","path":"/89/profile","value":""},{"op":"remove","path":"/88/damage"},{"op":"remove","path":"/88/params"},{"op":"add","path":"/88/battlerName","value":""},{"op":"add","path":"/88/characterName","value":""},{"op":"add","path":"/88/faceName","value":""},{"op":"add","path":"/88/nickname","value":""},{"op":"add","path":"/88/profile","value":""},{"op":"remove","path":"/87/damage"},{"op":"remove","path":"/87/params"},{"op":"add","path":"/87/battlerName","value":""},{"op":"add","path":"/87/characterName","value":""},{"op":"add","path":"/87/faceName","value":""},{"op":"add","path":"/87/nickname","value":""},{"op":"add","path":"/87/profile","value":""},{"op":"remove","path":"/86/damage"},{"op":"remove","path":"/86/params"},{"op":"add","path":"/86/battlerName","value":""},{"op":"add","path":"/86/characterName","value":""},{"op":"add","path":"/86/faceName","value":""},{"op":"add","path":"/86/nickname","value":""},{"op":"add","path":"/86/profile","value":""},{"op":"remove","path":"/85/damage"},{"op":"remove","path":"/85/params"},{"op":"add","path":"/85/battlerName","value":""},{"op":"add","path":"/85/characterName","value":""},{"op":"add","path":"/85/faceName","value":""},{"op":"add","path":"/85/nickname","value":""},{"op":"add","path":"/85/profile","value":""},{"op":"remove","path":"/84/damage"},{"op":"remove","path":"/84/params"},{"op":"add","path":"/84/battlerName","value":""},{"op":"add","path":"/84/characterName","value":""},{"op":"add","path":"/84/faceName","value":""},{"op":"add","path":"/84/nickname","value":""},{"op":"add","path":"/84/profile","value":""},{"op":"remove","path":"/83/damage"},{"op":"remove","path":"/83/params"},{"op":"add","path":"/83/battlerName","value":""},{"op":"add","path":"/83/characterName","value":""},{"op":"add","path":"/83/faceName","value":""},{"op":"add","path":"/83/nickname","value":""},{"op":"add","path":"/83/profile","value":""},{"op":"remove","path":"/82/damage"},{"op":"remove","path":"/82/params"},{"op":"add","path":"/82/battlerName","value":""},{"op":"add","path":"/82/characterName","value":""},{"op":"add","path":"/82/faceName","value":""},{"op":"add","path":"/82/nickname","value":""},{"op":"add","path":"/82/profile","value":""},{"op":"remove","path":"/81/damage"},{"op":"remove","path":"/81/params"},{"op":"add","path":"/81/battlerName","value":""},{"op":"add","path":"/81/characterName","value":""},{"op":"add","path":"/81/faceName","value":""},{"op":"add","path":"/81/nickname","value":""},{"op":"add","path":"/81/profile","value":""},{"op":"remove","path":"/80/damage"},{"op":"remove","path":"/80/params"},{"op":"add","path":"/80/battlerName","value":""},{"op":"add","path":"/80/characterName","value":""},{"op":"add","path":"/80/faceName","value":""},{"op":"add","path":"/80/nickname","value":""},{"op":"add","path":"/80/profile","value":""},{"op":"remove","path":"/79/damage"},{"op":"remove","path":"/79/params"},{"op":"add","path":"/79/battlerName","value":""},{"op":"add","path":"/79/characterName","value":""},{"op":"add","path":"/79/faceName","value":""},{"op":"add","path":"/79/nickname","value":""},{"op":"add","path":"/79/profile","value":""},{"op":"remove","path":"/78/damage"},{"op":"remove","path":"/78/params"},{"op":"add","path":"/78/battlerName","value":""},{"op":"add","path":"/78/characterName","value":""},{"op":"add","path":"/78/faceName","value":""},{"op":"add","path":"/78/nickname","value":""},{"op":"add","path":"/78/profile","value":""},{"op":"remove","path":"/77/damage"},{"op":"remove","path":"/77/params"},{"op":"add","path":"/77/battlerName","value":""},{"op":"add","path":"/77/characterName","value":""},{"op":"add","path":"/77/faceName","value":""},{"op":"add","path":"/77/nickname","value":""},{"op":"add","path":"/77/profile","value":""},{"op":"remove","path":"/76/damage"},{"op":"remove","path":"/76/params"},{"op":"add","path":"/76/battlerName","value":""},{"op":"add","path":"/76/characterName","value":""},{"op":"add","path":"/76/faceName","value":""},{"op":"add","path":"/76/nickname","value":""},{"op":"add","path":"/76/profile","value":""},{"op":"remove","path":"/75/damage"},{"op":"remove","path":"/75/params"},{"op":"add","path":"/75/battlerName","value":""},{"op":"add","path":"/75/characterName","value":""},{"op":"add","path":"/75/faceName","value":""},{"op":"add","path":"/75/nickname","value":""},{"op":"add","path":"/75/profile","value":""},{"op":"remove","path":"/74/damage"},{"op":"remove","path":"/74/params"},{"op":"add","path":"/74/battlerName","value":""},{"op":"add","path":"/74/characterName","value":""},{"op":"add","path":"/74/faceName","value":""},{"op":"add","path":"/74/nickname","value":""},{"op":"add","path":"/74/profile","value":""},{"op":"remove","path":"/73/damage"},{"op":"remove","path":"/73/params"},{"op":"add","path":"/73/battlerName","value":""},{"op":"add","path":"/73/characterName","value":""},{"op":"add","path":"/73/faceName","value":""},{"op":"add","path":"/73/nickname","value":""},{"op":"add","path":"/73/profile","value":""},{"op":"remove","path":"/72/damage"},{"op":"remove","path":"/72/params"},{"op":"add","path":"/72/battlerName","value":""},{"op":"add","path":"/72/characterName","value":""},{"op":"add","path":"/72/faceName","value":""},{"op":"add","path":"/72/nickname","value":""},{"op":"add","path":"/72/profile","value":""},{"op":"remove","path":"/71/damage"},{"op":"remove","path":"/71/params"},{"op":"add","path":"/71/battlerName","value":""},{"op":"add","path":"/71/characterName","value":""},{"op":"add","path":"/71/faceName","value":""},{"op":"add","path":"/71/nickname","value":""},{"op":"add","path":"/71/profile","value":""},{"op":"remove","path":"/70/damage"},{"op":"remove","path":"/70/params"},{"op":"add","path":"/70/battlerName","value":""},{"op":"add","path":"/70/characterName","value":""},{"op":"add","path":"/70/faceName","value":""},{"op":"add","path":"/70/nickname","value":""},{"op":"add","path":"/70/profile","value":""},{"op":"remove","path":"/69/damage"},{"op":"remove","path":"/69/params"},{"op":"add","path":"/69/battlerName","value":""},{"op":"add","path":"/69/characterName","value":""},{"op":"add","path":"/69/faceName","value":""},{"op":"add","path":"/69/nickname","value":""},{"op":"add","path":"/69/profile","value":""},{"op":"remove","path":"/68/damage"},{"op":"remove","path":"/68/params"},{"op":"add","path":"/68/battlerName","value":""},{"op":"add","path":"/68/characterName","value":""},{"op":"add","path":"/68/faceName","value":""},{"op":"add","path":"/68/nickname","value":""},{"op":"add","path":"/68/profile","value":""},{"op":"remove","path":"/67/damage"},{"op":"remove","path":"/67/params"},{"op":"add","path":"/67/battlerName","value":""},{"op":"add","path":"/67/characterName","value":""},{"op":"add","path":"/67/faceName","value":""},{"op":"add","path":"/67/nickname","value":""},{"op":"add","path":"/67/profile","value":""},{"op":"remove","path":"/66/damage"},{"op":"remove","path":"/66/params"},{"op":"add","path":"/66/battlerName","value":""},{"op":"add","path":"/66/characterName","value":""},{"op":"add","path":"/66/faceName","value":""},{"op":"add","path":"/66/nickname","value":""},{"op":"add","path":"/66/profile","value":""},{"op":"remove","path":"/65/damage"},{"op":"remove","path":"/65/params"},{"op":"add","path":"/65/battlerName","value":""},{"op":"add","path":"/65/characterName","value":""},{"op":"add","path":"/65/faceName","value":""},{"op":"add","path":"/65/nickname","value":""},{"op":"add","path":"/65/profile","value":""},{"op":"remove","path":"/64/damage"},{"op":"remove","path":"/64/params"},{"op":"add","path":"/64/battlerName","value":""},{"op":"add","path":"/64/characterName","value":""},{"op":"add","path":"/64/faceName","value":""},{"op":"add","path":"/64/nickname","value":""},{"op":"add","path":"/64/profile","value":""},{"op":"remove","path":"/63/damage"},{"op":"remove","path":"/63/params"},{"op":"add","path":"/63/battlerName","value":""},{"op":"add","path":"/63/characterName","value":""},{"op":"add","path":"/63/faceName","value":""},{"op":"add","path":"/63/nickname","value":""},{"op":"add","path":"/63/profile","value":""},{"op":"remove","path":"/62/damage"},{"op":"remove","path":"/62/params"},{"op":"add","path":"/62/battlerName","value":""},{"op":"add","path":"/62/characterName","value":""},{"op":"add","path":"/62/faceName","value":""},{"op":"add","path":"/62/nickname","value":""},{"op":"add","path":"/62/profile","value":""},{"op":"remove","path":"/61/damage"},{"op":"remove","path":"/61/params"},{"op":"add","path":"/61/battlerName","value":""},{"op":"add","path":"/61/characterName","value":""},{"op":"add","path":"/61/faceName","value":""},{"op":"add","path":"/61/nickname","value":""},{"op":"add","path":"/61/profile","value":""},{"op":"remove","path":"/60/damage"},{"op":"remove","path":"/60/params"},{"op":"add","path":"/60/battlerName","value":""},{"op":"add","path":"/60/characterName","value":""},{"op":"add","path":"/60/faceName","value":""},{"op":"add","path":"/60/nickname","value":""},{"op":"add","path":"/60/profile","value":""},{"op":"remove","path":"/59/damage"},{"op":"remove","path":"/59/params"},{"op":"add","path":"/59/battlerName","value":""},{"op":"add","path":"/59/characterName","value":""},{"op":"add","path":"/59/faceName","value":""},{"op":"add","path":"/59/nickname","value":""},{"op":"add","path":"/59/profile","value":""},{"op":"remove","path":"/58/damage"},{"op":"remove","path":"/58/params"},{"op":"add","path":"/58/battlerName","value":""},{"op":"add","path":"/58/characterName","value":""},{"op":"add","path":"/58/faceName","value":""},{"op":"add","path":"/58/nickname","value":""},{"op":"add","path":"/58/profile","value":""},{"op":"remove","path":"/57/damage"},{"op":"remove","path":"/57/params"},{"op":"add","path":"/57/battlerName","value":""},{"op":"add","path":"/57/characterName","value":""},{"op":"add","path":"/57/faceName","value":""},{"op":"add","path":"/57/nickname","value":""},{"op":"add","path":"/57/profile","value":""},{"op":"remove","path":"/56/damage"},{"op":"remove","path":"/56/params"},{"op":"add","path":"/56/battlerName","value":""},{"op":"add","path":"/56/characterName","value":""},{"op":"add","path":"/56/faceName","value":""},{"op":"add","path":"/56/nickname","value":""},{"op":"add","path":"/56/profile","value":""},{"op":"remove","path":"/55/damage"},{"op":"remove","path":"/55/params"},{"op":"add","path":"/55/battlerName","value":""},{"op":"add","path":"/55/characterName","value":""},{"op":"add","path":"/55/faceName","value":""},{"op":"add","path":"/55/nickname","value":""},{"op":"add","path":"/55/profile","value":""},{"op":"remove","path":"/54/damage"},{"op":"remove","path":"/54/params"},{"op":"add","path":"/54/battlerName","value":""},{"op":"add","path":"/54/characterName","value":""},{"op":"add","path":"/54/faceName","value":""},{"op":"add","path":"/54/nickname","value":""},{"op":"add","path":"/54/profile","value":""},{"op":"remove","path":"/53/damage"},{"op":"remove","path":"/53/params"},{"op":"add","path":"/53/battlerName","value":""},{"op":"add","path":"/53/characterName","value":""},{"op":"add","path":"/53/faceName","value":""},{"op":"add","path":"/53/nickname","value":""},{"op":"add","path":"/53/profile","value":""},{"op":"remove","path":"/52/damage"},{"op":"remove","path":"/52/params"},{"op":"add","path":"/52/battlerName","value":""},{"op":"add","path":"/52/characterName","value":""},{"op":"add","path":"/52/faceName","value":""},{"op":"add","path":"/52/nickname","value":""},{"op":"add","path":"/52/profile","value":""},{"op":"remove","path":"/51/damage"},{"op":"remove","path":"/51/params"},{"op":"add","path":"/51/battlerName","value":""},{"op":"add","path":"/51/characterName","value":""},{"op":"add","path":"/51/faceName","value":""},{"op":"add","path":"/51/nickname","value":""},{"op":"add","path":"/51/profile","value":""},{"op":"remove","path":"/50/damage"},{"op":"remove","path":"/50/params"},{"op":"add","path":"/50/battlerName","value":""},{"op":"add","path":"/50/characterName","value":""},{"op":"add","path":"/50/faceName","value":""},{"op":"add","path":"/50/nickname","value":""},{"op":"add","path":"/50/profile","value":""},{"op":"remove","path":"/49/damage"},{"op":"remove","path":"/49/params"},{"op":"add","path":"/49/battlerName","value":""},{"op":"add","path":"/49/characterName","value":""},{"op":"add","path":"/49/faceName","value":""},{"op":"add","path":"/49/nickname","value":""},{"op":"add","path":"/49/profile","value":""},{"op":"remove","path":"/48/damage"},{"op":"remove","path":"/48/params"},{"op":"add","path":"/48/battlerName","value":""},{"op":"add","path":"/48/characterName","value":""},{"op":"add","path":"/48/faceName","value":""},{"op":"add","path":"/48/nickname","value":""},{"op":"add","path":"/48/profile","value":""},{"op":"remove","path":"/47/damage"},{"op":"remove","path":"/47/params"},{"op":"add","path":"/47/battlerName","value":""},{"op":"add","path":"/47/characterName","value":""},{"op":"add","path":"/47/faceName","value":""},{"op":"add","path":"/47/nickname","value":""},{"op":"add","path":"/47/profile","value":""},{"op":"remove","path":"/46/damage"},{"op":"remove","path":"/46/params"},{"op":"add","path":"/46/battlerName","value":""},{"op":"add","path":"/46/characterName","value":""},{"op":"add","path":"/46/faceName","value":""},{"op":"add","path":"/46/nickname","value":""},{"op":"add","path":"/46/profile","value":""},{"op":"remove","path":"/45/damage"},{"op":"remove","path":"/45/params"},{"op":"add","path":"/45/battlerName","value":""},{"op":"add","path":"/45/characterName","value":""},{"op":"add","path":"/45/faceName","value":""},{"op":"add","path":"/45/nickname","value":""},{"op":"add","path":"/45/profile","value":""},{"op":"remove","path":"/44/damage"},{"op":"remove","path":"/44/params"},{"op":"add","path":"/44/battlerName","value":""},{"op":"add","path":"/44/characterName","value":""},{"op":"add","path":"/44/faceName","value":""},{"op":"add","path":"/44/nickname","value":""},{"op":"add","path":"/44/profile","value":""},{"op":"remove","path":"/43/damage"},{"op":"remove","path":"/43/params"},{"op":"add","path":"/43/battlerName","value":""},{"op":"add","path":"/43/characterName","value":""},{"op":"add","path":"/43/faceName","value":""},{"op":"add","path":"/43/nickname","value":""},{"op":"add","path":"/43/profile","value":""},{"op":"remove","path":"/42/damage"},{"op":"remove","path":"/42/params"},{"op":"add","path":"/42/battlerName","value":""},{"op":"add","path":"/42/characterName","value":""},{"op":"add","path":"/42/faceName","value":""},{"op":"add","path":"/42/nickname","value":""},{"op":"add","path":"/42/profile","value":""},{"op":"remove","path":"/41/damage"},{"op":"remove","path":"/41/params"},{"op":"add","path":"/41/battlerName","value":""},{"op":"add","path":"/41/characterName","value":""},{"op":"add","path":"/41/faceName","value":""},{"op":"add","path":"/41/nickname","value":""},{"op":"add","path":"/41/profile","value":""},{"op":"remove","path":"/40/damage"},{"op":"remove","path":"/40/params"},{"op":"add","path":"/40/battlerName","value":""},{"op":"add","path":"/40/characterName","value":""},{"op":"add","path":"/40/faceName","value":""},{"op":"add","path":"/40/nickname","value":""},{"op":"add","path":"/40/profile","value":""},{"op":"remove","path":"/39/damage"},{"op":"remove","path":"/39/params"},{"op":"add","path":"/39/battlerName","value":""},{"op":"add","path":"/39/characterName","value":""},{"op":"add","path":"/39/faceName","value":""},{"op":"add","path":"/39/nickname","value":""},{"op":"add","path":"/39/profile","value":""},{"op":"remove","path":"/38/damage"},{"op":"remove","path":"/38/params"},{"op":"add","path":"/38/battlerName","value":""},{"op":"add","path":"/38/characterName","value":""},{"op":"add","path":"/38/faceName","value":""},{"op":"add","path":"/38/nickname","value":""},{"op":"add","path":"/38/profile","value":""},{"op":"remove","path":"/37/damage"},{"op":"remove","path":"/37/params"},{"op":"add","path":"/37/battlerName","value":""},{"op":"add","path":"/37/characterName","value":""},{"op":"add","path":"/37/faceName","value":""},{"op":"add","path":"/37/nickname","value":""},{"op":"add","path":"/37/profile","value":""},{"op":"remove","path":"/36/damage"},{"op":"remove","path":"/36/params"},{"op":"add","path":"/36/battlerName","value":""},{"op":"add","path":"/36/characterName","value":""},{"op":"add","path":"/36/faceName","value":""},{"op":"add","path":"/36/nickname","value":""},{"op":"add","path":"/36/profile","value":""},{"op":"remove","path":"/35/damage"},{"op":"remove","path":"/35/params"},{"op":"add","path":"/35/battlerName","value":""},{"op":"add","path":"/35/characterName","value":""},{"op":"add","path":"/35/faceName","value":""},{"op":"add","path":"/35/nickname","value":""},{"op":"add","path":"/35/profile","value":""},{"op":"remove","path":"/34/damage"},{"op":"remove","path":"/34/params"},{"op":"add","path":"/34/battlerName","value":""},{"op":"add","path":"/34/characterName","value":""},{"op":"add","path":"/34/faceName","value":""},{"op":"add","path":"/34/nickname","value":""},{"op":"add","path":"/34/profile","value":""},{"op":"remove","path":"/33/damage"},{"op":"remove","path":"/33/params"},{"op":"add","path":"/33/battlerName","value":""},{"op":"add","path":"/33/characterName","value":""},{"op":"add","path":"/33/faceName","value":""},{"op":"add","path":"/33/nickname","value":""},{"op":"add","path":"/33/profile","value":""},{"op":"remove","path":"/32/damage"},{"op":"remove","path":"/32/params"},{"op":"add","path":"/32/battlerName","value":""},{"op":"add","path":"/32/characterName","value":""},{"op":"add","path":"/32/faceName","value":""},{"op":"add","path":"/32/nickname","value":""},{"op":"add","path":"/32/profile","value":""},{"op":"remove","path":"/31/damage"},{"op":"remove","path":"/31/params"},{"op":"add","path":"/31/battlerName","value":""},{"op":"add","path":"/31/characterName","value":""},{"op":"add","path":"/31/faceName","value":""},{"op":"add","path":"/31/nickname","value":""},{"op":"add","path":"/31/profile","value":""},{"op":"remove","path":"/30/damage"},{"op":"remove","path":"/30/params"},{"op":"add","path":"/30/battlerName","value":""},{"op":"add","path":"/30/characterName","value":""},{"op":"add","path":"/30/faceName","value":""},{"op":"add","path":"/30/nickname","value":""},{"op":"add","path":"/30/profile","value":""},{"op":"remove","path":"/29/damage"},{"op":"remove","path":"/29/params"},{"op":"add","path":"/29/battlerName","value":""},{"op":"add","path":"/29/characterName","value":""},{"op":"add","path":"/29/faceName","value":""},{"op":"add","path":"/29/nickname","value":""},{"op":"add","path":"/29/profile","value":""},{"op":"remove","path":"/28/damage"},{"op":"remove","path":"/28/params"},{"op":"add","path":"/28/battlerName","value":""},{"op":"add","path":"/28/characterName","value":""},{"op":"add","path":"/28/faceName","value":""},{"op":"add","path":"/28/nickname","value":""},{"op":"add","path":"/28/profile","value":""},{"op":"remove","path":"/27/damage"},{"op":"remove","path":"/27/params"},{"op":"add","path":"/27/battlerName","value":""},{"op":"add","path":"/27/characterName","value":""},{"op":"add","path":"/27/faceName","value":""},{"op":"add","path":"/27/nickname","value":""},{"op":"add","path":"/27/profile","value":""},{"op":"remove","path":"/26/damage"},{"op":"remove","path":"/26/params"},{"op":"add","path":"/26/battlerName","value":""},{"op":"add","path":"/26/characterName","value":""},{"op":"add","path":"/26/faceName","value":""},{"op":"add","path":"/26/nickname","value":""},{"op":"add","path":"/26/profile","value":""},{"op":"remove","path":"/25/damage"},{"op":"remove","path":"/25/params"},{"op":"add","path":"/25/battlerName","value":""},{"op":"add","path":"/25/characterName","value":""},{"op":"add","path":"/25/faceName","value":""},{"op":"add","path":"/25/nickname","value":""},{"op":"add","path":"/25/profile","value":""},{"op":"remove","path":"/24/damage"},{"op":"remove","path":"/24/params"},{"op":"add","path":"/24/battlerName","value":""},{"op":"add","path":"/24/characterName","value":""},{"op":"add","path":"/24/faceName","value":""},{"op":"add","path":"/24/nickname","value":""},{"op":"add","path":"/24/profile","value":""},{"op":"remove","path":"/23/damage"},{"op":"remove","path":"/23/params"},{"op":"add","path":"/23/battlerName","value":""},{"op":"add","path":"/23/characterName","value":""},{"op":"add","path":"/23/faceName","value":""},{"op":"add","path":"/23/nickname","value":""},{"op":"add","path":"/23/profile","value":""},{"op":"remove","path":"/22/damage"},{"op":"remove","path":"/22/params"},{"op":"add","path":"/22/battlerName","value":""},{"op":"add","path":"/22/characterName","value":""},{"op":"add","path":"/22/faceName","value":""},{"op":"add","path":"/22/nickname","value":""},{"op":"add","path":"/22/profile","value":""},{"op":"remove","path":"/21/damage"},{"op":"remove","path":"/21/params"},{"op":"add","path":"/21/battlerName","value":""},{"op":"add","path":"/21/characterName","value":""},{"op":"add","path":"/21/faceName","value":""},{"op":"add","path":"/21/nickname","value":""},{"op":"add","path":"/21/profile","value":""},{"op":"remove","path":"/20/damage"},{"op":"remove","path":"/20/params"},{"op":"add","path":"/20/battlerName","value":""},{"op":"add","path":"/20/characterName","value":""},{"op":"add","path":"/20/faceName","value":""},{"op":"add","path":"/20/nickname","value":""},{"op":"add","path":"/20/profile","value":""},{"op":"remove","path":"/19/damage"},{"op":"remove","path":"/19/params"},{"op":"add","path":"/19/battlerName","value":""},{"op":"add","path":"/19/characterName","value":""},{"op":"add","path":"/19/faceName","value":""},{"op":"add","path":"/19/nickname","value":""},{"op":"add","path":"/19/profile","value":""},{"op":"remove","path":"/18/damage"},{"op":"remove","path":"/18/params"},{"op":"add","path":"/18/battlerName","value":""},{"op":"add","path":"/18/characterName","value":""},{"op":"add","path":"/18/faceName","value":""},{"op":"add","path":"/18/nickname","value":""},{"op":"add","path":"/18/profile","value":""},{"op":"remove","path":"/17/damage"},{"op":"remove","path":"/17/params"},{"op":"add","path":"/17/battlerName","value":""},{"op":"add","path":"/17/characterName","value":""},{"op":"add","path":"/17/faceName","value":""},{"op":"add","path":"/17/nickname","value":""},{"op":"add","path":"/17/profile","value":""},{"op":"remove","path":"/16/damage"},{"op":"remove","path":"/16/params"},{"op":"replace","path":"/16/name","value":"BERLY"},{"op":"add","path":"/16/battlerName","value":""},{"op":"add","path":"/16/characterName","value":""},{"op":"add","path":"/16/faceName","value":""},{"op":"add","path":"/16/nickname","value":""},{"op":"add","path":"/16/profile","value":""},{"op":"remove","path":"/15/damage"},{"op":"remove","path":"/15/params"},{"op":"add","path":"/15/battlerName","value":""},{"op":"add","path":"/15/characterName","value":""},{"op":"add","path":"/15/faceName","value":""},{"op":"add","path":"/15/nickname","value":""},{"op":"add","path":"/15/profile","value":""},{"op":"remove","path":"/14/damage"},{"op":"remove","path":"/14/params"},{"op":"add","path":"/14/battlerName","value":""},{"op":"add","path":"/14/characterName","value":""},{"op":"add","path":"/14/faceName","value":""},{"op":"add","path":"/14/nickname","value":""},{"op":"add","path":"/14/profile","value":""},{"op":"remove","path":"/13/damage"},{"op":"remove","path":"/13/params"},{"op":"add","path":"/13/battlerName","value":""},{"op":"add","path":"/13/characterName","value":""},{"op":"add","path":"/13/faceName","value":""},{"op":"add","path":"/13/nickname","value":""},{"op":"add","path":"/13/profile","value":""},{"op":"remove","path":"/12/damage"},{"op":"remove","path":"/12/params"},{"op":"add","path":"/12/battlerName","value":""},{"op":"add","path":"/12/characterName","value":""},{"op":"add","path":"/12/faceName","value":""},{"op":"add","path":"/12/nickname","value":""},{"op":"add","path":"/12/profile","value":""},{"op":"remove","path":"/11/damage"},{"op":"remove","path":"/11/params"},{"op":"replace","path":"/11/name","value":"HERO"},{"op":"add","path":"/11/battlerName","value":""},{"op":"add","path":"/11/faceName","value":""},{"op":"add","path":"/11/nickname","value":""},{"op":"add","path":"/11/profile","value":""},{"op":"remove","path":"/10/damage"},{"op":"remove","path":"/10/params"},{"op":"replace","path":"/10/name","value":"KEL"},{"op":"add","path":"/10/battlerName","value":""},{"op":"add","path":"/10/faceName","value":""},{"op":"add","path":"/10/nickname","value":""},{"op":"add","path":"/10/profile","value":""},{"op":"remove","path":"/9/damage"},{"op":"remove","path":"/9/params"},{"op":"replace","path":"/9/name","value":"AUBREY"},{"op":"add","path":"/9/battlerName","value":""},{"op":"add","path":"/9/faceName","value":""},{"op":"add","path":"/9/nickname","value":""},{"op":"add","path":"/9/profile","value":""},{"op":"remove","path":"/8/damage"},{"op":"remove","path":"/8/params"},{"op":"add","path":"/8/battlerName","value":""},{"op":"add","path":"/8/faceName","value":""},{"op":"add","path":"/8/nickname","value":""},{"op":"add","path":"/8/profile","value":""},{"op":"remove","path":"/7/damage"},{"op":"remove","path":"/7/params"},{"op":"add","path":"/7/battlerName","value":""},{"op":"add","path":"/7/characterName","value":""},{"op":"add","path":"/7/faceName","value":""},{"op":"add","path":"/7/nickname","value":""},{"op":"add","path":"/7/profile","value":""},{"op":"remove","path":"/6/damage"},{"op":"remove","path":"/6/params"},{"op":"add","path":"/6/battlerName","value":""},{"op":"add","path":"/6/characterName","value":""},{"op":"add","path":"/6/faceName","value":""},{"op":"add","path":"/6/nickname","value":""},{"op":"add","path":"/6/profile","value":""},{"op":"remove","path":"/5/damage"},{"op":"remove","path":"/5/params"},{"op":"add","path":"/5/battlerName","value":""},{"op":"add","path":"/5/characterName","value":""},{"op":"add","path":"/5/faceName","value":""},{"op":"add","path":"/5/nickname","value":""},{"op":"add","path":"/5/profile","value":""},{"op":"remove","path":"/4/damage"},{"op":"remove","path":"/4/params"},{"op":"replace","path":"/4/name","value":"HERO"},{"op":"add","path":"/4/battlerName","value":""},{"op":"add","path":"/4/faceName","value":""},{"op":"add","path":"/4/nickname","value":""},{"op":"add","path":"/4/profile","value":""},{"op":"remove","path":"/3/damage"},{"op":"remove","path":"/3/params"},{"op":"replace","path":"/3/name","value":"KEL"},{"op":"add","path":"/3/battlerName","value":""},{"op":"add","path":"/3/faceName","value":""},{"op":"add","path":"/3/nickname","value":""},{"op":"add","path":"/3/profile","value":""},{"op":"remove","path":"/2/damage"},{"op":"remove","path":"/2/params"},{"op":"replace","path":"/2/name","value":"AUBREY"},{"op":"add","path":"/2/battlerName","value":""},{"op":"add","path":"/2/faceName","value":""},{"op":"add","path":"/2/nickname","value":""},{"op":"add","path":"/2/profile","value":""},{"op":"remove","path":"/1/damage"},{"op":"remove","path":"/1/params"},{"op":"replace","path":"/1/name","value":"OMORI"},{"op":"add","path":"/1/battlerName","value":""},{"op":"add","path":"/1/faceName","value":""},{"op":"add","path":"/1/nickname","value":""},{"op":"add","path":"/1/profile","value":""}]
+[
+  {
+    "op": "remove",
+    "path": "/99/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/99/params"
+  },
+  {
+    "op": "add",
+    "path": "/99/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/99/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/99/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/99/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/98/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/98/params"
+  },
+  {
+    "op": "add",
+    "path": "/98/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/98/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/98/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/98/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/97/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/97/params"
+  },
+  {
+    "op": "add",
+    "path": "/97/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/97/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/97/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/97/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/96/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/96/params"
+  },
+  {
+    "op": "add",
+    "path": "/96/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/96/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/96/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/96/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/96/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/95/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/95/params"
+  },
+  {
+    "op": "add",
+    "path": "/95/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/95/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/95/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/95/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/95/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/94/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/94/params"
+  },
+  {
+    "op": "add",
+    "path": "/94/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/94/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/94/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/94/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/94/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/93/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/93/params"
+  },
+  {
+    "op": "add",
+    "path": "/93/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/93/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/93/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/93/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/93/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/92/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/92/params"
+  },
+  {
+    "op": "add",
+    "path": "/92/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/92/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/92/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/92/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/92/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/91/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/91/params"
+  },
+  {
+    "op": "add",
+    "path": "/91/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/91/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/91/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/91/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/91/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/90/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/90/params"
+  },
+  {
+    "op": "add",
+    "path": "/90/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/90/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/90/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/90/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/90/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/89/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/89/params"
+  },
+  {
+    "op": "add",
+    "path": "/89/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/89/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/89/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/89/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/89/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/88/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/88/params"
+  },
+  {
+    "op": "add",
+    "path": "/88/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/88/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/88/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/88/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/88/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/87/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/87/params"
+  },
+  {
+    "op": "add",
+    "path": "/87/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/87/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/87/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/87/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/87/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/86/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/86/params"
+  },
+  {
+    "op": "add",
+    "path": "/86/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/86/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/86/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/86/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/86/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/85/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/85/params"
+  },
+  {
+    "op": "add",
+    "path": "/85/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/85/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/85/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/85/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/85/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/84/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/84/params"
+  },
+  {
+    "op": "add",
+    "path": "/84/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/84/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/84/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/84/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/84/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/83/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/83/params"
+  },
+  {
+    "op": "add",
+    "path": "/83/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/83/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/83/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/83/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/83/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/82/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/82/params"
+  },
+  {
+    "op": "add",
+    "path": "/82/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/82/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/82/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/82/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/82/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/81/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/81/params"
+  },
+  {
+    "op": "add",
+    "path": "/81/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/81/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/81/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/81/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/81/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/80/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/80/params"
+  },
+  {
+    "op": "add",
+    "path": "/80/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/80/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/80/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/80/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/80/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/79/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/79/params"
+  },
+  {
+    "op": "add",
+    "path": "/79/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/79/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/79/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/79/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/79/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/78/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/78/params"
+  },
+  {
+    "op": "add",
+    "path": "/78/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/78/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/78/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/78/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/78/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/77/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/77/params"
+  },
+  {
+    "op": "add",
+    "path": "/77/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/77/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/77/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/77/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/77/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/76/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/76/params"
+  },
+  {
+    "op": "add",
+    "path": "/76/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/76/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/76/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/76/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/76/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/75/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/75/params"
+  },
+  {
+    "op": "add",
+    "path": "/75/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/75/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/75/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/75/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/75/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/74/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/74/params"
+  },
+  {
+    "op": "add",
+    "path": "/74/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/74/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/74/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/74/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/74/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/73/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/73/params"
+  },
+  {
+    "op": "add",
+    "path": "/73/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/73/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/73/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/73/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/73/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/72/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/72/params"
+  },
+  {
+    "op": "add",
+    "path": "/72/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/72/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/72/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/72/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/72/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/71/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/71/params"
+  },
+  {
+    "op": "add",
+    "path": "/71/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/71/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/71/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/71/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/71/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/70/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/70/params"
+  },
+  {
+    "op": "add",
+    "path": "/70/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/70/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/70/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/70/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/70/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/69/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/69/params"
+  },
+  {
+    "op": "add",
+    "path": "/69/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/69/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/69/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/69/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/69/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/68/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/68/params"
+  },
+  {
+    "op": "add",
+    "path": "/68/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/68/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/68/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/68/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/68/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/67/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/67/params"
+  },
+  {
+    "op": "add",
+    "path": "/67/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/67/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/67/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/67/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/67/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/66/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/66/params"
+  },
+  {
+    "op": "add",
+    "path": "/66/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/66/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/66/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/66/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/66/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/65/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/65/params"
+  },
+  {
+    "op": "add",
+    "path": "/65/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/65/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/65/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/65/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/65/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/64/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/64/params"
+  },
+  {
+    "op": "add",
+    "path": "/64/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/64/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/64/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/64/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/64/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/63/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/63/params"
+  },
+  {
+    "op": "add",
+    "path": "/63/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/63/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/63/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/63/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/63/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/62/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/62/params"
+  },
+  {
+    "op": "add",
+    "path": "/62/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/62/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/62/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/62/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/62/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/61/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/61/params"
+  },
+  {
+    "op": "add",
+    "path": "/61/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/61/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/61/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/61/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/61/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/60/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/60/params"
+  },
+  {
+    "op": "add",
+    "path": "/60/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/60/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/60/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/60/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/60/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/59/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/59/params"
+  },
+  {
+    "op": "add",
+    "path": "/59/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/59/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/59/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/59/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/59/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/58/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/58/params"
+  },
+  {
+    "op": "add",
+    "path": "/58/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/58/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/58/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/58/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/58/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/57/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/57/params"
+  },
+  {
+    "op": "add",
+    "path": "/57/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/57/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/57/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/57/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/57/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/56/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/56/params"
+  },
+  {
+    "op": "add",
+    "path": "/56/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/56/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/56/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/56/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/56/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/55/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/55/params"
+  },
+  {
+    "op": "add",
+    "path": "/55/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/55/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/55/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/55/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/55/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/54/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/54/params"
+  },
+  {
+    "op": "add",
+    "path": "/54/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/54/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/54/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/54/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/54/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/53/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/53/params"
+  },
+  {
+    "op": "add",
+    "path": "/53/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/53/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/53/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/53/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/53/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/52/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/52/params"
+  },
+  {
+    "op": "add",
+    "path": "/52/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/52/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/52/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/52/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/52/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/51/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/51/params"
+  },
+  {
+    "op": "add",
+    "path": "/51/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/51/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/51/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/51/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/51/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/50/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/50/params"
+  },
+  {
+    "op": "add",
+    "path": "/50/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/50/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/50/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/50/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/50/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/49/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/49/params"
+  },
+  {
+    "op": "add",
+    "path": "/49/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/49/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/49/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/49/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/49/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/48/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/48/params"
+  },
+  {
+    "op": "add",
+    "path": "/48/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/48/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/48/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/48/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/48/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/47/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/47/params"
+  },
+  {
+    "op": "add",
+    "path": "/47/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/47/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/47/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/47/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/47/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/46/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/46/params"
+  },
+  {
+    "op": "add",
+    "path": "/46/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/46/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/46/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/46/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/46/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/45/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/45/params"
+  },
+  {
+    "op": "add",
+    "path": "/45/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/45/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/45/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/45/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/45/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/44/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/44/params"
+  },
+  {
+    "op": "add",
+    "path": "/44/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/44/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/44/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/44/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/44/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/43/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/43/params"
+  },
+  {
+    "op": "add",
+    "path": "/43/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/43/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/43/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/43/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/43/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/42/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/42/params"
+  },
+  {
+    "op": "add",
+    "path": "/42/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/42/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/42/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/42/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/42/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/41/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/41/params"
+  },
+  {
+    "op": "add",
+    "path": "/41/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/41/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/41/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/41/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/41/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/40/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/40/params"
+  },
+  {
+    "op": "add",
+    "path": "/40/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/40/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/40/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/40/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/40/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/39/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/39/params"
+  },
+  {
+    "op": "add",
+    "path": "/39/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/39/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/39/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/39/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/39/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/38/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/38/params"
+  },
+  {
+    "op": "add",
+    "path": "/38/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/38/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/38/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/38/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/38/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/37/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/37/params"
+  },
+  {
+    "op": "add",
+    "path": "/37/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/37/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/37/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/37/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/37/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/36/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/36/params"
+  },
+  {
+    "op": "add",
+    "path": "/36/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/36/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/36/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/36/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/36/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/35/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/35/params"
+  },
+  {
+    "op": "add",
+    "path": "/35/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/35/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/35/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/35/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/35/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/34/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/34/params"
+  },
+  {
+    "op": "add",
+    "path": "/34/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/34/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/34/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/34/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/34/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/33/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/33/params"
+  },
+  {
+    "op": "add",
+    "path": "/33/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/33/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/33/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/33/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/33/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/32/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/32/params"
+  },
+  {
+    "op": "add",
+    "path": "/32/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/32/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/32/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/32/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/32/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/31/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/31/params"
+  },
+  {
+    "op": "add",
+    "path": "/31/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/31/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/31/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/31/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/31/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/30/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/30/params"
+  },
+  {
+    "op": "add",
+    "path": "/30/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/30/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/30/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/30/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/30/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/29/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/29/params"
+  },
+  {
+    "op": "add",
+    "path": "/29/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/29/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/29/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/29/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/29/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/28/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/28/params"
+  },
+  {
+    "op": "add",
+    "path": "/28/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/28/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/28/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/28/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/28/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/27/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/27/params"
+  },
+  {
+    "op": "add",
+    "path": "/27/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/27/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/27/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/27/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/27/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/26/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/26/params"
+  },
+  {
+    "op": "add",
+    "path": "/26/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/26/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/26/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/26/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/26/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/25/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/25/params"
+  },
+  {
+    "op": "add",
+    "path": "/25/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/25/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/25/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/25/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/25/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/24/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/24/params"
+  },
+  {
+    "op": "add",
+    "path": "/24/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/24/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/24/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/24/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/24/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/23/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/23/params"
+  },
+  {
+    "op": "add",
+    "path": "/23/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/23/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/23/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/23/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/23/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/22/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/22/params"
+  },
+  {
+    "op": "add",
+    "path": "/22/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/22/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/22/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/22/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/22/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/21/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/21/params"
+  },
+  {
+    "op": "add",
+    "path": "/21/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/21/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/21/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/21/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/21/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/20/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/20/params"
+  },
+  {
+    "op": "add",
+    "path": "/20/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/20/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/20/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/20/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/20/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/19/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/19/params"
+  },
+  {
+    "op": "add",
+    "path": "/19/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/19/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/19/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/19/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/19/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/18/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/18/params"
+  },
+  {
+    "op": "add",
+    "path": "/18/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/18/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/18/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/18/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/18/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/17/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/17/params"
+  },
+  {
+    "op": "add",
+    "path": "/17/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/17/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/17/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/17/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/17/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/16/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/16/params"
+  },
+  {
+    "op": "replace",
+    "path": "/16/name",
+    "value": "BERLY"
+  },
+  {
+    "op": "add",
+    "path": "/16/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/16/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/16/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/16/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/16/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/15/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/15/params"
+  },
+  {
+    "op": "add",
+    "path": "/15/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/15/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/15/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/15/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/15/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/14/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/14/params"
+  },
+  {
+    "op": "add",
+    "path": "/14/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/14/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/14/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/14/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/14/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/13/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/13/params"
+  },
+  {
+    "op": "add",
+    "path": "/13/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/13/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/13/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/13/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/13/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/12/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/12/params"
+  },
+  {
+    "op": "add",
+    "path": "/12/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/12/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/12/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/12/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/12/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/11/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/11/params"
+  },
+  {
+    "op": "replace",
+    "path": "/11/name",
+    "value": "HERO"
+  },
+  {
+    "op": "add",
+    "path": "/11/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/11/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/11/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/11/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/10/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/10/params"
+  },
+  {
+    "op": "replace",
+    "path": "/10/name",
+    "value": "KEL"
+  },
+  {
+    "op": "add",
+    "path": "/10/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/10/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/10/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/10/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/9/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/9/params"
+  },
+  {
+    "op": "replace",
+    "path": "/9/name",
+    "value": "AUBREY"
+  },
+  {
+    "op": "add",
+    "path": "/9/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/9/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/9/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/9/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/8/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/8/params"
+  },
+  {
+    "op": "add",
+    "path": "/8/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/8/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/8/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/8/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/7/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/7/params"
+  },
+  {
+    "op": "add",
+    "path": "/7/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/7/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/7/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/7/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/7/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/6/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/6/params"
+  },
+  {
+    "op": "add",
+    "path": "/6/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/6/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/6/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/6/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/6/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/5/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/5/params"
+  },
+  {
+    "op": "add",
+    "path": "/5/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/5/characterName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/5/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/5/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/5/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/4/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/4/params"
+  },
+  {
+    "op": "replace",
+    "path": "/4/name",
+    "value": "HERO"
+  },
+  {
+    "op": "add",
+    "path": "/4/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/4/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/4/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/4/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/3/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/3/params"
+  },
+  {
+    "op": "replace",
+    "path": "/3/name",
+    "value": "KEL"
+  },
+  {
+    "op": "add",
+    "path": "/3/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/3/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/3/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/3/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/2/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/2/params"
+  },
+  {
+    "op": "replace",
+    "path": "/2/name",
+    "value": "AUBREY"
+  },
+  {
+    "op": "add",
+    "path": "/2/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/2/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/2/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/2/profile",
+    "value": ""
+  },
+  {
+    "op": "remove",
+    "path": "/1/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/1/params"
+  },
+  {
+    "op": "replace",
+    "path": "/1/name",
+    "value": "OMORI"
+  },
+  {
+    "op": "add",
+    "path": "/1/battlerName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/1/faceName",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/1/nickname",
+    "value": ""
+  },
+  {
+    "op": "add",
+    "path": "/1/profile",
+    "value": ""
+  }
+]

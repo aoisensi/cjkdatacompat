@@ -1,1 +1,62 @@
-[{"op":"replace","path":"/weaponTypes/4","value":"HERO"},{"op":"replace","path":"/weaponTypes/3","value":"KEL"},{"op":"replace","path":"/weaponTypes/2","value":"AUBREY"},{"op":"replace","path":"/weaponTypes/1","value":"OMORI"},{"op":"replace","path":"/variables/2000","value":"SWEET STATUE COMPLETED"},{"op":"replace","path":"/testTroopId","value":223},{"op":"replace","path":"/switches/2000","value":"OMORI SECOND CHANCE"},{"op":"replace","path":"/switches/390","value":"SNALEY GONE"},{"op":"replace","path":"/switches/387","value":"SNALEY HIGHWAY 3"},{"op":"replace","path":"/switches/386","value":"SNALEY HIGHWAY 2"},{"op":"replace","path":"/switches/385","value":"SNALEY HIGHWAY"},{"op":"replace","path":"/currencyUnit","value":" CLAMS"}]
+[
+  {
+    "op": "replace",
+    "path": "/weaponTypes/4",
+    "value": "HERO"
+  },
+  {
+    "op": "replace",
+    "path": "/weaponTypes/3",
+    "value": "KEL"
+  },
+  {
+    "op": "replace",
+    "path": "/weaponTypes/2",
+    "value": "AUBREY"
+  },
+  {
+    "op": "replace",
+    "path": "/weaponTypes/1",
+    "value": "OMORI"
+  },
+  {
+    "op": "replace",
+    "path": "/variables/2000",
+    "value": "SWEET STATUE COMPLETED"
+  },
+  {
+    "op": "replace",
+    "path": "/testTroopId",
+    "value": 223
+  },
+  {
+    "op": "replace",
+    "path": "/switches/2000",
+    "value": "OMORI SECOND CHANCE"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/390",
+    "value": "SNALEY GONE"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/387",
+    "value": "SNALEY HIGHWAY 3"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/386",
+    "value": "SNALEY HIGHWAY 2"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/385",
+    "value": "SNALEY HIGHWAY"
+  },
+  {
+    "op": "replace",
+    "path": "/currencyUnit",
+    "value": " CLAMS"
+  }
+]

@@ -1,1 +1,5199 @@
-[{"op":"remove","path":"/600/damage"},{"op":"remove","path":"/600/params"},{"op":"remove","path":"/599/damage"},{"op":"remove","path":"/599/params"},{"op":"remove","path":"/598/damage"},{"op":"remove","path":"/598/params"},{"op":"remove","path":"/597/damage"},{"op":"remove","path":"/597/params"},{"op":"remove","path":"/596/damage"},{"op":"remove","path":"/596/params"},{"op":"remove","path":"/595/damage"},{"op":"remove","path":"/595/params"},{"op":"remove","path":"/594/damage"},{"op":"remove","path":"/594/params"},{"op":"remove","path":"/593/damage"},{"op":"remove","path":"/593/params"},{"op":"remove","path":"/592/damage"},{"op":"remove","path":"/592/params"},{"op":"remove","path":"/591/damage"},{"op":"remove","path":"/591/params"},{"op":"remove","path":"/590/damage"},{"op":"remove","path":"/590/params"},{"op":"remove","path":"/589/damage"},{"op":"remove","path":"/589/params"},{"op":"remove","path":"/588/damage"},{"op":"remove","path":"/588/params"},{"op":"remove","path":"/587/damage"},{"op":"remove","path":"/587/params"},{"op":"remove","path":"/586/damage"},{"op":"remove","path":"/586/params"},{"op":"remove","path":"/585/damage"},{"op":"remove","path":"/585/params"},{"op":"remove","path":"/584/damage"},{"op":"remove","path":"/584/params"},{"op":"remove","path":"/583/damage"},{"op":"remove","path":"/583/params"},{"op":"remove","path":"/582/damage"},{"op":"remove","path":"/582/params"},{"op":"remove","path":"/581/damage"},{"op":"remove","path":"/581/params"},{"op":"remove","path":"/580/damage"},{"op":"remove","path":"/580/params"},{"op":"remove","path":"/579/damage"},{"op":"remove","path":"/579/params"},{"op":"remove","path":"/578/damage"},{"op":"remove","path":"/578/params"},{"op":"remove","path":"/577/damage"},{"op":"remove","path":"/577/params"},{"op":"remove","path":"/576/damage"},{"op":"remove","path":"/576/params"},{"op":"remove","path":"/575/damage"},{"op":"remove","path":"/575/params"},{"op":"remove","path":"/574/damage"},{"op":"remove","path":"/574/params"},{"op":"remove","path":"/573/damage"},{"op":"remove","path":"/573/params"},{"op":"remove","path":"/572/damage"},{"op":"remove","path":"/572/params"},{"op":"remove","path":"/571/damage"},{"op":"remove","path":"/571/params"},{"op":"remove","path":"/570/damage"},{"op":"remove","path":"/570/params"},{"op":"remove","path":"/569/damage"},{"op":"remove","path":"/569/params"},{"op":"remove","path":"/568/damage"},{"op":"remove","path":"/568/params"},{"op":"remove","path":"/567/damage"},{"op":"remove","path":"/567/params"},{"op":"remove","path":"/566/damage"},{"op":"remove","path":"/566/params"},{"op":"remove","path":"/565/damage"},{"op":"remove","path":"/565/params"},{"op":"remove","path":"/564/damage"},{"op":"remove","path":"/564/params"},{"op":"remove","path":"/563/damage"},{"op":"remove","path":"/563/params"},{"op":"remove","path":"/562/damage"},{"op":"remove","path":"/562/params"},{"op":"remove","path":"/561/damage"},{"op":"remove","path":"/561/params"},{"op":"remove","path":"/560/damage"},{"op":"remove","path":"/560/params"},{"op":"remove","path":"/559/damage"},{"op":"remove","path":"/559/params"},{"op":"remove","path":"/558/damage"},{"op":"remove","path":"/558/params"},{"op":"remove","path":"/557/damage"},{"op":"remove","path":"/557/params"},{"op":"remove","path":"/556/damage"},{"op":"remove","path":"/556/params"},{"op":"remove","path":"/555/damage"},{"op":"remove","path":"/555/params"},{"op":"remove","path":"/554/damage"},{"op":"remove","path":"/554/params"},{"op":"remove","path":"/553/damage"},{"op":"remove","path":"/553/params"},{"op":"remove","path":"/552/damage"},{"op":"remove","path":"/552/params"},{"op":"remove","path":"/551/damage"},{"op":"remove","path":"/551/params"},{"op":"remove","path":"/550/damage"},{"op":"remove","path":"/550/params"},{"op":"remove","path":"/549/damage"},{"op":"remove","path":"/549/params"},{"op":"remove","path":"/548/damage"},{"op":"remove","path":"/548/params"},{"op":"remove","path":"/547/damage"},{"op":"remove","path":"/547/params"},{"op":"remove","path":"/546/damage"},{"op":"remove","path":"/546/params"},{"op":"remove","path":"/545/damage"},{"op":"remove","path":"/545/params"},{"op":"remove","path":"/544/damage"},{"op":"remove","path":"/544/params"},{"op":"remove","path":"/543/damage"},{"op":"remove","path":"/543/params"},{"op":"remove","path":"/542/damage"},{"op":"remove","path":"/542/params"},{"op":"remove","path":"/541/damage"},{"op":"remove","path":"/541/params"},{"op":"remove","path":"/540/damage"},{"op":"remove","path":"/540/params"},{"op":"remove","path":"/539/damage"},{"op":"remove","path":"/539/params"},{"op":"remove","path":"/538/damage"},{"op":"remove","path":"/538/params"},{"op":"remove","path":"/537/damage"},{"op":"remove","path":"/537/params"},{"op":"remove","path":"/536/damage"},{"op":"remove","path":"/536/params"},{"op":"remove","path":"/535/damage"},{"op":"remove","path":"/535/params"},{"op":"remove","path":"/534/damage"},{"op":"remove","path":"/534/params"},{"op":"remove","path":"/533/damage"},{"op":"remove","path":"/533/params"},{"op":"remove","path":"/532/damage"},{"op":"remove","path":"/532/params"},{"op":"remove","path":"/531/damage"},{"op":"remove","path":"/531/params"},{"op":"remove","path":"/530/damage"},{"op":"remove","path":"/530/params"},{"op":"remove","path":"/529/damage"},{"op":"remove","path":"/529/params"},{"op":"remove","path":"/528/damage"},{"op":"remove","path":"/528/params"},{"op":"remove","path":"/527/damage"},{"op":"remove","path":"/527/params"},{"op":"remove","path":"/526/damage"},{"op":"remove","path":"/526/params"},{"op":"remove","path":"/525/damage"},{"op":"remove","path":"/525/params"},{"op":"remove","path":"/524/damage"},{"op":"remove","path":"/524/params"},{"op":"remove","path":"/523/damage"},{"op":"remove","path":"/523/params"},{"op":"remove","path":"/522/damage"},{"op":"remove","path":"/522/params"},{"op":"remove","path":"/521/damage"},{"op":"remove","path":"/521/params"},{"op":"remove","path":"/520/damage"},{"op":"remove","path":"/520/params"},{"op":"remove","path":"/519/damage"},{"op":"remove","path":"/519/params"},{"op":"remove","path":"/518/damage"},{"op":"remove","path":"/518/params"},{"op":"remove","path":"/517/damage"},{"op":"remove","path":"/517/params"},{"op":"remove","path":"/516/damage"},{"op":"remove","path":"/516/params"},{"op":"remove","path":"/515/damage"},{"op":"remove","path":"/515/params"},{"op":"remove","path":"/514/damage"},{"op":"remove","path":"/514/params"},{"op":"remove","path":"/513/damage"},{"op":"remove","path":"/513/params"},{"op":"remove","path":"/512/damage"},{"op":"remove","path":"/512/params"},{"op":"remove","path":"/511/damage"},{"op":"remove","path":"/511/params"},{"op":"remove","path":"/510/damage"},{"op":"remove","path":"/510/params"},{"op":"remove","path":"/509/damage"},{"op":"remove","path":"/509/params"},{"op":"remove","path":"/508/damage"},{"op":"remove","path":"/508/params"},{"op":"remove","path":"/507/damage"},{"op":"remove","path":"/507/params"},{"op":"remove","path":"/506/damage"},{"op":"remove","path":"/506/params"},{"op":"remove","path":"/505/damage"},{"op":"remove","path":"/505/params"},{"op":"remove","path":"/504/damage"},{"op":"remove","path":"/504/params"},{"op":"remove","path":"/503/damage"},{"op":"remove","path":"/503/params"},{"op":"remove","path":"/502/damage"},{"op":"remove","path":"/502/params"},{"op":"remove","path":"/501/damage"},{"op":"remove","path":"/501/params"},{"op":"remove","path":"/500/damage"},{"op":"remove","path":"/500/params"},{"op":"remove","path":"/499/damage"},{"op":"remove","path":"/499/params"},{"op":"remove","path":"/498/damage"},{"op":"remove","path":"/498/params"},{"op":"remove","path":"/497/damage"},{"op":"remove","path":"/497/params"},{"op":"remove","path":"/496/damage"},{"op":"remove","path":"/496/params"},{"op":"remove","path":"/495/damage"},{"op":"remove","path":"/495/params"},{"op":"remove","path":"/494/damage"},{"op":"remove","path":"/494/params"},{"op":"remove","path":"/493/damage"},{"op":"remove","path":"/493/params"},{"op":"remove","path":"/492/damage"},{"op":"remove","path":"/492/params"},{"op":"remove","path":"/491/damage"},{"op":"remove","path":"/491/params"},{"op":"remove","path":"/490/damage"},{"op":"remove","path":"/490/params"},{"op":"remove","path":"/489/damage"},{"op":"remove","path":"/489/params"},{"op":"remove","path":"/488/damage"},{"op":"remove","path":"/488/params"},{"op":"remove","path":"/487/damage"},{"op":"remove","path":"/487/params"},{"op":"remove","path":"/486/damage"},{"op":"remove","path":"/486/params"},{"op":"remove","path":"/485/damage"},{"op":"remove","path":"/485/params"},{"op":"remove","path":"/484/damage"},{"op":"remove","path":"/484/params"},{"op":"remove","path":"/483/damage"},{"op":"remove","path":"/483/params"},{"op":"remove","path":"/482/damage"},{"op":"remove","path":"/482/params"},{"op":"remove","path":"/481/damage"},{"op":"remove","path":"/481/params"},{"op":"remove","path":"/480/damage"},{"op":"remove","path":"/480/params"},{"op":"remove","path":"/479/damage"},{"op":"remove","path":"/479/params"},{"op":"remove","path":"/478/damage"},{"op":"remove","path":"/478/params"},{"op":"remove","path":"/477/damage"},{"op":"remove","path":"/477/params"},{"op":"remove","path":"/476/damage"},{"op":"remove","path":"/476/params"},{"op":"remove","path":"/475/damage"},{"op":"remove","path":"/475/params"},{"op":"remove","path":"/474/damage"},{"op":"remove","path":"/474/params"},{"op":"remove","path":"/473/damage"},{"op":"remove","path":"/473/params"},{"op":"remove","path":"/472/damage"},{"op":"remove","path":"/472/params"},{"op":"remove","path":"/471/damage"},{"op":"remove","path":"/471/params"},{"op":"remove","path":"/470/damage"},{"op":"remove","path":"/470/params"},{"op":"remove","path":"/469/damage"},{"op":"remove","path":"/469/params"},{"op":"remove","path":"/468/damage"},{"op":"remove","path":"/468/params"},{"op":"remove","path":"/467/damage"},{"op":"remove","path":"/467/params"},{"op":"remove","path":"/466/damage"},{"op":"remove","path":"/466/params"},{"op":"remove","path":"/465/damage"},{"op":"remove","path":"/465/params"},{"op":"remove","path":"/464/damage"},{"op":"remove","path":"/464/params"},{"op":"remove","path":"/463/damage"},{"op":"remove","path":"/463/params"},{"op":"remove","path":"/462/damage"},{"op":"remove","path":"/462/params"},{"op":"remove","path":"/461/damage"},{"op":"remove","path":"/461/params"},{"op":"remove","path":"/460/damage"},{"op":"remove","path":"/460/params"},{"op":"remove","path":"/459/damage"},{"op":"remove","path":"/459/params"},{"op":"remove","path":"/458/damage"},{"op":"remove","path":"/458/params"},{"op":"remove","path":"/457/damage"},{"op":"remove","path":"/457/params"},{"op":"remove","path":"/456/damage"},{"op":"remove","path":"/456/params"},{"op":"remove","path":"/455/damage"},{"op":"remove","path":"/455/params"},{"op":"remove","path":"/454/damage"},{"op":"remove","path":"/454/params"},{"op":"remove","path":"/453/damage"},{"op":"remove","path":"/453/params"},{"op":"remove","path":"/452/damage"},{"op":"remove","path":"/452/params"},{"op":"remove","path":"/451/damage"},{"op":"remove","path":"/451/params"},{"op":"remove","path":"/450/damage"},{"op":"remove","path":"/450/params"},{"op":"remove","path":"/449/damage"},{"op":"remove","path":"/449/params"},{"op":"remove","path":"/448/damage"},{"op":"remove","path":"/448/params"},{"op":"remove","path":"/447/damage"},{"op":"remove","path":"/447/params"},{"op":"remove","path":"/446/damage"},{"op":"remove","path":"/446/params"},{"op":"remove","path":"/445/damage"},{"op":"remove","path":"/445/params"},{"op":"remove","path":"/444/damage"},{"op":"remove","path":"/444/params"},{"op":"remove","path":"/443/damage"},{"op":"remove","path":"/443/params"},{"op":"remove","path":"/442/damage"},{"op":"remove","path":"/442/params"},{"op":"remove","path":"/441/damage"},{"op":"remove","path":"/441/params"},{"op":"remove","path":"/440/damage"},{"op":"remove","path":"/440/params"},{"op":"remove","path":"/439/damage"},{"op":"remove","path":"/439/params"},{"op":"remove","path":"/438/damage"},{"op":"remove","path":"/438/params"},{"op":"remove","path":"/437/damage"},{"op":"remove","path":"/437/params"},{"op":"remove","path":"/436/damage"},{"op":"remove","path":"/436/params"},{"op":"remove","path":"/435/damage"},{"op":"remove","path":"/435/params"},{"op":"remove","path":"/434/damage"},{"op":"remove","path":"/434/params"},{"op":"remove","path":"/433/damage"},{"op":"remove","path":"/433/params"},{"op":"remove","path":"/432/damage"},{"op":"remove","path":"/432/params"},{"op":"remove","path":"/431/damage"},{"op":"remove","path":"/431/params"},{"op":"remove","path":"/430/damage"},{"op":"remove","path":"/430/params"},{"op":"remove","path":"/429/damage"},{"op":"remove","path":"/429/params"},{"op":"remove","path":"/428/damage"},{"op":"remove","path":"/428/params"},{"op":"remove","path":"/427/damage"},{"op":"remove","path":"/427/params"},{"op":"remove","path":"/426/damage"},{"op":"remove","path":"/426/params"},{"op":"remove","path":"/425/damage"},{"op":"remove","path":"/425/params"},{"op":"remove","path":"/424/damage"},{"op":"remove","path":"/424/params"},{"op":"remove","path":"/423/damage"},{"op":"remove","path":"/423/params"},{"op":"remove","path":"/422/damage"},{"op":"remove","path":"/422/params"},{"op":"remove","path":"/421/damage"},{"op":"remove","path":"/421/params"},{"op":"remove","path":"/420/damage"},{"op":"remove","path":"/420/params"},{"op":"remove","path":"/419/damage"},{"op":"remove","path":"/419/params"},{"op":"remove","path":"/418/damage"},{"op":"remove","path":"/418/params"},{"op":"remove","path":"/417/damage"},{"op":"remove","path":"/417/params"},{"op":"remove","path":"/416/damage"},{"op":"remove","path":"/416/params"},{"op":"remove","path":"/415/damage"},{"op":"remove","path":"/415/params"},{"op":"remove","path":"/414/damage"},{"op":"remove","path":"/414/params"},{"op":"remove","path":"/413/damage"},{"op":"remove","path":"/413/params"},{"op":"remove","path":"/412/damage"},{"op":"remove","path":"/412/params"},{"op":"remove","path":"/411/damage"},{"op":"remove","path":"/411/params"},{"op":"remove","path":"/410/damage"},{"op":"remove","path":"/410/params"},{"op":"remove","path":"/409/damage"},{"op":"remove","path":"/409/params"},{"op":"remove","path":"/408/damage"},{"op":"remove","path":"/408/params"},{"op":"remove","path":"/407/damage"},{"op":"remove","path":"/407/params"},{"op":"remove","path":"/406/damage"},{"op":"remove","path":"/406/params"},{"op":"remove","path":"/405/damage"},{"op":"remove","path":"/405/params"},{"op":"remove","path":"/404/damage"},{"op":"remove","path":"/404/params"},{"op":"remove","path":"/403/damage"},{"op":"remove","path":"/403/params"},{"op":"remove","path":"/402/damage"},{"op":"remove","path":"/402/params"},{"op":"remove","path":"/401/damage"},{"op":"remove","path":"/401/params"},{"op":"remove","path":"/400/damage"},{"op":"remove","path":"/400/params"},{"op":"remove","path":"/399/damage"},{"op":"remove","path":"/399/params"},{"op":"remove","path":"/398/damage"},{"op":"remove","path":"/398/params"},{"op":"remove","path":"/397/damage"},{"op":"remove","path":"/397/params"},{"op":"remove","path":"/396/damage"},{"op":"remove","path":"/396/params"},{"op":"remove","path":"/395/damage"},{"op":"remove","path":"/395/params"},{"op":"remove","path":"/394/damage"},{"op":"remove","path":"/394/params"},{"op":"remove","path":"/393/damage"},{"op":"remove","path":"/393/params"},{"op":"remove","path":"/392/damage"},{"op":"remove","path":"/392/params"},{"op":"remove","path":"/391/damage"},{"op":"remove","path":"/391/params"},{"op":"remove","path":"/390/damage"},{"op":"remove","path":"/390/params"},{"op":"remove","path":"/389/damage"},{"op":"remove","path":"/389/params"},{"op":"remove","path":"/388/damage"},{"op":"remove","path":"/388/params"},{"op":"remove","path":"/387/damage"},{"op":"remove","path":"/387/params"},{"op":"remove","path":"/386/damage"},{"op":"remove","path":"/386/params"},{"op":"remove","path":"/385/damage"},{"op":"remove","path":"/385/params"},{"op":"remove","path":"/384/damage"},{"op":"remove","path":"/384/params"},{"op":"remove","path":"/383/damage"},{"op":"remove","path":"/383/params"},{"op":"remove","path":"/382/damage"},{"op":"remove","path":"/382/params"},{"op":"remove","path":"/381/damage"},{"op":"remove","path":"/381/params"},{"op":"remove","path":"/380/damage"},{"op":"remove","path":"/380/params"},{"op":"remove","path":"/379/damage"},{"op":"remove","path":"/379/params"},{"op":"remove","path":"/378/damage"},{"op":"remove","path":"/378/params"},{"op":"remove","path":"/377/damage"},{"op":"remove","path":"/377/params"},{"op":"remove","path":"/376/damage"},{"op":"remove","path":"/376/params"},{"op":"remove","path":"/375/damage"},{"op":"remove","path":"/375/params"},{"op":"remove","path":"/374/damage"},{"op":"remove","path":"/374/params"},{"op":"remove","path":"/373/damage"},{"op":"remove","path":"/373/params"},{"op":"remove","path":"/372/damage"},{"op":"remove","path":"/372/params"},{"op":"remove","path":"/371/damage"},{"op":"remove","path":"/371/params"},{"op":"remove","path":"/370/damage"},{"op":"remove","path":"/370/params"},{"op":"remove","path":"/369/damage"},{"op":"remove","path":"/369/params"},{"op":"remove","path":"/368/damage"},{"op":"remove","path":"/368/params"},{"op":"remove","path":"/367/damage"},{"op":"remove","path":"/367/params"},{"op":"remove","path":"/366/damage"},{"op":"remove","path":"/366/params"},{"op":"remove","path":"/365/damage"},{"op":"remove","path":"/365/params"},{"op":"remove","path":"/364/damage"},{"op":"remove","path":"/364/params"},{"op":"remove","path":"/363/damage"},{"op":"remove","path":"/363/params"},{"op":"remove","path":"/362/damage"},{"op":"remove","path":"/362/params"},{"op":"remove","path":"/361/damage"},{"op":"remove","path":"/361/params"},{"op":"remove","path":"/360/damage"},{"op":"remove","path":"/360/params"},{"op":"remove","path":"/359/damage"},{"op":"remove","path":"/359/params"},{"op":"remove","path":"/358/damage"},{"op":"remove","path":"/358/params"},{"op":"remove","path":"/357/damage"},{"op":"remove","path":"/357/params"},{"op":"remove","path":"/356/damage"},{"op":"remove","path":"/356/params"},{"op":"remove","path":"/355/damage"},{"op":"remove","path":"/355/params"},{"op":"remove","path":"/354/damage"},{"op":"remove","path":"/354/params"},{"op":"remove","path":"/353/damage"},{"op":"remove","path":"/353/params"},{"op":"remove","path":"/352/damage"},{"op":"remove","path":"/352/params"},{"op":"remove","path":"/351/damage"},{"op":"remove","path":"/351/params"},{"op":"remove","path":"/350/damage"},{"op":"remove","path":"/350/params"},{"op":"remove","path":"/349/damage"},{"op":"remove","path":"/349/params"},{"op":"remove","path":"/348/damage"},{"op":"remove","path":"/348/params"},{"op":"remove","path":"/347/damage"},{"op":"remove","path":"/347/params"},{"op":"remove","path":"/346/damage"},{"op":"remove","path":"/346/params"},{"op":"remove","path":"/345/damage"},{"op":"remove","path":"/345/params"},{"op":"remove","path":"/344/damage"},{"op":"remove","path":"/344/params"},{"op":"remove","path":"/343/damage"},{"op":"remove","path":"/343/params"},{"op":"remove","path":"/342/damage"},{"op":"remove","path":"/342/params"},{"op":"remove","path":"/341/damage"},{"op":"remove","path":"/341/params"},{"op":"remove","path":"/340/damage"},{"op":"remove","path":"/340/params"},{"op":"remove","path":"/339/damage"},{"op":"remove","path":"/339/params"},{"op":"remove","path":"/338/damage"},{"op":"remove","path":"/338/params"},{"op":"remove","path":"/337/damage"},{"op":"remove","path":"/337/params"},{"op":"remove","path":"/336/damage"},{"op":"remove","path":"/336/params"},{"op":"remove","path":"/335/damage"},{"op":"remove","path":"/335/params"},{"op":"remove","path":"/334/damage"},{"op":"remove","path":"/334/params"},{"op":"remove","path":"/333/damage"},{"op":"remove","path":"/333/params"},{"op":"remove","path":"/332/damage"},{"op":"remove","path":"/332/params"},{"op":"remove","path":"/331/damage"},{"op":"remove","path":"/331/params"},{"op":"remove","path":"/330/damage"},{"op":"remove","path":"/330/params"},{"op":"remove","path":"/329/damage"},{"op":"remove","path":"/329/params"},{"op":"remove","path":"/328/damage"},{"op":"remove","path":"/328/params"},{"op":"remove","path":"/327/damage"},{"op":"remove","path":"/327/params"},{"op":"remove","path":"/326/damage"},{"op":"remove","path":"/326/params"},{"op":"remove","path":"/325/damage"},{"op":"remove","path":"/325/params"},{"op":"remove","path":"/324/damage"},{"op":"remove","path":"/324/params"},{"op":"remove","path":"/323/damage"},{"op":"remove","path":"/323/params"},{"op":"remove","path":"/322/damage"},{"op":"remove","path":"/322/params"},{"op":"remove","path":"/321/damage"},{"op":"remove","path":"/321/params"},{"op":"remove","path":"/320/damage"},{"op":"remove","path":"/320/params"},{"op":"remove","path":"/319/damage"},{"op":"remove","path":"/319/params"},{"op":"remove","path":"/318/damage"},{"op":"remove","path":"/318/params"},{"op":"remove","path":"/317/damage"},{"op":"remove","path":"/317/params"},{"op":"remove","path":"/316/damage"},{"op":"remove","path":"/316/params"},{"op":"remove","path":"/315/damage"},{"op":"remove","path":"/315/params"},{"op":"remove","path":"/314/damage"},{"op":"remove","path":"/314/params"},{"op":"remove","path":"/313/damage"},{"op":"remove","path":"/313/params"},{"op":"remove","path":"/312/damage"},{"op":"remove","path":"/312/params"},{"op":"remove","path":"/311/damage"},{"op":"remove","path":"/311/params"},{"op":"remove","path":"/310/damage"},{"op":"remove","path":"/310/params"},{"op":"remove","path":"/309/damage"},{"op":"remove","path":"/309/params"},{"op":"remove","path":"/308/damage"},{"op":"remove","path":"/308/params"},{"op":"remove","path":"/307/damage"},{"op":"remove","path":"/307/params"},{"op":"remove","path":"/306/damage"},{"op":"remove","path":"/306/params"},{"op":"remove","path":"/305/damage"},{"op":"remove","path":"/305/params"},{"op":"remove","path":"/304/damage"},{"op":"remove","path":"/304/params"},{"op":"remove","path":"/303/damage"},{"op":"remove","path":"/303/params"},{"op":"remove","path":"/302/damage"},{"op":"remove","path":"/302/params"},{"op":"remove","path":"/301/damage"},{"op":"remove","path":"/301/params"},{"op":"remove","path":"/300/damage"},{"op":"remove","path":"/300/params"},{"op":"remove","path":"/299/damage"},{"op":"remove","path":"/299/params"},{"op":"remove","path":"/298/damage"},{"op":"remove","path":"/298/params"},{"op":"remove","path":"/297/damage"},{"op":"remove","path":"/297/params"},{"op":"remove","path":"/296/damage"},{"op":"remove","path":"/296/params"},{"op":"remove","path":"/295/damage"},{"op":"remove","path":"/295/params"},{"op":"remove","path":"/294/damage"},{"op":"remove","path":"/294/params"},{"op":"remove","path":"/293/damage"},{"op":"remove","path":"/293/params"},{"op":"remove","path":"/292/damage"},{"op":"remove","path":"/292/params"},{"op":"remove","path":"/291/damage"},{"op":"remove","path":"/291/params"},{"op":"remove","path":"/290/damage"},{"op":"remove","path":"/290/params"},{"op":"remove","path":"/289/damage"},{"op":"remove","path":"/289/params"},{"op":"remove","path":"/288/damage"},{"op":"remove","path":"/288/params"},{"op":"remove","path":"/287/damage"},{"op":"remove","path":"/287/params"},{"op":"remove","path":"/286/damage"},{"op":"remove","path":"/286/params"},{"op":"remove","path":"/285/damage"},{"op":"remove","path":"/285/params"},{"op":"remove","path":"/284/damage"},{"op":"remove","path":"/284/params"},{"op":"remove","path":"/283/damage"},{"op":"remove","path":"/283/params"},{"op":"remove","path":"/282/damage"},{"op":"remove","path":"/282/params"},{"op":"remove","path":"/281/damage"},{"op":"remove","path":"/281/params"},{"op":"remove","path":"/280/damage"},{"op":"remove","path":"/280/params"},{"op":"remove","path":"/279/damage"},{"op":"remove","path":"/279/params"},{"op":"remove","path":"/278/damage"},{"op":"remove","path":"/278/params"},{"op":"remove","path":"/277/damage"},{"op":"remove","path":"/277/params"},{"op":"remove","path":"/276/damage"},{"op":"remove","path":"/276/params"},{"op":"remove","path":"/275/damage"},{"op":"remove","path":"/275/params"},{"op":"remove","path":"/274/damage"},{"op":"remove","path":"/274/params"},{"op":"remove","path":"/273/damage"},{"op":"remove","path":"/273/params"},{"op":"remove","path":"/272/damage"},{"op":"remove","path":"/272/params"},{"op":"remove","path":"/271/damage"},{"op":"remove","path":"/271/params"},{"op":"remove","path":"/270/damage"},{"op":"remove","path":"/270/params"},{"op":"remove","path":"/269/damage"},{"op":"remove","path":"/269/params"},{"op":"remove","path":"/268/damage"},{"op":"remove","path":"/268/params"},{"op":"remove","path":"/267/damage"},{"op":"remove","path":"/267/params"},{"op":"remove","path":"/266/damage"},{"op":"remove","path":"/266/params"},{"op":"remove","path":"/265/damage"},{"op":"remove","path":"/265/params"},{"op":"remove","path":"/264/damage"},{"op":"remove","path":"/264/params"},{"op":"remove","path":"/263/damage"},{"op":"remove","path":"/263/params"},{"op":"remove","path":"/262/damage"},{"op":"remove","path":"/262/params"},{"op":"remove","path":"/261/damage"},{"op":"remove","path":"/261/params"},{"op":"remove","path":"/260/damage"},{"op":"remove","path":"/260/params"},{"op":"remove","path":"/259/damage"},{"op":"remove","path":"/259/params"},{"op":"remove","path":"/258/damage"},{"op":"remove","path":"/258/params"},{"op":"remove","path":"/257/damage"},{"op":"remove","path":"/257/params"},{"op":"remove","path":"/256/damage"},{"op":"remove","path":"/256/params"},{"op":"remove","path":"/255/damage"},{"op":"remove","path":"/255/params"},{"op":"remove","path":"/254/damage"},{"op":"remove","path":"/254/params"},{"op":"remove","path":"/253/damage"},{"op":"remove","path":"/253/params"},{"op":"remove","path":"/252/damage"},{"op":"remove","path":"/252/params"},{"op":"remove","path":"/251/damage"},{"op":"remove","path":"/251/params"},{"op":"remove","path":"/250/damage"},{"op":"remove","path":"/250/params"},{"op":"remove","path":"/249/damage"},{"op":"remove","path":"/249/params"},{"op":"remove","path":"/248/damage"},{"op":"remove","path":"/248/params"},{"op":"remove","path":"/247/damage"},{"op":"remove","path":"/247/params"},{"op":"remove","path":"/246/damage"},{"op":"remove","path":"/246/params"},{"op":"remove","path":"/245/damage"},{"op":"remove","path":"/245/params"},{"op":"remove","path":"/244/damage"},{"op":"remove","path":"/244/params"},{"op":"remove","path":"/243/damage"},{"op":"remove","path":"/243/params"},{"op":"remove","path":"/242/damage"},{"op":"remove","path":"/242/params"},{"op":"remove","path":"/241/damage"},{"op":"remove","path":"/241/params"},{"op":"remove","path":"/240/damage"},{"op":"remove","path":"/240/params"},{"op":"remove","path":"/239/damage"},{"op":"remove","path":"/239/params"},{"op":"remove","path":"/238/damage"},{"op":"remove","path":"/238/params"},{"op":"remove","path":"/237/damage"},{"op":"remove","path":"/237/params"},{"op":"remove","path":"/236/damage"},{"op":"remove","path":"/236/params"},{"op":"remove","path":"/235/damage"},{"op":"remove","path":"/235/params"},{"op":"remove","path":"/234/damage"},{"op":"remove","path":"/234/params"},{"op":"remove","path":"/233/damage"},{"op":"remove","path":"/233/params"},{"op":"remove","path":"/232/damage"},{"op":"remove","path":"/232/params"},{"op":"remove","path":"/231/damage"},{"op":"remove","path":"/231/params"},{"op":"remove","path":"/230/damage"},{"op":"remove","path":"/230/params"},{"op":"remove","path":"/229/damage"},{"op":"remove","path":"/229/params"},{"op":"remove","path":"/228/damage"},{"op":"remove","path":"/228/params"},{"op":"remove","path":"/227/damage"},{"op":"remove","path":"/227/params"},{"op":"remove","path":"/226/damage"},{"op":"remove","path":"/226/params"},{"op":"remove","path":"/225/damage"},{"op":"remove","path":"/225/params"},{"op":"remove","path":"/224/damage"},{"op":"remove","path":"/224/params"},{"op":"remove","path":"/223/damage"},{"op":"remove","path":"/223/params"},{"op":"remove","path":"/222/damage"},{"op":"remove","path":"/222/params"},{"op":"remove","path":"/221/damage"},{"op":"remove","path":"/221/params"},{"op":"remove","path":"/220/damage"},{"op":"remove","path":"/220/params"},{"op":"remove","path":"/219/damage"},{"op":"remove","path":"/219/params"},{"op":"remove","path":"/218/damage"},{"op":"remove","path":"/218/params"},{"op":"remove","path":"/217/damage"},{"op":"remove","path":"/217/params"},{"op":"remove","path":"/216/damage"},{"op":"remove","path":"/216/params"},{"op":"remove","path":"/215/damage"},{"op":"remove","path":"/215/params"},{"op":"remove","path":"/214/damage"},{"op":"remove","path":"/214/params"},{"op":"remove","path":"/213/damage"},{"op":"remove","path":"/213/params"},{"op":"remove","path":"/212/damage"},{"op":"remove","path":"/212/params"},{"op":"remove","path":"/211/damage"},{"op":"remove","path":"/211/params"},{"op":"remove","path":"/210/damage"},{"op":"remove","path":"/210/params"},{"op":"remove","path":"/209/damage"},{"op":"remove","path":"/209/params"},{"op":"remove","path":"/208/damage"},{"op":"remove","path":"/208/params"},{"op":"remove","path":"/207/damage"},{"op":"remove","path":"/207/params"},{"op":"remove","path":"/206/damage"},{"op":"remove","path":"/206/params"},{"op":"remove","path":"/205/damage"},{"op":"remove","path":"/205/params"},{"op":"remove","path":"/204/damage"},{"op":"remove","path":"/204/params"},{"op":"remove","path":"/203/damage"},{"op":"remove","path":"/203/params"},{"op":"remove","path":"/202/damage"},{"op":"remove","path":"/202/params"},{"op":"remove","path":"/201/damage"},{"op":"remove","path":"/201/params"},{"op":"remove","path":"/200/damage"},{"op":"remove","path":"/200/params"},{"op":"remove","path":"/199/damage"},{"op":"remove","path":"/199/params"},{"op":"remove","path":"/198/damage"},{"op":"remove","path":"/198/params"},{"op":"remove","path":"/197/damage"},{"op":"remove","path":"/197/params"},{"op":"replace","path":"/197/message2","value":" feels HAPPY!"},{"op":"replace","path":"/197/message1","value":" feels HAPPY!"},{"op":"remove","path":"/196/damage"},{"op":"remove","path":"/196/params"},{"op":"remove","path":"/195/damage"},{"op":"remove","path":"/195/params"},{"op":"remove","path":"/194/damage"},{"op":"remove","path":"/194/params"},{"op":"remove","path":"/193/damage"},{"op":"remove","path":"/193/params"},{"op":"remove","path":"/192/damage"},{"op":"remove","path":"/192/params"},{"op":"remove","path":"/191/damage"},{"op":"remove","path":"/191/params"},{"op":"remove","path":"/190/damage"},{"op":"remove","path":"/190/params"},{"op":"remove","path":"/189/damage"},{"op":"remove","path":"/189/params"},{"op":"remove","path":"/188/damage"},{"op":"remove","path":"/188/params"},{"op":"remove","path":"/187/damage"},{"op":"remove","path":"/187/params"},{"op":"remove","path":"/186/damage"},{"op":"remove","path":"/186/params"},{"op":"remove","path":"/185/damage"},{"op":"remove","path":"/185/params"},{"op":"remove","path":"/184/damage"},{"op":"remove","path":"/184/params"},{"op":"remove","path":"/183/damage"},{"op":"remove","path":"/183/params"},{"op":"remove","path":"/181/damage"},{"op":"remove","path":"/181/params"},{"op":"remove","path":"/180/damage"},{"op":"remove","path":"/180/params"},{"op":"remove","path":"/179/damage"},{"op":"remove","path":"/179/params"},{"op":"remove","path":"/178/damage"},{"op":"remove","path":"/178/params"},{"op":"remove","path":"/177/damage"},{"op":"remove","path":"/177/params"},{"op":"remove","path":"/176/damage"},{"op":"remove","path":"/176/params"},{"op":"remove","path":"/175/damage"},{"op":"remove","path":"/175/params"},{"op":"remove","path":"/174/damage"},{"op":"remove","path":"/174/params"},{"op":"remove","path":"/173/damage"},{"op":"remove","path":"/173/params"},{"op":"remove","path":"/172/damage"},{"op":"remove","path":"/172/params"},{"op":"remove","path":"/171/damage"},{"op":"remove","path":"/171/params"},{"op":"remove","path":"/170/damage"},{"op":"remove","path":"/170/params"},{"op":"remove","path":"/169/damage"},{"op":"remove","path":"/169/params"},{"op":"remove","path":"/168/damage"},{"op":"remove","path":"/168/params"},{"op":"remove","path":"/167/damage"},{"op":"remove","path":"/167/params"},{"op":"remove","path":"/166/damage"},{"op":"remove","path":"/166/params"},{"op":"remove","path":"/165/damage"},{"op":"remove","path":"/165/params"},{"op":"remove","path":"/164/damage"},{"op":"remove","path":"/164/params"},{"op":"remove","path":"/163/damage"},{"op":"remove","path":"/163/params"},{"op":"remove","path":"/162/damage"},{"op":"remove","path":"/162/params"},{"op":"remove","path":"/161/damage"},{"op":"remove","path":"/161/params"},{"op":"remove","path":"/160/damage"},{"op":"remove","path":"/160/params"},{"op":"remove","path":"/159/damage"},{"op":"remove","path":"/159/params"},{"op":"remove","path":"/158/damage"},{"op":"remove","path":"/158/params"},{"op":"remove","path":"/157/damage"},{"op":"remove","path":"/157/params"},{"op":"remove","path":"/156/damage"},{"op":"remove","path":"/156/params"},{"op":"remove","path":"/155/damage"},{"op":"remove","path":"/155/params"},{"op":"remove","path":"/154/damage"},{"op":"remove","path":"/154/params"},{"op":"remove","path":"/153/damage"},{"op":"remove","path":"/153/params"},{"op":"remove","path":"/152/damage"},{"op":"remove","path":"/152/params"},{"op":"remove","path":"/151/damage"},{"op":"remove","path":"/151/params"},{"op":"remove","path":"/150/damage"},{"op":"remove","path":"/150/params"},{"op":"remove","path":"/149/damage"},{"op":"remove","path":"/149/params"},{"op":"remove","path":"/148/damage"},{"op":"remove","path":"/148/params"},{"op":"remove","path":"/147/damage"},{"op":"remove","path":"/147/params"},{"op":"remove","path":"/146/damage"},{"op":"remove","path":"/146/params"},{"op":"remove","path":"/145/damage"},{"op":"remove","path":"/145/params"},{"op":"remove","path":"/144/damage"},{"op":"remove","path":"/144/params"},{"op":"remove","path":"/143/damage"},{"op":"remove","path":"/143/params"},{"op":"remove","path":"/142/damage"},{"op":"remove","path":"/142/params"},{"op":"remove","path":"/141/damage"},{"op":"remove","path":"/141/params"},{"op":"remove","path":"/140/damage"},{"op":"remove","path":"/140/params"},{"op":"remove","path":"/139/damage"},{"op":"remove","path":"/139/params"},{"op":"remove","path":"/138/damage"},{"op":"remove","path":"/138/params"},{"op":"remove","path":"/137/damage"},{"op":"remove","path":"/137/params"},{"op":"remove","path":"/136/damage"},{"op":"remove","path":"/136/params"},{"op":"remove","path":"/135/damage"},{"op":"remove","path":"/135/params"},{"op":"remove","path":"/134/damage"},{"op":"remove","path":"/134/params"},{"op":"remove","path":"/133/damage"},{"op":"remove","path":"/133/params"},{"op":"remove","path":"/132/damage"},{"op":"remove","path":"/132/params"},{"op":"remove","path":"/131/damage"},{"op":"remove","path":"/131/params"},{"op":"remove","path":"/130/damage"},{"op":"remove","path":"/130/params"},{"op":"remove","path":"/129/damage"},{"op":"remove","path":"/129/params"},{"op":"remove","path":"/128/damage"},{"op":"remove","path":"/128/params"},{"op":"remove","path":"/127/damage"},{"op":"remove","path":"/127/params"},{"op":"remove","path":"/126/damage"},{"op":"remove","path":"/126/params"},{"op":"replace","path":"/126/message2","value":" became MISERABLE..."},{"op":"replace","path":"/126/message1","value":" became MISERABLE..."},{"op":"remove","path":"/125/damage"},{"op":"remove","path":"/125/params"},{"op":"replace","path":"/125/message2","value":" became DEPRESSED..."},{"op":"replace","path":"/125/message1","value":" became DEPRESSED..."},{"op":"remove","path":"/124/damage"},{"op":"remove","path":"/124/params"},{"op":"replace","path":"/124/message2","value":" became SAD..."},{"op":"replace","path":"/124/message1","value":" became SAD..."},{"op":"remove","path":"/123/damage"},{"op":"remove","path":"/123/params"},{"op":"replace","path":"/123/message2","value":" became MANIC!"},{"op":"replace","path":"/123/message1","value":" became MANIC!"},{"op":"remove","path":"/122/damage"},{"op":"remove","path":"/122/params"},{"op":"replace","path":"/122/message2","value":" became ECSTATIC!"},{"op":"replace","path":"/122/message1","value":" became ECSTATIC!"},{"op":"remove","path":"/121/damage"},{"op":"remove","path":"/121/params"},{"op":"replace","path":"/121/message2","value":" became FURIOUS!"},{"op":"replace","path":"/121/message1","value":" became FURIOUS!"},{"op":"remove","path":"/120/damage"},{"op":"remove","path":"/120/params"},{"op":"replace","path":"/120/message2","value":" became ENRAGED!"},{"op":"replace","path":"/120/message1","value":" became ENRAGED!"},{"op":"remove","path":"/119/damage"},{"op":"remove","path":"/119/params"},{"op":"replace","path":"/119/message2","value":" is ANGRY!"},{"op":"replace","path":"/119/message1","value":" is ANGRY!"},{"op":"remove","path":"/118/damage"},{"op":"remove","path":"/118/params"},{"op":"remove","path":"/117/damage"},{"op":"remove","path":"/117/params"},{"op":"remove","path":"/116/damage"},{"op":"remove","path":"/116/params"},{"op":"remove","path":"/115/damage"},{"op":"remove","path":"/115/params"},{"op":"remove","path":"/114/damage"},{"op":"remove","path":"/114/params"},{"op":"remove","path":"/113/damage"},{"op":"remove","path":"/113/params"},{"op":"remove","path":"/112/damage"},{"op":"remove","path":"/112/params"},{"op":"remove","path":"/111/damage"},{"op":"remove","path":"/111/params"},{"op":"remove","path":"/110/damage"},{"op":"remove","path":"/110/params"},{"op":"remove","path":"/109/damage"},{"op":"remove","path":"/109/params"},{"op":"remove","path":"/108/damage"},{"op":"remove","path":"/108/params"},{"op":"remove","path":"/107/damage"},{"op":"remove","path":"/107/params"},{"op":"remove","path":"/106/damage"},{"op":"remove","path":"/106/params"},{"op":"replace","path":"/106/message2","value":"'s SPEED fell!"},{"op":"replace","path":"/106/message1","value":"'s SPEED fell!"},{"op":"remove","path":"/105/damage"},{"op":"remove","path":"/105/params"},{"op":"replace","path":"/105/message2","value":"'s SPEED fell!"},{"op":"replace","path":"/105/message1","value":"'s SPEED fell!"},{"op":"remove","path":"/104/damage"},{"op":"remove","path":"/104/params"},{"op":"replace","path":"/104/message2","value":"'s SPEED fell!"},{"op":"replace","path":"/104/message1","value":"'s SPEED fell!"},{"op":"remove","path":"/103/damage"},{"op":"remove","path":"/103/params"},{"op":"replace","path":"/103/message2","value":"'s SPEED rose!"},{"op":"replace","path":"/103/message1","value":"'s SPEED rose!"},{"op":"remove","path":"/102/damage"},{"op":"remove","path":"/102/params"},{"op":"replace","path":"/102/message2","value":"'s SPEED rose!"},{"op":"replace","path":"/102/message1","value":"'s SPEED rose!"},{"op":"remove","path":"/101/damage"},{"op":"remove","path":"/101/params"},{"op":"replace","path":"/101/message2","value":"'s SPEED rose!"},{"op":"replace","path":"/101/message1","value":"'s SPEED rose!"},{"op":"remove","path":"/100/damage"},{"op":"remove","path":"/100/params"},{"op":"replace","path":"/100/message2","value":"'s DEFENSE fell!"},{"op":"replace","path":"/100/message1","value":"'s DEFENSE fell!"},{"op":"remove","path":"/99/damage"},{"op":"remove","path":"/99/params"},{"op":"replace","path":"/99/message2","value":"'s DEFENSE fell!"},{"op":"replace","path":"/99/message1","value":"'s DEFENSE fell!"},{"op":"remove","path":"/98/damage"},{"op":"remove","path":"/98/params"},{"op":"replace","path":"/98/message2","value":"'s DEFENSE fell!"},{"op":"replace","path":"/98/message1","value":"'s DEFENSE fell!"},{"op":"remove","path":"/97/damage"},{"op":"remove","path":"/97/params"},{"op":"replace","path":"/97/message2","value":"'s DEFENSE rose!"},{"op":"replace","path":"/97/message1","value":"'s DEFENSE rose!"},{"op":"remove","path":"/96/damage"},{"op":"remove","path":"/96/params"},{"op":"replace","path":"/96/message2","value":"'s DEFENSE rose!"},{"op":"replace","path":"/96/message1","value":"'s DEFENSE rose!"},{"op":"remove","path":"/95/damage"},{"op":"remove","path":"/95/params"},{"op":"replace","path":"/95/message2","value":"'s DEFENSE rose!"},{"op":"replace","path":"/95/message1","value":"'s DEFENSE rose!"},{"op":"remove","path":"/94/damage"},{"op":"remove","path":"/94/params"},{"op":"replace","path":"/94/message2","value":"'s ATTACK fell!"},{"op":"replace","path":"/94/message1","value":"'s ATTACK fell!"},{"op":"remove","path":"/93/damage"},{"op":"remove","path":"/93/params"},{"op":"replace","path":"/93/message2","value":"'s ATTACK fell!"},{"op":"replace","path":"/93/message1","value":"'s ATTACK fell!"},{"op":"remove","path":"/92/damage"},{"op":"remove","path":"/92/params"},{"op":"replace","path":"/92/message2","value":"'s ATTACK fell!"},{"op":"replace","path":"/92/message1","value":"'s ATTACK fell!"},{"op":"remove","path":"/91/damage"},{"op":"remove","path":"/91/params"},{"op":"replace","path":"/91/message2","value":"'s ATTACK rose!"},{"op":"replace","path":"/91/message1","value":"'s ATTACK rose!"},{"op":"remove","path":"/90/damage"},{"op":"remove","path":"/90/params"},{"op":"replace","path":"/90/message2","value":"'s ATTACK rose!"},{"op":"replace","path":"/90/message1","value":"'s ATTACK rose!"},{"op":"remove","path":"/89/damage"},{"op":"remove","path":"/89/params"},{"op":"replace","path":"/89/message2","value":"'s ATTACK rose!"},{"op":"replace","path":"/89/message1","value":"'s ATTACK rose!"},{"op":"remove","path":"/88/damage"},{"op":"remove","path":"/88/params"},{"op":"remove","path":"/87/damage"},{"op":"remove","path":"/87/params"},{"op":"remove","path":"/86/damage"},{"op":"remove","path":"/86/params"},{"op":"remove","path":"/85/damage"},{"op":"remove","path":"/85/params"},{"op":"remove","path":"/84/damage"},{"op":"remove","path":"/84/params"},{"op":"remove","path":"/83/damage"},{"op":"remove","path":"/83/params"},{"op":"remove","path":"/82/damage"},{"op":"remove","path":"/82/params"},{"op":"remove","path":"/81/damage"},{"op":"remove","path":"/81/params"},{"op":"remove","path":"/80/damage"},{"op":"remove","path":"/80/params"},{"op":"remove","path":"/79/damage"},{"op":"remove","path":"/79/params"},{"op":"remove","path":"/78/damage"},{"op":"remove","path":"/78/params"},{"op":"remove","path":"/77/damage"},{"op":"remove","path":"/77/params"},{"op":"remove","path":"/76/damage"},{"op":"remove","path":"/76/params"},{"op":"remove","path":"/75/damage"},{"op":"remove","path":"/75/params"},{"op":"remove","path":"/74/damage"},{"op":"remove","path":"/74/params"},{"op":"remove","path":"/73/damage"},{"op":"remove","path":"/73/params"},{"op":"remove","path":"/72/damage"},{"op":"remove","path":"/72/params"},{"op":"remove","path":"/71/damage"},{"op":"remove","path":"/71/params"},{"op":"remove","path":"/70/damage"},{"op":"remove","path":"/70/params"},{"op":"remove","path":"/69/damage"},{"op":"remove","path":"/69/params"},{"op":"remove","path":"/68/damage"},{"op":"remove","path":"/68/params"},{"op":"remove","path":"/67/damage"},{"op":"remove","path":"/67/params"},{"op":"remove","path":"/66/damage"},{"op":"remove","path":"/66/params"},{"op":"remove","path":"/65/damage"},{"op":"remove","path":"/65/params"},{"op":"remove","path":"/64/damage"},{"op":"remove","path":"/64/params"},{"op":"remove","path":"/63/damage"},{"op":"remove","path":"/63/params"},{"op":"remove","path":"/62/damage"},{"op":"remove","path":"/62/params"},{"op":"remove","path":"/61/damage"},{"op":"remove","path":"/61/params"},{"op":"remove","path":"/60/damage"},{"op":"remove","path":"/60/params"},{"op":"remove","path":"/59/damage"},{"op":"remove","path":"/59/params"},{"op":"remove","path":"/58/damage"},{"op":"remove","path":"/58/params"},{"op":"remove","path":"/57/damage"},{"op":"remove","path":"/57/params"},{"op":"remove","path":"/56/damage"},{"op":"remove","path":"/56/params"},{"op":"remove","path":"/55/damage"},{"op":"remove","path":"/55/params"},{"op":"remove","path":"/54/damage"},{"op":"remove","path":"/54/params"},{"op":"remove","path":"/53/damage"},{"op":"remove","path":"/53/params"},{"op":"remove","path":"/52/damage"},{"op":"remove","path":"/52/params"},{"op":"replace","path":"/52/message4","value":" revives!"},{"op":"replace","path":"/52/message2","value":" is slain!"},{"op":"replace","path":"/52/message1","value":" has fallen!"},{"op":"remove","path":"/51/damage"},{"op":"remove","path":"/51/params"},{"op":"remove","path":"/50/damage"},{"op":"remove","path":"/50/params"},{"op":"remove","path":"/49/damage"},{"op":"remove","path":"/49/params"},{"op":"remove","path":"/48/damage"},{"op":"remove","path":"/48/params"},{"op":"remove","path":"/47/damage"},{"op":"remove","path":"/47/params"},{"op":"remove","path":"/46/damage"},{"op":"remove","path":"/46/params"},{"op":"remove","path":"/45/damage"},{"op":"remove","path":"/45/params"},{"op":"remove","path":"/44/damage"},{"op":"remove","path":"/44/params"},{"op":"remove","path":"/43/damage"},{"op":"remove","path":"/43/params"},{"op":"remove","path":"/42/damage"},{"op":"remove","path":"/42/params"},{"op":"remove","path":"/41/damage"},{"op":"remove","path":"/41/params"},{"op":"remove","path":"/40/damage"},{"op":"remove","path":"/40/params"},{"op":"remove","path":"/39/damage"},{"op":"remove","path":"/39/params"},{"op":"remove","path":"/38/damage"},{"op":"remove","path":"/38/params"},{"op":"remove","path":"/37/damage"},{"op":"remove","path":"/37/params"},{"op":"remove","path":"/36/damage"},{"op":"remove","path":"/36/params"},{"op":"remove","path":"/35/damage"},{"op":"remove","path":"/35/params"},{"op":"remove","path":"/34/damage"},{"op":"remove","path":"/34/params"},{"op":"remove","path":"/33/damage"},{"op":"remove","path":"/33/params"},{"op":"remove","path":"/32/damage"},{"op":"remove","path":"/32/params"},{"op":"remove","path":"/31/damage"},{"op":"remove","path":"/31/params"},{"op":"remove","path":"/30/damage"},{"op":"remove","path":"/30/params"},{"op":"remove","path":"/29/damage"},{"op":"remove","path":"/29/params"},{"op":"remove","path":"/28/damage"},{"op":"remove","path":"/28/params"},{"op":"remove","path":"/27/damage"},{"op":"remove","path":"/27/params"},{"op":"remove","path":"/26/damage"},{"op":"remove","path":"/26/params"},{"op":"remove","path":"/25/damage"},{"op":"remove","path":"/25/params"},{"op":"remove","path":"/24/damage"},{"op":"remove","path":"/24/params"},{"op":"remove","path":"/23/damage"},{"op":"remove","path":"/23/params"},{"op":"remove","path":"/22/damage"},{"op":"remove","path":"/22/params"},{"op":"remove","path":"/21/damage"},{"op":"remove","path":"/21/params"},{"op":"remove","path":"/20/damage"},{"op":"remove","path":"/20/params"},{"op":"remove","path":"/19/damage"},{"op":"remove","path":"/19/params"},{"op":"remove","path":"/18/damage"},{"op":"remove","path":"/18/params"},{"op":"replace","path":"/18/message4","value":" calmed down."},{"op":"replace","path":"/18/message2","value":" feels AFRAID..."},{"op":"replace","path":"/18/message1","value":" feels AFRAID..."},{"op":"remove","path":"/17/damage"},{"op":"remove","path":"/17/params"},{"op":"remove","path":"/16/damage"},{"op":"remove","path":"/16/params"},{"op":"replace","path":"/16/message2","value":" feels FURIOUS!"},{"op":"replace","path":"/16/message1","value":" feels FURIOUS!"},{"op":"remove","path":"/15/damage"},{"op":"remove","path":"/15/params"},{"op":"replace","path":"/15/message2","value":" feels ENRAGED!"},{"op":"replace","path":"/15/message1","value":" feels ENRAGED!"},{"op":"remove","path":"/14/damage"},{"op":"remove","path":"/14/params"},{"op":"replace","path":"/14/message2","value":" feels ANGRY!"},{"op":"replace","path":"/14/message1","value":" feels ANGRY!"},{"op":"remove","path":"/13/damage"},{"op":"remove","path":"/13/params"},{"op":"remove","path":"/12/damage"},{"op":"remove","path":"/12/params"},{"op":"replace","path":"/12/message2","value":" feels MISERABLE..."},{"op":"replace","path":"/12/message1","value":" feels MISERABLE..."},{"op":"remove","path":"/11/damage"},{"op":"remove","path":"/11/params"},{"op":"replace","path":"/11/message2","value":" feels DEPRESSED..."},{"op":"replace","path":"/11/message1","value":" feels DEPRESSED..."},{"op":"remove","path":"/10/damage"},{"op":"remove","path":"/10/params"},{"op":"replace","path":"/10/message2","value":" feels SAD..."},{"op":"replace","path":"/10/message1","value":" feels SAD..."},{"op":"remove","path":"/9/damage"},{"op":"remove","path":"/9/params"},{"op":"remove","path":"/8/damage"},{"op":"remove","path":"/8/params"},{"op":"replace","path":"/8/message2","value":" feels MANIC!"},{"op":"replace","path":"/8/message1","value":" feels MANIC!"},{"op":"remove","path":"/7/damage"},{"op":"remove","path":"/7/params"},{"op":"replace","path":"/7/message2","value":" feels ECSTATIC!"},{"op":"replace","path":"/7/message1","value":" feels ECSTATIC!"},{"op":"remove","path":"/6/damage"},{"op":"remove","path":"/6/params"},{"op":"replace","path":"/6/message2","value":" feels HAPPY!"},{"op":"replace","path":"/6/message1","value":" feels HAPPY!"},{"op":"remove","path":"/5/damage"},{"op":"remove","path":"/5/params"},{"op":"remove","path":"/4/damage"},{"op":"remove","path":"/4/params"},{"op":"remove","path":"/3/damage"},{"op":"remove","path":"/3/params"},{"op":"remove","path":"/2/damage"},{"op":"remove","path":"/2/params"},{"op":"remove","path":"/1/damage"},{"op":"remove","path":"/1/params"},{"op":"replace","path":"/1/message4","value":" rose again!"},{"op":"replace","path":"/1/message2","value":" was defeated!"},{"op":"replace","path":"/1/message1","value":" became TOAST!"}]
+[
+  {
+    "op": "remove",
+    "path": "/600/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/600/params"
+  },
+  {
+    "op": "remove",
+    "path": "/599/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/599/params"
+  },
+  {
+    "op": "remove",
+    "path": "/598/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/598/params"
+  },
+  {
+    "op": "remove",
+    "path": "/597/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/597/params"
+  },
+  {
+    "op": "remove",
+    "path": "/596/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/596/params"
+  },
+  {
+    "op": "remove",
+    "path": "/595/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/595/params"
+  },
+  {
+    "op": "remove",
+    "path": "/594/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/594/params"
+  },
+  {
+    "op": "remove",
+    "path": "/593/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/593/params"
+  },
+  {
+    "op": "remove",
+    "path": "/592/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/592/params"
+  },
+  {
+    "op": "remove",
+    "path": "/591/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/591/params"
+  },
+  {
+    "op": "remove",
+    "path": "/590/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/590/params"
+  },
+  {
+    "op": "remove",
+    "path": "/589/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/589/params"
+  },
+  {
+    "op": "remove",
+    "path": "/588/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/588/params"
+  },
+  {
+    "op": "remove",
+    "path": "/587/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/587/params"
+  },
+  {
+    "op": "remove",
+    "path": "/586/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/586/params"
+  },
+  {
+    "op": "remove",
+    "path": "/585/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/585/params"
+  },
+  {
+    "op": "remove",
+    "path": "/584/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/584/params"
+  },
+  {
+    "op": "remove",
+    "path": "/583/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/583/params"
+  },
+  {
+    "op": "remove",
+    "path": "/582/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/582/params"
+  },
+  {
+    "op": "remove",
+    "path": "/581/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/581/params"
+  },
+  {
+    "op": "remove",
+    "path": "/580/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/580/params"
+  },
+  {
+    "op": "remove",
+    "path": "/579/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/579/params"
+  },
+  {
+    "op": "remove",
+    "path": "/578/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/578/params"
+  },
+  {
+    "op": "remove",
+    "path": "/577/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/577/params"
+  },
+  {
+    "op": "remove",
+    "path": "/576/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/576/params"
+  },
+  {
+    "op": "remove",
+    "path": "/575/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/575/params"
+  },
+  {
+    "op": "remove",
+    "path": "/574/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/574/params"
+  },
+  {
+    "op": "remove",
+    "path": "/573/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/573/params"
+  },
+  {
+    "op": "remove",
+    "path": "/572/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/572/params"
+  },
+  {
+    "op": "remove",
+    "path": "/571/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/571/params"
+  },
+  {
+    "op": "remove",
+    "path": "/570/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/570/params"
+  },
+  {
+    "op": "remove",
+    "path": "/569/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/569/params"
+  },
+  {
+    "op": "remove",
+    "path": "/568/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/568/params"
+  },
+  {
+    "op": "remove",
+    "path": "/567/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/567/params"
+  },
+  {
+    "op": "remove",
+    "path": "/566/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/566/params"
+  },
+  {
+    "op": "remove",
+    "path": "/565/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/565/params"
+  },
+  {
+    "op": "remove",
+    "path": "/564/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/564/params"
+  },
+  {
+    "op": "remove",
+    "path": "/563/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/563/params"
+  },
+  {
+    "op": "remove",
+    "path": "/562/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/562/params"
+  },
+  {
+    "op": "remove",
+    "path": "/561/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/561/params"
+  },
+  {
+    "op": "remove",
+    "path": "/560/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/560/params"
+  },
+  {
+    "op": "remove",
+    "path": "/559/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/559/params"
+  },
+  {
+    "op": "remove",
+    "path": "/558/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/558/params"
+  },
+  {
+    "op": "remove",
+    "path": "/557/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/557/params"
+  },
+  {
+    "op": "remove",
+    "path": "/556/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/556/params"
+  },
+  {
+    "op": "remove",
+    "path": "/555/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/555/params"
+  },
+  {
+    "op": "remove",
+    "path": "/554/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/554/params"
+  },
+  {
+    "op": "remove",
+    "path": "/553/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/553/params"
+  },
+  {
+    "op": "remove",
+    "path": "/552/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/552/params"
+  },
+  {
+    "op": "remove",
+    "path": "/551/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/551/params"
+  },
+  {
+    "op": "remove",
+    "path": "/550/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/550/params"
+  },
+  {
+    "op": "remove",
+    "path": "/549/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/549/params"
+  },
+  {
+    "op": "remove",
+    "path": "/548/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/548/params"
+  },
+  {
+    "op": "remove",
+    "path": "/547/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/547/params"
+  },
+  {
+    "op": "remove",
+    "path": "/546/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/546/params"
+  },
+  {
+    "op": "remove",
+    "path": "/545/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/545/params"
+  },
+  {
+    "op": "remove",
+    "path": "/544/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/544/params"
+  },
+  {
+    "op": "remove",
+    "path": "/543/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/543/params"
+  },
+  {
+    "op": "remove",
+    "path": "/542/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/542/params"
+  },
+  {
+    "op": "remove",
+    "path": "/541/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/541/params"
+  },
+  {
+    "op": "remove",
+    "path": "/540/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/540/params"
+  },
+  {
+    "op": "remove",
+    "path": "/539/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/539/params"
+  },
+  {
+    "op": "remove",
+    "path": "/538/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/538/params"
+  },
+  {
+    "op": "remove",
+    "path": "/537/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/537/params"
+  },
+  {
+    "op": "remove",
+    "path": "/536/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/536/params"
+  },
+  {
+    "op": "remove",
+    "path": "/535/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/535/params"
+  },
+  {
+    "op": "remove",
+    "path": "/534/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/534/params"
+  },
+  {
+    "op": "remove",
+    "path": "/533/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/533/params"
+  },
+  {
+    "op": "remove",
+    "path": "/532/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/532/params"
+  },
+  {
+    "op": "remove",
+    "path": "/531/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/531/params"
+  },
+  {
+    "op": "remove",
+    "path": "/530/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/530/params"
+  },
+  {
+    "op": "remove",
+    "path": "/529/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/529/params"
+  },
+  {
+    "op": "remove",
+    "path": "/528/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/528/params"
+  },
+  {
+    "op": "remove",
+    "path": "/527/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/527/params"
+  },
+  {
+    "op": "remove",
+    "path": "/526/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/526/params"
+  },
+  {
+    "op": "remove",
+    "path": "/525/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/525/params"
+  },
+  {
+    "op": "remove",
+    "path": "/524/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/524/params"
+  },
+  {
+    "op": "remove",
+    "path": "/523/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/523/params"
+  },
+  {
+    "op": "remove",
+    "path": "/522/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/522/params"
+  },
+  {
+    "op": "remove",
+    "path": "/521/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/521/params"
+  },
+  {
+    "op": "remove",
+    "path": "/520/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/520/params"
+  },
+  {
+    "op": "remove",
+    "path": "/519/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/519/params"
+  },
+  {
+    "op": "remove",
+    "path": "/518/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/518/params"
+  },
+  {
+    "op": "remove",
+    "path": "/517/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/517/params"
+  },
+  {
+    "op": "remove",
+    "path": "/516/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/516/params"
+  },
+  {
+    "op": "remove",
+    "path": "/515/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/515/params"
+  },
+  {
+    "op": "remove",
+    "path": "/514/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/514/params"
+  },
+  {
+    "op": "remove",
+    "path": "/513/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/513/params"
+  },
+  {
+    "op": "remove",
+    "path": "/512/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/512/params"
+  },
+  {
+    "op": "remove",
+    "path": "/511/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/511/params"
+  },
+  {
+    "op": "remove",
+    "path": "/510/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/510/params"
+  },
+  {
+    "op": "remove",
+    "path": "/509/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/509/params"
+  },
+  {
+    "op": "remove",
+    "path": "/508/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/508/params"
+  },
+  {
+    "op": "remove",
+    "path": "/507/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/507/params"
+  },
+  {
+    "op": "remove",
+    "path": "/506/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/506/params"
+  },
+  {
+    "op": "remove",
+    "path": "/505/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/505/params"
+  },
+  {
+    "op": "remove",
+    "path": "/504/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/504/params"
+  },
+  {
+    "op": "remove",
+    "path": "/503/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/503/params"
+  },
+  {
+    "op": "remove",
+    "path": "/502/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/502/params"
+  },
+  {
+    "op": "remove",
+    "path": "/501/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/501/params"
+  },
+  {
+    "op": "remove",
+    "path": "/500/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/500/params"
+  },
+  {
+    "op": "remove",
+    "path": "/499/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/499/params"
+  },
+  {
+    "op": "remove",
+    "path": "/498/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/498/params"
+  },
+  {
+    "op": "remove",
+    "path": "/497/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/497/params"
+  },
+  {
+    "op": "remove",
+    "path": "/496/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/496/params"
+  },
+  {
+    "op": "remove",
+    "path": "/495/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/495/params"
+  },
+  {
+    "op": "remove",
+    "path": "/494/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/494/params"
+  },
+  {
+    "op": "remove",
+    "path": "/493/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/493/params"
+  },
+  {
+    "op": "remove",
+    "path": "/492/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/492/params"
+  },
+  {
+    "op": "remove",
+    "path": "/491/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/491/params"
+  },
+  {
+    "op": "remove",
+    "path": "/490/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/490/params"
+  },
+  {
+    "op": "remove",
+    "path": "/489/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/489/params"
+  },
+  {
+    "op": "remove",
+    "path": "/488/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/488/params"
+  },
+  {
+    "op": "remove",
+    "path": "/487/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/487/params"
+  },
+  {
+    "op": "remove",
+    "path": "/486/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/486/params"
+  },
+  {
+    "op": "remove",
+    "path": "/485/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/485/params"
+  },
+  {
+    "op": "remove",
+    "path": "/484/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/484/params"
+  },
+  {
+    "op": "remove",
+    "path": "/483/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/483/params"
+  },
+  {
+    "op": "remove",
+    "path": "/482/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/482/params"
+  },
+  {
+    "op": "remove",
+    "path": "/481/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/481/params"
+  },
+  {
+    "op": "remove",
+    "path": "/480/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/480/params"
+  },
+  {
+    "op": "remove",
+    "path": "/479/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/479/params"
+  },
+  {
+    "op": "remove",
+    "path": "/478/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/478/params"
+  },
+  {
+    "op": "remove",
+    "path": "/477/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/477/params"
+  },
+  {
+    "op": "remove",
+    "path": "/476/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/476/params"
+  },
+  {
+    "op": "remove",
+    "path": "/475/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/475/params"
+  },
+  {
+    "op": "remove",
+    "path": "/474/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/474/params"
+  },
+  {
+    "op": "remove",
+    "path": "/473/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/473/params"
+  },
+  {
+    "op": "remove",
+    "path": "/472/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/472/params"
+  },
+  {
+    "op": "remove",
+    "path": "/471/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/471/params"
+  },
+  {
+    "op": "remove",
+    "path": "/470/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/470/params"
+  },
+  {
+    "op": "remove",
+    "path": "/469/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/469/params"
+  },
+  {
+    "op": "remove",
+    "path": "/468/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/468/params"
+  },
+  {
+    "op": "remove",
+    "path": "/467/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/467/params"
+  },
+  {
+    "op": "remove",
+    "path": "/466/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/466/params"
+  },
+  {
+    "op": "remove",
+    "path": "/465/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/465/params"
+  },
+  {
+    "op": "remove",
+    "path": "/464/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/464/params"
+  },
+  {
+    "op": "remove",
+    "path": "/463/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/463/params"
+  },
+  {
+    "op": "remove",
+    "path": "/462/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/462/params"
+  },
+  {
+    "op": "remove",
+    "path": "/461/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/461/params"
+  },
+  {
+    "op": "remove",
+    "path": "/460/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/460/params"
+  },
+  {
+    "op": "remove",
+    "path": "/459/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/459/params"
+  },
+  {
+    "op": "remove",
+    "path": "/458/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/458/params"
+  },
+  {
+    "op": "remove",
+    "path": "/457/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/457/params"
+  },
+  {
+    "op": "remove",
+    "path": "/456/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/456/params"
+  },
+  {
+    "op": "remove",
+    "path": "/455/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/455/params"
+  },
+  {
+    "op": "remove",
+    "path": "/454/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/454/params"
+  },
+  {
+    "op": "remove",
+    "path": "/453/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/453/params"
+  },
+  {
+    "op": "remove",
+    "path": "/452/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/452/params"
+  },
+  {
+    "op": "remove",
+    "path": "/451/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/451/params"
+  },
+  {
+    "op": "remove",
+    "path": "/450/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/450/params"
+  },
+  {
+    "op": "remove",
+    "path": "/449/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/449/params"
+  },
+  {
+    "op": "remove",
+    "path": "/448/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/448/params"
+  },
+  {
+    "op": "remove",
+    "path": "/447/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/447/params"
+  },
+  {
+    "op": "remove",
+    "path": "/446/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/446/params"
+  },
+  {
+    "op": "remove",
+    "path": "/445/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/445/params"
+  },
+  {
+    "op": "remove",
+    "path": "/444/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/444/params"
+  },
+  {
+    "op": "remove",
+    "path": "/443/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/443/params"
+  },
+  {
+    "op": "remove",
+    "path": "/442/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/442/params"
+  },
+  {
+    "op": "remove",
+    "path": "/441/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/441/params"
+  },
+  {
+    "op": "remove",
+    "path": "/440/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/440/params"
+  },
+  {
+    "op": "remove",
+    "path": "/439/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/439/params"
+  },
+  {
+    "op": "remove",
+    "path": "/438/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/438/params"
+  },
+  {
+    "op": "remove",
+    "path": "/437/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/437/params"
+  },
+  {
+    "op": "remove",
+    "path": "/436/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/436/params"
+  },
+  {
+    "op": "remove",
+    "path": "/435/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/435/params"
+  },
+  {
+    "op": "remove",
+    "path": "/434/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/434/params"
+  },
+  {
+    "op": "remove",
+    "path": "/433/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/433/params"
+  },
+  {
+    "op": "remove",
+    "path": "/432/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/432/params"
+  },
+  {
+    "op": "remove",
+    "path": "/431/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/431/params"
+  },
+  {
+    "op": "remove",
+    "path": "/430/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/430/params"
+  },
+  {
+    "op": "remove",
+    "path": "/429/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/429/params"
+  },
+  {
+    "op": "remove",
+    "path": "/428/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/428/params"
+  },
+  {
+    "op": "remove",
+    "path": "/427/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/427/params"
+  },
+  {
+    "op": "remove",
+    "path": "/426/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/426/params"
+  },
+  {
+    "op": "remove",
+    "path": "/425/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/425/params"
+  },
+  {
+    "op": "remove",
+    "path": "/424/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/424/params"
+  },
+  {
+    "op": "remove",
+    "path": "/423/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/423/params"
+  },
+  {
+    "op": "remove",
+    "path": "/422/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/422/params"
+  },
+  {
+    "op": "remove",
+    "path": "/421/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/421/params"
+  },
+  {
+    "op": "remove",
+    "path": "/420/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/420/params"
+  },
+  {
+    "op": "remove",
+    "path": "/419/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/419/params"
+  },
+  {
+    "op": "remove",
+    "path": "/418/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/418/params"
+  },
+  {
+    "op": "remove",
+    "path": "/417/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/417/params"
+  },
+  {
+    "op": "remove",
+    "path": "/416/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/416/params"
+  },
+  {
+    "op": "remove",
+    "path": "/415/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/415/params"
+  },
+  {
+    "op": "remove",
+    "path": "/414/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/414/params"
+  },
+  {
+    "op": "remove",
+    "path": "/413/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/413/params"
+  },
+  {
+    "op": "remove",
+    "path": "/412/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/412/params"
+  },
+  {
+    "op": "remove",
+    "path": "/411/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/411/params"
+  },
+  {
+    "op": "remove",
+    "path": "/410/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/410/params"
+  },
+  {
+    "op": "remove",
+    "path": "/409/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/409/params"
+  },
+  {
+    "op": "remove",
+    "path": "/408/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/408/params"
+  },
+  {
+    "op": "remove",
+    "path": "/407/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/407/params"
+  },
+  {
+    "op": "remove",
+    "path": "/406/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/406/params"
+  },
+  {
+    "op": "remove",
+    "path": "/405/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/405/params"
+  },
+  {
+    "op": "remove",
+    "path": "/404/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/404/params"
+  },
+  {
+    "op": "remove",
+    "path": "/403/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/403/params"
+  },
+  {
+    "op": "remove",
+    "path": "/402/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/402/params"
+  },
+  {
+    "op": "remove",
+    "path": "/401/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/401/params"
+  },
+  {
+    "op": "remove",
+    "path": "/400/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/400/params"
+  },
+  {
+    "op": "remove",
+    "path": "/399/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/399/params"
+  },
+  {
+    "op": "remove",
+    "path": "/398/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/398/params"
+  },
+  {
+    "op": "remove",
+    "path": "/397/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/397/params"
+  },
+  {
+    "op": "remove",
+    "path": "/396/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/396/params"
+  },
+  {
+    "op": "remove",
+    "path": "/395/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/395/params"
+  },
+  {
+    "op": "remove",
+    "path": "/394/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/394/params"
+  },
+  {
+    "op": "remove",
+    "path": "/393/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/393/params"
+  },
+  {
+    "op": "remove",
+    "path": "/392/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/392/params"
+  },
+  {
+    "op": "remove",
+    "path": "/391/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/391/params"
+  },
+  {
+    "op": "remove",
+    "path": "/390/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/390/params"
+  },
+  {
+    "op": "remove",
+    "path": "/389/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/389/params"
+  },
+  {
+    "op": "remove",
+    "path": "/388/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/388/params"
+  },
+  {
+    "op": "remove",
+    "path": "/387/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/387/params"
+  },
+  {
+    "op": "remove",
+    "path": "/386/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/386/params"
+  },
+  {
+    "op": "remove",
+    "path": "/385/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/385/params"
+  },
+  {
+    "op": "remove",
+    "path": "/384/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/384/params"
+  },
+  {
+    "op": "remove",
+    "path": "/383/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/383/params"
+  },
+  {
+    "op": "remove",
+    "path": "/382/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/382/params"
+  },
+  {
+    "op": "remove",
+    "path": "/381/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/381/params"
+  },
+  {
+    "op": "remove",
+    "path": "/380/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/380/params"
+  },
+  {
+    "op": "remove",
+    "path": "/379/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/379/params"
+  },
+  {
+    "op": "remove",
+    "path": "/378/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/378/params"
+  },
+  {
+    "op": "remove",
+    "path": "/377/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/377/params"
+  },
+  {
+    "op": "remove",
+    "path": "/376/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/376/params"
+  },
+  {
+    "op": "remove",
+    "path": "/375/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/375/params"
+  },
+  {
+    "op": "remove",
+    "path": "/374/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/374/params"
+  },
+  {
+    "op": "remove",
+    "path": "/373/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/373/params"
+  },
+  {
+    "op": "remove",
+    "path": "/372/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/372/params"
+  },
+  {
+    "op": "remove",
+    "path": "/371/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/371/params"
+  },
+  {
+    "op": "remove",
+    "path": "/370/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/370/params"
+  },
+  {
+    "op": "remove",
+    "path": "/369/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/369/params"
+  },
+  {
+    "op": "remove",
+    "path": "/368/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/368/params"
+  },
+  {
+    "op": "remove",
+    "path": "/367/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/367/params"
+  },
+  {
+    "op": "remove",
+    "path": "/366/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/366/params"
+  },
+  {
+    "op": "remove",
+    "path": "/365/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/365/params"
+  },
+  {
+    "op": "remove",
+    "path": "/364/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/364/params"
+  },
+  {
+    "op": "remove",
+    "path": "/363/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/363/params"
+  },
+  {
+    "op": "remove",
+    "path": "/362/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/362/params"
+  },
+  {
+    "op": "remove",
+    "path": "/361/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/361/params"
+  },
+  {
+    "op": "remove",
+    "path": "/360/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/360/params"
+  },
+  {
+    "op": "remove",
+    "path": "/359/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/359/params"
+  },
+  {
+    "op": "remove",
+    "path": "/358/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/358/params"
+  },
+  {
+    "op": "remove",
+    "path": "/357/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/357/params"
+  },
+  {
+    "op": "remove",
+    "path": "/356/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/356/params"
+  },
+  {
+    "op": "remove",
+    "path": "/355/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/355/params"
+  },
+  {
+    "op": "remove",
+    "path": "/354/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/354/params"
+  },
+  {
+    "op": "remove",
+    "path": "/353/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/353/params"
+  },
+  {
+    "op": "remove",
+    "path": "/352/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/352/params"
+  },
+  {
+    "op": "remove",
+    "path": "/351/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/351/params"
+  },
+  {
+    "op": "remove",
+    "path": "/350/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/350/params"
+  },
+  {
+    "op": "remove",
+    "path": "/349/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/349/params"
+  },
+  {
+    "op": "remove",
+    "path": "/348/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/348/params"
+  },
+  {
+    "op": "remove",
+    "path": "/347/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/347/params"
+  },
+  {
+    "op": "remove",
+    "path": "/346/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/346/params"
+  },
+  {
+    "op": "remove",
+    "path": "/345/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/345/params"
+  },
+  {
+    "op": "remove",
+    "path": "/344/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/344/params"
+  },
+  {
+    "op": "remove",
+    "path": "/343/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/343/params"
+  },
+  {
+    "op": "remove",
+    "path": "/342/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/342/params"
+  },
+  {
+    "op": "remove",
+    "path": "/341/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/341/params"
+  },
+  {
+    "op": "remove",
+    "path": "/340/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/340/params"
+  },
+  {
+    "op": "remove",
+    "path": "/339/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/339/params"
+  },
+  {
+    "op": "remove",
+    "path": "/338/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/338/params"
+  },
+  {
+    "op": "remove",
+    "path": "/337/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/337/params"
+  },
+  {
+    "op": "remove",
+    "path": "/336/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/336/params"
+  },
+  {
+    "op": "remove",
+    "path": "/335/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/335/params"
+  },
+  {
+    "op": "remove",
+    "path": "/334/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/334/params"
+  },
+  {
+    "op": "remove",
+    "path": "/333/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/333/params"
+  },
+  {
+    "op": "remove",
+    "path": "/332/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/332/params"
+  },
+  {
+    "op": "remove",
+    "path": "/331/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/331/params"
+  },
+  {
+    "op": "remove",
+    "path": "/330/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/330/params"
+  },
+  {
+    "op": "remove",
+    "path": "/329/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/329/params"
+  },
+  {
+    "op": "remove",
+    "path": "/328/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/328/params"
+  },
+  {
+    "op": "remove",
+    "path": "/327/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/327/params"
+  },
+  {
+    "op": "remove",
+    "path": "/326/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/326/params"
+  },
+  {
+    "op": "remove",
+    "path": "/325/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/325/params"
+  },
+  {
+    "op": "remove",
+    "path": "/324/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/324/params"
+  },
+  {
+    "op": "remove",
+    "path": "/323/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/323/params"
+  },
+  {
+    "op": "remove",
+    "path": "/322/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/322/params"
+  },
+  {
+    "op": "remove",
+    "path": "/321/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/321/params"
+  },
+  {
+    "op": "remove",
+    "path": "/320/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/320/params"
+  },
+  {
+    "op": "remove",
+    "path": "/319/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/319/params"
+  },
+  {
+    "op": "remove",
+    "path": "/318/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/318/params"
+  },
+  {
+    "op": "remove",
+    "path": "/317/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/317/params"
+  },
+  {
+    "op": "remove",
+    "path": "/316/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/316/params"
+  },
+  {
+    "op": "remove",
+    "path": "/315/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/315/params"
+  },
+  {
+    "op": "remove",
+    "path": "/314/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/314/params"
+  },
+  {
+    "op": "remove",
+    "path": "/313/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/313/params"
+  },
+  {
+    "op": "remove",
+    "path": "/312/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/312/params"
+  },
+  {
+    "op": "remove",
+    "path": "/311/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/311/params"
+  },
+  {
+    "op": "remove",
+    "path": "/310/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/310/params"
+  },
+  {
+    "op": "remove",
+    "path": "/309/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/309/params"
+  },
+  {
+    "op": "remove",
+    "path": "/308/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/308/params"
+  },
+  {
+    "op": "remove",
+    "path": "/307/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/307/params"
+  },
+  {
+    "op": "remove",
+    "path": "/306/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/306/params"
+  },
+  {
+    "op": "remove",
+    "path": "/305/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/305/params"
+  },
+  {
+    "op": "remove",
+    "path": "/304/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/304/params"
+  },
+  {
+    "op": "remove",
+    "path": "/303/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/303/params"
+  },
+  {
+    "op": "remove",
+    "path": "/302/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/302/params"
+  },
+  {
+    "op": "remove",
+    "path": "/301/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/301/params"
+  },
+  {
+    "op": "remove",
+    "path": "/300/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/300/params"
+  },
+  {
+    "op": "remove",
+    "path": "/299/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/299/params"
+  },
+  {
+    "op": "remove",
+    "path": "/298/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/298/params"
+  },
+  {
+    "op": "remove",
+    "path": "/297/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/297/params"
+  },
+  {
+    "op": "remove",
+    "path": "/296/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/296/params"
+  },
+  {
+    "op": "remove",
+    "path": "/295/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/295/params"
+  },
+  {
+    "op": "remove",
+    "path": "/294/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/294/params"
+  },
+  {
+    "op": "remove",
+    "path": "/293/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/293/params"
+  },
+  {
+    "op": "remove",
+    "path": "/292/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/292/params"
+  },
+  {
+    "op": "remove",
+    "path": "/291/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/291/params"
+  },
+  {
+    "op": "remove",
+    "path": "/290/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/290/params"
+  },
+  {
+    "op": "remove",
+    "path": "/289/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/289/params"
+  },
+  {
+    "op": "remove",
+    "path": "/288/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/288/params"
+  },
+  {
+    "op": "remove",
+    "path": "/287/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/287/params"
+  },
+  {
+    "op": "remove",
+    "path": "/286/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/286/params"
+  },
+  {
+    "op": "remove",
+    "path": "/285/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/285/params"
+  },
+  {
+    "op": "remove",
+    "path": "/284/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/284/params"
+  },
+  {
+    "op": "remove",
+    "path": "/283/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/283/params"
+  },
+  {
+    "op": "remove",
+    "path": "/282/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/282/params"
+  },
+  {
+    "op": "remove",
+    "path": "/281/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/281/params"
+  },
+  {
+    "op": "remove",
+    "path": "/280/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/280/params"
+  },
+  {
+    "op": "remove",
+    "path": "/279/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/279/params"
+  },
+  {
+    "op": "remove",
+    "path": "/278/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/278/params"
+  },
+  {
+    "op": "remove",
+    "path": "/277/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/277/params"
+  },
+  {
+    "op": "remove",
+    "path": "/276/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/276/params"
+  },
+  {
+    "op": "remove",
+    "path": "/275/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/275/params"
+  },
+  {
+    "op": "remove",
+    "path": "/274/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/274/params"
+  },
+  {
+    "op": "remove",
+    "path": "/273/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/273/params"
+  },
+  {
+    "op": "remove",
+    "path": "/272/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/272/params"
+  },
+  {
+    "op": "remove",
+    "path": "/271/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/271/params"
+  },
+  {
+    "op": "remove",
+    "path": "/270/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/270/params"
+  },
+  {
+    "op": "remove",
+    "path": "/269/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/269/params"
+  },
+  {
+    "op": "remove",
+    "path": "/268/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/268/params"
+  },
+  {
+    "op": "remove",
+    "path": "/267/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/267/params"
+  },
+  {
+    "op": "remove",
+    "path": "/266/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/266/params"
+  },
+  {
+    "op": "remove",
+    "path": "/265/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/265/params"
+  },
+  {
+    "op": "remove",
+    "path": "/264/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/264/params"
+  },
+  {
+    "op": "remove",
+    "path": "/263/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/263/params"
+  },
+  {
+    "op": "remove",
+    "path": "/262/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/262/params"
+  },
+  {
+    "op": "remove",
+    "path": "/261/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/261/params"
+  },
+  {
+    "op": "remove",
+    "path": "/260/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/260/params"
+  },
+  {
+    "op": "remove",
+    "path": "/259/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/259/params"
+  },
+  {
+    "op": "remove",
+    "path": "/258/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/258/params"
+  },
+  {
+    "op": "remove",
+    "path": "/257/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/257/params"
+  },
+  {
+    "op": "remove",
+    "path": "/256/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/256/params"
+  },
+  {
+    "op": "remove",
+    "path": "/255/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/255/params"
+  },
+  {
+    "op": "remove",
+    "path": "/254/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/254/params"
+  },
+  {
+    "op": "remove",
+    "path": "/253/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/253/params"
+  },
+  {
+    "op": "remove",
+    "path": "/252/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/252/params"
+  },
+  {
+    "op": "remove",
+    "path": "/251/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/251/params"
+  },
+  {
+    "op": "remove",
+    "path": "/250/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/250/params"
+  },
+  {
+    "op": "remove",
+    "path": "/249/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/249/params"
+  },
+  {
+    "op": "remove",
+    "path": "/248/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/248/params"
+  },
+  {
+    "op": "remove",
+    "path": "/247/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/247/params"
+  },
+  {
+    "op": "remove",
+    "path": "/246/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/246/params"
+  },
+  {
+    "op": "remove",
+    "path": "/245/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/245/params"
+  },
+  {
+    "op": "remove",
+    "path": "/244/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/244/params"
+  },
+  {
+    "op": "remove",
+    "path": "/243/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/243/params"
+  },
+  {
+    "op": "remove",
+    "path": "/242/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/242/params"
+  },
+  {
+    "op": "remove",
+    "path": "/241/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/241/params"
+  },
+  {
+    "op": "remove",
+    "path": "/240/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/240/params"
+  },
+  {
+    "op": "remove",
+    "path": "/239/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/239/params"
+  },
+  {
+    "op": "remove",
+    "path": "/238/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/238/params"
+  },
+  {
+    "op": "remove",
+    "path": "/237/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/237/params"
+  },
+  {
+    "op": "remove",
+    "path": "/236/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/236/params"
+  },
+  {
+    "op": "remove",
+    "path": "/235/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/235/params"
+  },
+  {
+    "op": "remove",
+    "path": "/234/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/234/params"
+  },
+  {
+    "op": "remove",
+    "path": "/233/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/233/params"
+  },
+  {
+    "op": "remove",
+    "path": "/232/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/232/params"
+  },
+  {
+    "op": "remove",
+    "path": "/231/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/231/params"
+  },
+  {
+    "op": "remove",
+    "path": "/230/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/230/params"
+  },
+  {
+    "op": "remove",
+    "path": "/229/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/229/params"
+  },
+  {
+    "op": "remove",
+    "path": "/228/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/228/params"
+  },
+  {
+    "op": "remove",
+    "path": "/227/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/227/params"
+  },
+  {
+    "op": "remove",
+    "path": "/226/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/226/params"
+  },
+  {
+    "op": "remove",
+    "path": "/225/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/225/params"
+  },
+  {
+    "op": "remove",
+    "path": "/224/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/224/params"
+  },
+  {
+    "op": "remove",
+    "path": "/223/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/223/params"
+  },
+  {
+    "op": "remove",
+    "path": "/222/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/222/params"
+  },
+  {
+    "op": "remove",
+    "path": "/221/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/221/params"
+  },
+  {
+    "op": "remove",
+    "path": "/220/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/220/params"
+  },
+  {
+    "op": "remove",
+    "path": "/219/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/219/params"
+  },
+  {
+    "op": "remove",
+    "path": "/218/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/218/params"
+  },
+  {
+    "op": "remove",
+    "path": "/217/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/217/params"
+  },
+  {
+    "op": "remove",
+    "path": "/216/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/216/params"
+  },
+  {
+    "op": "remove",
+    "path": "/215/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/215/params"
+  },
+  {
+    "op": "remove",
+    "path": "/214/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/214/params"
+  },
+  {
+    "op": "remove",
+    "path": "/213/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/213/params"
+  },
+  {
+    "op": "remove",
+    "path": "/212/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/212/params"
+  },
+  {
+    "op": "remove",
+    "path": "/211/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/211/params"
+  },
+  {
+    "op": "remove",
+    "path": "/210/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/210/params"
+  },
+  {
+    "op": "remove",
+    "path": "/209/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/209/params"
+  },
+  {
+    "op": "remove",
+    "path": "/208/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/208/params"
+  },
+  {
+    "op": "remove",
+    "path": "/207/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/207/params"
+  },
+  {
+    "op": "remove",
+    "path": "/206/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/206/params"
+  },
+  {
+    "op": "remove",
+    "path": "/205/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/205/params"
+  },
+  {
+    "op": "remove",
+    "path": "/204/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/204/params"
+  },
+  {
+    "op": "remove",
+    "path": "/203/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/203/params"
+  },
+  {
+    "op": "remove",
+    "path": "/202/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/202/params"
+  },
+  {
+    "op": "remove",
+    "path": "/201/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/201/params"
+  },
+  {
+    "op": "remove",
+    "path": "/200/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/200/params"
+  },
+  {
+    "op": "remove",
+    "path": "/199/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/199/params"
+  },
+  {
+    "op": "remove",
+    "path": "/198/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/198/params"
+  },
+  {
+    "op": "remove",
+    "path": "/197/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/197/params"
+  },
+  {
+    "op": "replace",
+    "path": "/197/message2",
+    "value": " feels HAPPY!"
+  },
+  {
+    "op": "replace",
+    "path": "/197/message1",
+    "value": " feels HAPPY!"
+  },
+  {
+    "op": "remove",
+    "path": "/196/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/196/params"
+  },
+  {
+    "op": "remove",
+    "path": "/195/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/195/params"
+  },
+  {
+    "op": "remove",
+    "path": "/194/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/194/params"
+  },
+  {
+    "op": "remove",
+    "path": "/193/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/193/params"
+  },
+  {
+    "op": "remove",
+    "path": "/192/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/192/params"
+  },
+  {
+    "op": "remove",
+    "path": "/191/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/191/params"
+  },
+  {
+    "op": "remove",
+    "path": "/190/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/190/params"
+  },
+  {
+    "op": "remove",
+    "path": "/189/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/189/params"
+  },
+  {
+    "op": "remove",
+    "path": "/188/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/188/params"
+  },
+  {
+    "op": "remove",
+    "path": "/187/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/187/params"
+  },
+  {
+    "op": "remove",
+    "path": "/186/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/186/params"
+  },
+  {
+    "op": "remove",
+    "path": "/185/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/185/params"
+  },
+  {
+    "op": "remove",
+    "path": "/184/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/184/params"
+  },
+  {
+    "op": "remove",
+    "path": "/183/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/183/params"
+  },
+  {
+    "op": "remove",
+    "path": "/181/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/181/params"
+  },
+  {
+    "op": "remove",
+    "path": "/180/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/180/params"
+  },
+  {
+    "op": "remove",
+    "path": "/179/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/179/params"
+  },
+  {
+    "op": "remove",
+    "path": "/178/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/178/params"
+  },
+  {
+    "op": "remove",
+    "path": "/177/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/177/params"
+  },
+  {
+    "op": "remove",
+    "path": "/176/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/176/params"
+  },
+  {
+    "op": "remove",
+    "path": "/175/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/175/params"
+  },
+  {
+    "op": "remove",
+    "path": "/174/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/174/params"
+  },
+  {
+    "op": "remove",
+    "path": "/173/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/173/params"
+  },
+  {
+    "op": "remove",
+    "path": "/172/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/172/params"
+  },
+  {
+    "op": "remove",
+    "path": "/171/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/171/params"
+  },
+  {
+    "op": "remove",
+    "path": "/170/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/170/params"
+  },
+  {
+    "op": "remove",
+    "path": "/169/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/169/params"
+  },
+  {
+    "op": "remove",
+    "path": "/168/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/168/params"
+  },
+  {
+    "op": "remove",
+    "path": "/167/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/167/params"
+  },
+  {
+    "op": "remove",
+    "path": "/166/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/166/params"
+  },
+  {
+    "op": "remove",
+    "path": "/165/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/165/params"
+  },
+  {
+    "op": "remove",
+    "path": "/164/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/164/params"
+  },
+  {
+    "op": "remove",
+    "path": "/163/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/163/params"
+  },
+  {
+    "op": "remove",
+    "path": "/162/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/162/params"
+  },
+  {
+    "op": "remove",
+    "path": "/161/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/161/params"
+  },
+  {
+    "op": "remove",
+    "path": "/160/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/160/params"
+  },
+  {
+    "op": "remove",
+    "path": "/159/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/159/params"
+  },
+  {
+    "op": "remove",
+    "path": "/158/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/158/params"
+  },
+  {
+    "op": "remove",
+    "path": "/157/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/157/params"
+  },
+  {
+    "op": "remove",
+    "path": "/156/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/156/params"
+  },
+  {
+    "op": "remove",
+    "path": "/155/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/155/params"
+  },
+  {
+    "op": "remove",
+    "path": "/154/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/154/params"
+  },
+  {
+    "op": "remove",
+    "path": "/153/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/153/params"
+  },
+  {
+    "op": "remove",
+    "path": "/152/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/152/params"
+  },
+  {
+    "op": "remove",
+    "path": "/151/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/151/params"
+  },
+  {
+    "op": "remove",
+    "path": "/150/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/150/params"
+  },
+  {
+    "op": "remove",
+    "path": "/149/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/149/params"
+  },
+  {
+    "op": "remove",
+    "path": "/148/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/148/params"
+  },
+  {
+    "op": "remove",
+    "path": "/147/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/147/params"
+  },
+  {
+    "op": "remove",
+    "path": "/146/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/146/params"
+  },
+  {
+    "op": "remove",
+    "path": "/145/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/145/params"
+  },
+  {
+    "op": "remove",
+    "path": "/144/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/144/params"
+  },
+  {
+    "op": "remove",
+    "path": "/143/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/143/params"
+  },
+  {
+    "op": "remove",
+    "path": "/142/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/142/params"
+  },
+  {
+    "op": "remove",
+    "path": "/141/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/141/params"
+  },
+  {
+    "op": "remove",
+    "path": "/140/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/140/params"
+  },
+  {
+    "op": "remove",
+    "path": "/139/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/139/params"
+  },
+  {
+    "op": "remove",
+    "path": "/138/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/138/params"
+  },
+  {
+    "op": "remove",
+    "path": "/137/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/137/params"
+  },
+  {
+    "op": "remove",
+    "path": "/136/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/136/params"
+  },
+  {
+    "op": "remove",
+    "path": "/135/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/135/params"
+  },
+  {
+    "op": "remove",
+    "path": "/134/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/134/params"
+  },
+  {
+    "op": "remove",
+    "path": "/133/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/133/params"
+  },
+  {
+    "op": "remove",
+    "path": "/132/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/132/params"
+  },
+  {
+    "op": "remove",
+    "path": "/131/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/131/params"
+  },
+  {
+    "op": "remove",
+    "path": "/130/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/130/params"
+  },
+  {
+    "op": "remove",
+    "path": "/129/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/129/params"
+  },
+  {
+    "op": "remove",
+    "path": "/128/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/128/params"
+  },
+  {
+    "op": "remove",
+    "path": "/127/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/127/params"
+  },
+  {
+    "op": "remove",
+    "path": "/126/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/126/params"
+  },
+  {
+    "op": "replace",
+    "path": "/126/message2",
+    "value": " became MISERABLE..."
+  },
+  {
+    "op": "replace",
+    "path": "/126/message1",
+    "value": " became MISERABLE..."
+  },
+  {
+    "op": "remove",
+    "path": "/125/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/125/params"
+  },
+  {
+    "op": "replace",
+    "path": "/125/message2",
+    "value": " became DEPRESSED..."
+  },
+  {
+    "op": "replace",
+    "path": "/125/message1",
+    "value": " became DEPRESSED..."
+  },
+  {
+    "op": "remove",
+    "path": "/124/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/124/params"
+  },
+  {
+    "op": "replace",
+    "path": "/124/message2",
+    "value": " became SAD..."
+  },
+  {
+    "op": "replace",
+    "path": "/124/message1",
+    "value": " became SAD..."
+  },
+  {
+    "op": "remove",
+    "path": "/123/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/123/params"
+  },
+  {
+    "op": "replace",
+    "path": "/123/message2",
+    "value": " became MANIC!"
+  },
+  {
+    "op": "replace",
+    "path": "/123/message1",
+    "value": " became MANIC!"
+  },
+  {
+    "op": "remove",
+    "path": "/122/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/122/params"
+  },
+  {
+    "op": "replace",
+    "path": "/122/message2",
+    "value": " became ECSTATIC!"
+  },
+  {
+    "op": "replace",
+    "path": "/122/message1",
+    "value": " became ECSTATIC!"
+  },
+  {
+    "op": "remove",
+    "path": "/121/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/121/params"
+  },
+  {
+    "op": "replace",
+    "path": "/121/message2",
+    "value": " became FURIOUS!"
+  },
+  {
+    "op": "replace",
+    "path": "/121/message1",
+    "value": " became FURIOUS!"
+  },
+  {
+    "op": "remove",
+    "path": "/120/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/120/params"
+  },
+  {
+    "op": "replace",
+    "path": "/120/message2",
+    "value": " became ENRAGED!"
+  },
+  {
+    "op": "replace",
+    "path": "/120/message1",
+    "value": " became ENRAGED!"
+  },
+  {
+    "op": "remove",
+    "path": "/119/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/119/params"
+  },
+  {
+    "op": "replace",
+    "path": "/119/message2",
+    "value": " is ANGRY!"
+  },
+  {
+    "op": "replace",
+    "path": "/119/message1",
+    "value": " is ANGRY!"
+  },
+  {
+    "op": "remove",
+    "path": "/118/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/118/params"
+  },
+  {
+    "op": "remove",
+    "path": "/117/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/117/params"
+  },
+  {
+    "op": "remove",
+    "path": "/116/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/116/params"
+  },
+  {
+    "op": "remove",
+    "path": "/115/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/115/params"
+  },
+  {
+    "op": "remove",
+    "path": "/114/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/114/params"
+  },
+  {
+    "op": "remove",
+    "path": "/113/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/113/params"
+  },
+  {
+    "op": "remove",
+    "path": "/112/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/112/params"
+  },
+  {
+    "op": "remove",
+    "path": "/111/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/111/params"
+  },
+  {
+    "op": "remove",
+    "path": "/110/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/110/params"
+  },
+  {
+    "op": "remove",
+    "path": "/109/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/109/params"
+  },
+  {
+    "op": "remove",
+    "path": "/108/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/108/params"
+  },
+  {
+    "op": "remove",
+    "path": "/107/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/107/params"
+  },
+  {
+    "op": "remove",
+    "path": "/106/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/106/params"
+  },
+  {
+    "op": "replace",
+    "path": "/106/message2",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/106/message1",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/105/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/105/params"
+  },
+  {
+    "op": "replace",
+    "path": "/105/message2",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/105/message1",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/104/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/104/params"
+  },
+  {
+    "op": "replace",
+    "path": "/104/message2",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/104/message1",
+    "value": "'s SPEED fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/103/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/103/params"
+  },
+  {
+    "op": "replace",
+    "path": "/103/message2",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/103/message1",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/102/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/102/params"
+  },
+  {
+    "op": "replace",
+    "path": "/102/message2",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/102/message1",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/101/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/101/params"
+  },
+  {
+    "op": "replace",
+    "path": "/101/message2",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/101/message1",
+    "value": "'s SPEED rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/100/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/100/params"
+  },
+  {
+    "op": "replace",
+    "path": "/100/message2",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/100/message1",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/99/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/99/params"
+  },
+  {
+    "op": "replace",
+    "path": "/99/message2",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/99/message1",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/98/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/98/params"
+  },
+  {
+    "op": "replace",
+    "path": "/98/message2",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/98/message1",
+    "value": "'s DEFENSE fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/97/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/97/params"
+  },
+  {
+    "op": "replace",
+    "path": "/97/message2",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/97/message1",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/96/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/96/params"
+  },
+  {
+    "op": "replace",
+    "path": "/96/message2",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/96/message1",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/95/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/95/params"
+  },
+  {
+    "op": "replace",
+    "path": "/95/message2",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/95/message1",
+    "value": "'s DEFENSE rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/94/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/94/params"
+  },
+  {
+    "op": "replace",
+    "path": "/94/message2",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/94/message1",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/93/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/93/params"
+  },
+  {
+    "op": "replace",
+    "path": "/93/message2",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/93/message1",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/92/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/92/params"
+  },
+  {
+    "op": "replace",
+    "path": "/92/message2",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "replace",
+    "path": "/92/message1",
+    "value": "'s ATTACK fell!"
+  },
+  {
+    "op": "remove",
+    "path": "/91/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/91/params"
+  },
+  {
+    "op": "replace",
+    "path": "/91/message2",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/91/message1",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/90/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/90/params"
+  },
+  {
+    "op": "replace",
+    "path": "/90/message2",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/90/message1",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/89/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/89/params"
+  },
+  {
+    "op": "replace",
+    "path": "/89/message2",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "replace",
+    "path": "/89/message1",
+    "value": "'s ATTACK rose!"
+  },
+  {
+    "op": "remove",
+    "path": "/88/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/88/params"
+  },
+  {
+    "op": "remove",
+    "path": "/87/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/87/params"
+  },
+  {
+    "op": "remove",
+    "path": "/86/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/86/params"
+  },
+  {
+    "op": "remove",
+    "path": "/85/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/85/params"
+  },
+  {
+    "op": "remove",
+    "path": "/84/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/84/params"
+  },
+  {
+    "op": "remove",
+    "path": "/83/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/83/params"
+  },
+  {
+    "op": "remove",
+    "path": "/82/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/82/params"
+  },
+  {
+    "op": "remove",
+    "path": "/81/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/81/params"
+  },
+  {
+    "op": "remove",
+    "path": "/80/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/80/params"
+  },
+  {
+    "op": "remove",
+    "path": "/79/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/79/params"
+  },
+  {
+    "op": "remove",
+    "path": "/78/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/78/params"
+  },
+  {
+    "op": "remove",
+    "path": "/77/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/77/params"
+  },
+  {
+    "op": "remove",
+    "path": "/76/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/76/params"
+  },
+  {
+    "op": "remove",
+    "path": "/75/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/75/params"
+  },
+  {
+    "op": "remove",
+    "path": "/74/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/74/params"
+  },
+  {
+    "op": "remove",
+    "path": "/73/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/73/params"
+  },
+  {
+    "op": "remove",
+    "path": "/72/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/72/params"
+  },
+  {
+    "op": "remove",
+    "path": "/71/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/71/params"
+  },
+  {
+    "op": "remove",
+    "path": "/70/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/70/params"
+  },
+  {
+    "op": "remove",
+    "path": "/69/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/69/params"
+  },
+  {
+    "op": "remove",
+    "path": "/68/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/68/params"
+  },
+  {
+    "op": "remove",
+    "path": "/67/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/67/params"
+  },
+  {
+    "op": "remove",
+    "path": "/66/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/66/params"
+  },
+  {
+    "op": "remove",
+    "path": "/65/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/65/params"
+  },
+  {
+    "op": "remove",
+    "path": "/64/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/64/params"
+  },
+  {
+    "op": "remove",
+    "path": "/63/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/63/params"
+  },
+  {
+    "op": "remove",
+    "path": "/62/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/62/params"
+  },
+  {
+    "op": "remove",
+    "path": "/61/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/61/params"
+  },
+  {
+    "op": "remove",
+    "path": "/60/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/60/params"
+  },
+  {
+    "op": "remove",
+    "path": "/59/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/59/params"
+  },
+  {
+    "op": "remove",
+    "path": "/58/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/58/params"
+  },
+  {
+    "op": "remove",
+    "path": "/57/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/57/params"
+  },
+  {
+    "op": "remove",
+    "path": "/56/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/56/params"
+  },
+  {
+    "op": "remove",
+    "path": "/55/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/55/params"
+  },
+  {
+    "op": "remove",
+    "path": "/54/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/54/params"
+  },
+  {
+    "op": "remove",
+    "path": "/53/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/53/params"
+  },
+  {
+    "op": "remove",
+    "path": "/52/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/52/params"
+  },
+  {
+    "op": "replace",
+    "path": "/52/message4",
+    "value": " revives!"
+  },
+  {
+    "op": "replace",
+    "path": "/52/message2",
+    "value": " is slain!"
+  },
+  {
+    "op": "replace",
+    "path": "/52/message1",
+    "value": " has fallen!"
+  },
+  {
+    "op": "remove",
+    "path": "/51/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/51/params"
+  },
+  {
+    "op": "remove",
+    "path": "/50/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/50/params"
+  },
+  {
+    "op": "remove",
+    "path": "/49/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/49/params"
+  },
+  {
+    "op": "remove",
+    "path": "/48/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/48/params"
+  },
+  {
+    "op": "remove",
+    "path": "/47/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/47/params"
+  },
+  {
+    "op": "remove",
+    "path": "/46/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/46/params"
+  },
+  {
+    "op": "remove",
+    "path": "/45/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/45/params"
+  },
+  {
+    "op": "remove",
+    "path": "/44/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/44/params"
+  },
+  {
+    "op": "remove",
+    "path": "/43/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/43/params"
+  },
+  {
+    "op": "remove",
+    "path": "/42/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/42/params"
+  },
+  {
+    "op": "remove",
+    "path": "/41/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/41/params"
+  },
+  {
+    "op": "remove",
+    "path": "/40/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/40/params"
+  },
+  {
+    "op": "remove",
+    "path": "/39/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/39/params"
+  },
+  {
+    "op": "remove",
+    "path": "/38/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/38/params"
+  },
+  {
+    "op": "remove",
+    "path": "/37/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/37/params"
+  },
+  {
+    "op": "remove",
+    "path": "/36/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/36/params"
+  },
+  {
+    "op": "remove",
+    "path": "/35/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/35/params"
+  },
+  {
+    "op": "remove",
+    "path": "/34/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/34/params"
+  },
+  {
+    "op": "remove",
+    "path": "/33/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/33/params"
+  },
+  {
+    "op": "remove",
+    "path": "/32/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/32/params"
+  },
+  {
+    "op": "remove",
+    "path": "/31/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/31/params"
+  },
+  {
+    "op": "remove",
+    "path": "/30/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/30/params"
+  },
+  {
+    "op": "remove",
+    "path": "/29/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/29/params"
+  },
+  {
+    "op": "remove",
+    "path": "/28/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/28/params"
+  },
+  {
+    "op": "remove",
+    "path": "/27/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/27/params"
+  },
+  {
+    "op": "remove",
+    "path": "/26/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/26/params"
+  },
+  {
+    "op": "remove",
+    "path": "/25/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/25/params"
+  },
+  {
+    "op": "remove",
+    "path": "/24/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/24/params"
+  },
+  {
+    "op": "remove",
+    "path": "/23/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/23/params"
+  },
+  {
+    "op": "remove",
+    "path": "/22/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/22/params"
+  },
+  {
+    "op": "remove",
+    "path": "/21/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/21/params"
+  },
+  {
+    "op": "remove",
+    "path": "/20/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/20/params"
+  },
+  {
+    "op": "remove",
+    "path": "/19/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/19/params"
+  },
+  {
+    "op": "remove",
+    "path": "/18/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/18/params"
+  },
+  {
+    "op": "replace",
+    "path": "/18/message4",
+    "value": " calmed down."
+  },
+  {
+    "op": "replace",
+    "path": "/18/message2",
+    "value": " feels AFRAID..."
+  },
+  {
+    "op": "replace",
+    "path": "/18/message1",
+    "value": " feels AFRAID..."
+  },
+  {
+    "op": "remove",
+    "path": "/17/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/17/params"
+  },
+  {
+    "op": "remove",
+    "path": "/16/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/16/params"
+  },
+  {
+    "op": "replace",
+    "path": "/16/message2",
+    "value": " feels FURIOUS!"
+  },
+  {
+    "op": "replace",
+    "path": "/16/message1",
+    "value": " feels FURIOUS!"
+  },
+  {
+    "op": "remove",
+    "path": "/15/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/15/params"
+  },
+  {
+    "op": "replace",
+    "path": "/15/message2",
+    "value": " feels ENRAGED!"
+  },
+  {
+    "op": "replace",
+    "path": "/15/message1",
+    "value": " feels ENRAGED!"
+  },
+  {
+    "op": "remove",
+    "path": "/14/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/14/params"
+  },
+  {
+    "op": "replace",
+    "path": "/14/message2",
+    "value": " feels ANGRY!"
+  },
+  {
+    "op": "replace",
+    "path": "/14/message1",
+    "value": " feels ANGRY!"
+  },
+  {
+    "op": "remove",
+    "path": "/13/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/13/params"
+  },
+  {
+    "op": "remove",
+    "path": "/12/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/12/params"
+  },
+  {
+    "op": "replace",
+    "path": "/12/message2",
+    "value": " feels MISERABLE..."
+  },
+  {
+    "op": "replace",
+    "path": "/12/message1",
+    "value": " feels MISERABLE..."
+  },
+  {
+    "op": "remove",
+    "path": "/11/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/11/params"
+  },
+  {
+    "op": "replace",
+    "path": "/11/message2",
+    "value": " feels DEPRESSED..."
+  },
+  {
+    "op": "replace",
+    "path": "/11/message1",
+    "value": " feels DEPRESSED..."
+  },
+  {
+    "op": "remove",
+    "path": "/10/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/10/params"
+  },
+  {
+    "op": "replace",
+    "path": "/10/message2",
+    "value": " feels SAD..."
+  },
+  {
+    "op": "replace",
+    "path": "/10/message1",
+    "value": " feels SAD..."
+  },
+  {
+    "op": "remove",
+    "path": "/9/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/9/params"
+  },
+  {
+    "op": "remove",
+    "path": "/8/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/8/params"
+  },
+  {
+    "op": "replace",
+    "path": "/8/message2",
+    "value": " feels MANIC!"
+  },
+  {
+    "op": "replace",
+    "path": "/8/message1",
+    "value": " feels MANIC!"
+  },
+  {
+    "op": "remove",
+    "path": "/7/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/7/params"
+  },
+  {
+    "op": "replace",
+    "path": "/7/message2",
+    "value": " feels ECSTATIC!"
+  },
+  {
+    "op": "replace",
+    "path": "/7/message1",
+    "value": " feels ECSTATIC!"
+  },
+  {
+    "op": "remove",
+    "path": "/6/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/6/params"
+  },
+  {
+    "op": "replace",
+    "path": "/6/message2",
+    "value": " feels HAPPY!"
+  },
+  {
+    "op": "replace",
+    "path": "/6/message1",
+    "value": " feels HAPPY!"
+  },
+  {
+    "op": "remove",
+    "path": "/5/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/5/params"
+  },
+  {
+    "op": "remove",
+    "path": "/4/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/4/params"
+  },
+  {
+    "op": "remove",
+    "path": "/3/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/3/params"
+  },
+  {
+    "op": "remove",
+    "path": "/2/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/2/params"
+  },
+  {
+    "op": "remove",
+    "path": "/1/damage"
+  },
+  {
+    "op": "remove",
+    "path": "/1/params"
+  },
+  {
+    "op": "replace",
+    "path": "/1/message4",
+    "value": " rose again!"
+  },
+  {
+    "op": "replace",
+    "path": "/1/message2",
+    "value": " was defeated!"
+  },
+  {
+    "op": "replace",
+    "path": "/1/message1",
+    "value": " became TOAST!"
+  }
+]

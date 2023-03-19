@@ -433,27 +433,12 @@
     "path": "/89/damage"
   },
   {
-    "op": "replace",
-    "path": "/89/note",
-    "value": "<IconIndex:69>\n<gachaImage:YellowSlinky>\n<gachaNumLot: 2>\n<gachaRank: 3> \n"
-  },
-  {
     "op": "remove",
     "path": "/88/damage"
   },
   {
-    "op": "replace",
-    "path": "/88/note",
-    "value": "<IconIndex:69>\n<gachaImage:BlueSlinky>\n<gachaNumLot: 3>\n<gachaRank: 2> \n"
-  },
-  {
     "op": "remove",
     "path": "/87/damage"
-  },
-  {
-    "op": "replace",
-    "path": "/87/note",
-    "value": "<IconIndex:69>\n<gachaImage:GreenSlinky>\n<gachaNumLot: 4>\n<gachaRank: 1> \n"
   },
   {
     "op": "remove",

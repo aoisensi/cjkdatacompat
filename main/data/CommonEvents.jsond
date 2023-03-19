@@ -1,10 +1,5 @@
 [
   {
-    "op": "replace",
-    "path": "/958/name",
-    "value": "SNALEY RELEASE ENERGY"
-  },
-  {
     "op": "add",
     "path": "/958/list/0/parameters/0",
     "value": 30
@@ -1367,7 +1362,7 @@
   {
     "op": "replace",
     "path": "/177/list/69/parameters/0",
-    "value": "‚òÖ BLACKSPACE ENTRANCE"
+    "value": "Åö BLACKSPACE ENTRANCE"
   },
   {
     "op": "replace",
@@ -1387,7 +1382,7 @@
   {
     "op": "replace",
     "path": "/177/list/66/parameters/0",
-    "value": "‚òÖ FIX FOR RED MAZE"
+    "value": "Åö FIX FOR RED MAZE"
   },
   {
     "op": "add",
@@ -7459,11 +7454,6 @@
     }
   },
   {
-    "op": "replace",
-    "path": "/62/name",
-    "value": "‚òÖ GRAPHICS: ON LOAD"
-  },
-  {
     "op": "add",
     "path": "/62/list/0/parameters/0",
     "value": "-----------------------------------------------"
@@ -7480,7 +7470,7 @@
       "code": 408,
       "indent": 0,
       "parameters": [
-        "‚òÖ GRAPHICS: ON LOAD"
+        "Åö GRAPHICS: ON LOAD"
       ]
     }
   },

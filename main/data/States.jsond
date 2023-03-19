@@ -4384,11 +4384,6 @@
     "path": "/52/params"
   },
   {
-    "op": "replace",
-    "path": "/52/message4",
-    "value": " revives!"
-  },
-  {
     "op": "remove",
     "path": "/51/damage"
   },
@@ -4661,11 +4656,6 @@
     "path": "/18/params"
   },
   {
-    "op": "replace",
-    "path": "/18/message4",
-    "value": " calmed down."
-  },
-  {
     "op": "remove",
     "path": "/17/damage"
   },
@@ -4800,10 +4790,5 @@
   {
     "op": "remove",
     "path": "/1/params"
-  },
-  {
-    "op": "replace",
-    "path": "/1/message4",
-    "value": " rose again!"
   }
 ]

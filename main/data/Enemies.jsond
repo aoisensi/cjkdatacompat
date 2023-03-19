@@ -6280,11 +6280,6 @@
     "path": "/101/damage"
   },
   {
-    "op": "replace",
-    "path": "/101/note",
-    "value": "<TransformBaseID: 101>\n<ZIndex:2>\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 373, target\nHP% param <= 20%: SKILL 375, target\nRandom 75%: SKILL 373, target\nRandom 100%: SKILL 374, target\n</AI Priority>\n\n<Sideview Battler: !battle_creepy_pasta>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 60, 110>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -115>\n<DamageOffsetY: 40>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>"
-  },
-  {
     "op": "remove",
     "path": "/100/damage"
   },
@@ -6707,11 +6702,6 @@
     "op": "replace",
     "path": "/10/params/2",
     "value": 50
-  },
-  {
-    "op": "replace",
-    "path": "/10/note",
-    "value": "\n\n<Sideview Battler: !battle_snaley>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 207, 225>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<StatusYOffset: -150>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>"
   },
   {
     "op": "replace",

@@ -3232,16 +3232,6 @@
     "path": "/197/params"
   },
   {
-    "op": "replace",
-    "path": "/197/message2",
-    "value": " feels HAPPY!"
-  },
-  {
-    "op": "replace",
-    "path": "/197/message1",
-    "value": " feels HAPPY!"
-  },
-  {
     "op": "remove",
     "path": "/196/damage"
   },
@@ -3802,32 +3792,12 @@
     "path": "/126/params"
   },
   {
-    "op": "replace",
-    "path": "/126/message2",
-    "value": " became MISERABLE..."
-  },
-  {
-    "op": "replace",
-    "path": "/126/message1",
-    "value": " became MISERABLE..."
-  },
-  {
     "op": "remove",
     "path": "/125/damage"
   },
   {
     "op": "remove",
     "path": "/125/params"
-  },
-  {
-    "op": "replace",
-    "path": "/125/message2",
-    "value": " became DEPRESSED..."
-  },
-  {
-    "op": "replace",
-    "path": "/125/message1",
-    "value": " became DEPRESSED..."
   },
   {
     "op": "remove",
@@ -3838,32 +3808,12 @@
     "path": "/124/params"
   },
   {
-    "op": "replace",
-    "path": "/124/message2",
-    "value": " became SAD..."
-  },
-  {
-    "op": "replace",
-    "path": "/124/message1",
-    "value": " became SAD..."
-  },
-  {
     "op": "remove",
     "path": "/123/damage"
   },
   {
     "op": "remove",
     "path": "/123/params"
-  },
-  {
-    "op": "replace",
-    "path": "/123/message2",
-    "value": " became MANIC!"
-  },
-  {
-    "op": "replace",
-    "path": "/123/message1",
-    "value": " became MANIC!"
   },
   {
     "op": "remove",
@@ -3874,32 +3824,12 @@
     "path": "/122/params"
   },
   {
-    "op": "replace",
-    "path": "/122/message2",
-    "value": " became ECSTATIC!"
-  },
-  {
-    "op": "replace",
-    "path": "/122/message1",
-    "value": " became ECSTATIC!"
-  },
-  {
     "op": "remove",
     "path": "/121/damage"
   },
   {
     "op": "remove",
     "path": "/121/params"
-  },
-  {
-    "op": "replace",
-    "path": "/121/message2",
-    "value": " became FURIOUS!"
-  },
-  {
-    "op": "replace",
-    "path": "/121/message1",
-    "value": " became FURIOUS!"
   },
   {
     "op": "remove",
@@ -3910,32 +3840,12 @@
     "path": "/120/params"
   },
   {
-    "op": "replace",
-    "path": "/120/message2",
-    "value": " became ENRAGED!"
-  },
-  {
-    "op": "replace",
-    "path": "/120/message1",
-    "value": " became ENRAGED!"
-  },
-  {
     "op": "remove",
     "path": "/119/damage"
   },
   {
     "op": "remove",
     "path": "/119/params"
-  },
-  {
-    "op": "replace",
-    "path": "/119/message2",
-    "value": " is ANGRY!"
-  },
-  {
-    "op": "replace",
-    "path": "/119/message1",
-    "value": " is ANGRY!"
   },
   {
     "op": "remove",
@@ -4042,32 +3952,12 @@
     "path": "/106/params"
   },
   {
-    "op": "replace",
-    "path": "/106/message2",
-    "value": "'s SPEED fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/106/message1",
-    "value": "'s SPEED fell!"
-  },
-  {
     "op": "remove",
     "path": "/105/damage"
   },
   {
     "op": "remove",
     "path": "/105/params"
-  },
-  {
-    "op": "replace",
-    "path": "/105/message2",
-    "value": "'s SPEED fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/105/message1",
-    "value": "'s SPEED fell!"
   },
   {
     "op": "remove",
@@ -4078,32 +3968,12 @@
     "path": "/104/params"
   },
   {
-    "op": "replace",
-    "path": "/104/message2",
-    "value": "'s SPEED fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/104/message1",
-    "value": "'s SPEED fell!"
-  },
-  {
     "op": "remove",
     "path": "/103/damage"
   },
   {
     "op": "remove",
     "path": "/103/params"
-  },
-  {
-    "op": "replace",
-    "path": "/103/message2",
-    "value": "'s SPEED rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/103/message1",
-    "value": "'s SPEED rose!"
   },
   {
     "op": "remove",
@@ -4114,32 +3984,12 @@
     "path": "/102/params"
   },
   {
-    "op": "replace",
-    "path": "/102/message2",
-    "value": "'s SPEED rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/102/message1",
-    "value": "'s SPEED rose!"
-  },
-  {
     "op": "remove",
     "path": "/101/damage"
   },
   {
     "op": "remove",
     "path": "/101/params"
-  },
-  {
-    "op": "replace",
-    "path": "/101/message2",
-    "value": "'s SPEED rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/101/message1",
-    "value": "'s SPEED rose!"
   },
   {
     "op": "remove",
@@ -4150,32 +4000,12 @@
     "path": "/100/params"
   },
   {
-    "op": "replace",
-    "path": "/100/message2",
-    "value": "'s DEFENSE fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/100/message1",
-    "value": "'s DEFENSE fell!"
-  },
-  {
     "op": "remove",
     "path": "/99/damage"
   },
   {
     "op": "remove",
     "path": "/99/params"
-  },
-  {
-    "op": "replace",
-    "path": "/99/message2",
-    "value": "'s DEFENSE fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/99/message1",
-    "value": "'s DEFENSE fell!"
   },
   {
     "op": "remove",
@@ -4186,32 +4016,12 @@
     "path": "/98/params"
   },
   {
-    "op": "replace",
-    "path": "/98/message2",
-    "value": "'s DEFENSE fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/98/message1",
-    "value": "'s DEFENSE fell!"
-  },
-  {
     "op": "remove",
     "path": "/97/damage"
   },
   {
     "op": "remove",
     "path": "/97/params"
-  },
-  {
-    "op": "replace",
-    "path": "/97/message2",
-    "value": "'s DEFENSE rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/97/message1",
-    "value": "'s DEFENSE rose!"
   },
   {
     "op": "remove",
@@ -4222,32 +4032,12 @@
     "path": "/96/params"
   },
   {
-    "op": "replace",
-    "path": "/96/message2",
-    "value": "'s DEFENSE rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/96/message1",
-    "value": "'s DEFENSE rose!"
-  },
-  {
     "op": "remove",
     "path": "/95/damage"
   },
   {
     "op": "remove",
     "path": "/95/params"
-  },
-  {
-    "op": "replace",
-    "path": "/95/message2",
-    "value": "'s DEFENSE rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/95/message1",
-    "value": "'s DEFENSE rose!"
   },
   {
     "op": "remove",
@@ -4258,32 +4048,12 @@
     "path": "/94/params"
   },
   {
-    "op": "replace",
-    "path": "/94/message2",
-    "value": "'s ATTACK fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/94/message1",
-    "value": "'s ATTACK fell!"
-  },
-  {
     "op": "remove",
     "path": "/93/damage"
   },
   {
     "op": "remove",
     "path": "/93/params"
-  },
-  {
-    "op": "replace",
-    "path": "/93/message2",
-    "value": "'s ATTACK fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/93/message1",
-    "value": "'s ATTACK fell!"
   },
   {
     "op": "remove",
@@ -4294,32 +4064,12 @@
     "path": "/92/params"
   },
   {
-    "op": "replace",
-    "path": "/92/message2",
-    "value": "'s ATTACK fell!"
-  },
-  {
-    "op": "replace",
-    "path": "/92/message1",
-    "value": "'s ATTACK fell!"
-  },
-  {
     "op": "remove",
     "path": "/91/damage"
   },
   {
     "op": "remove",
     "path": "/91/params"
-  },
-  {
-    "op": "replace",
-    "path": "/91/message2",
-    "value": "'s ATTACK rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/91/message1",
-    "value": "'s ATTACK rose!"
   },
   {
     "op": "remove",
@@ -4330,32 +4080,12 @@
     "path": "/90/params"
   },
   {
-    "op": "replace",
-    "path": "/90/message2",
-    "value": "'s ATTACK rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/90/message1",
-    "value": "'s ATTACK rose!"
-  },
-  {
     "op": "remove",
     "path": "/89/damage"
   },
   {
     "op": "remove",
     "path": "/89/params"
-  },
-  {
-    "op": "replace",
-    "path": "/89/message2",
-    "value": "'s ATTACK rose!"
-  },
-  {
-    "op": "replace",
-    "path": "/89/message1",
-    "value": "'s ATTACK rose!"
   },
   {
     "op": "remove",
@@ -4659,16 +4389,6 @@
     "value": " revives!"
   },
   {
-    "op": "replace",
-    "path": "/52/message2",
-    "value": " is slain!"
-  },
-  {
-    "op": "replace",
-    "path": "/52/message1",
-    "value": " has fallen!"
-  },
-  {
     "op": "remove",
     "path": "/51/damage"
   },
@@ -4946,16 +4666,6 @@
     "value": " calmed down."
   },
   {
-    "op": "replace",
-    "path": "/18/message2",
-    "value": " feels AFRAID..."
-  },
-  {
-    "op": "replace",
-    "path": "/18/message1",
-    "value": " feels AFRAID..."
-  },
-  {
     "op": "remove",
     "path": "/17/damage"
   },
@@ -4972,16 +4682,6 @@
     "path": "/16/params"
   },
   {
-    "op": "replace",
-    "path": "/16/message2",
-    "value": " feels FURIOUS!"
-  },
-  {
-    "op": "replace",
-    "path": "/16/message1",
-    "value": " feels FURIOUS!"
-  },
-  {
     "op": "remove",
     "path": "/15/damage"
   },
@@ -4990,32 +4690,12 @@
     "path": "/15/params"
   },
   {
-    "op": "replace",
-    "path": "/15/message2",
-    "value": " feels ENRAGED!"
-  },
-  {
-    "op": "replace",
-    "path": "/15/message1",
-    "value": " feels ENRAGED!"
-  },
-  {
     "op": "remove",
     "path": "/14/damage"
   },
   {
     "op": "remove",
     "path": "/14/params"
-  },
-  {
-    "op": "replace",
-    "path": "/14/message2",
-    "value": " feels ANGRY!"
-  },
-  {
-    "op": "replace",
-    "path": "/14/message1",
-    "value": " feels ANGRY!"
   },
   {
     "op": "remove",
@@ -5034,16 +4714,6 @@
     "path": "/12/params"
   },
   {
-    "op": "replace",
-    "path": "/12/message2",
-    "value": " feels MISERABLE..."
-  },
-  {
-    "op": "replace",
-    "path": "/12/message1",
-    "value": " feels MISERABLE..."
-  },
-  {
     "op": "remove",
     "path": "/11/damage"
   },
@@ -5052,32 +4722,12 @@
     "path": "/11/params"
   },
   {
-    "op": "replace",
-    "path": "/11/message2",
-    "value": " feels DEPRESSED..."
-  },
-  {
-    "op": "replace",
-    "path": "/11/message1",
-    "value": " feels DEPRESSED..."
-  },
-  {
     "op": "remove",
     "path": "/10/damage"
   },
   {
     "op": "remove",
     "path": "/10/params"
-  },
-  {
-    "op": "replace",
-    "path": "/10/message2",
-    "value": " feels SAD..."
-  },
-  {
-    "op": "replace",
-    "path": "/10/message1",
-    "value": " feels SAD..."
   },
   {
     "op": "remove",
@@ -5096,16 +4746,6 @@
     "path": "/8/params"
   },
   {
-    "op": "replace",
-    "path": "/8/message2",
-    "value": " feels MANIC!"
-  },
-  {
-    "op": "replace",
-    "path": "/8/message1",
-    "value": " feels MANIC!"
-  },
-  {
     "op": "remove",
     "path": "/7/damage"
   },
@@ -5114,32 +4754,12 @@
     "path": "/7/params"
   },
   {
-    "op": "replace",
-    "path": "/7/message2",
-    "value": " feels ECSTATIC!"
-  },
-  {
-    "op": "replace",
-    "path": "/7/message1",
-    "value": " feels ECSTATIC!"
-  },
-  {
     "op": "remove",
     "path": "/6/damage"
   },
   {
     "op": "remove",
     "path": "/6/params"
-  },
-  {
-    "op": "replace",
-    "path": "/6/message2",
-    "value": " feels HAPPY!"
-  },
-  {
-    "op": "replace",
-    "path": "/6/message1",
-    "value": " feels HAPPY!"
   },
   {
     "op": "remove",
@@ -5185,15 +4805,5 @@
     "op": "replace",
     "path": "/1/message4",
     "value": " rose again!"
-  },
-  {
-    "op": "replace",
-    "path": "/1/message2",
-    "value": " was defeated!"
-  },
-  {
-    "op": "replace",
-    "path": "/1/message1",
-    "value": " became TOAST!"
   }
 ]

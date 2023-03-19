@@ -10,7 +10,7 @@ args = ap.parse_args()
 
 def main():
     for name in args.files:
-        with open(name, 'r') as f:
+        with open(name, 'r', encoding='utf-8') as f:
             data: List[Dict] = json.load(f, object_pairs_hook=OrderedDict)
 
             def cond(v: Dict) -> bool:
@@ -19,6 +19,14 @@ def main():
                 if v['path'].endswith('/name'):
                     return False
                 if v['path'].endswith('/description'):
+                    return False
+                if v['path'].endswith('/note'):
+                    return False
+                if v['path'].endswith('/message1'):
+                    return False
+                if v['path'].endswith('/message2'):
+                    return False
+                if v['path'].endswith('/name/jp'):
                     return False
                 return True
             data = list(filter(cond, data))

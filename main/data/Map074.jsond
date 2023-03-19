@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/displayName",
-    "value": "SECRET LAKE"
-  }
-]

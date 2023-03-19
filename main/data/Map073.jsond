@@ -134,10 +134,5 @@
       "indent": 0,
       "parameters": []
     }
-  },
-  {
-    "op": "replace",
-    "path": "/displayName",
-    "value": "FARAWAY PARK"
   }
 ]

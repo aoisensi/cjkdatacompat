@@ -1,8 +1,8 @@
 {
-  "id": "jpdatacompat",
-  "name": "日本語データ互換",
-  "description": "日本語版と英語版のデータの差異を減らし、日本語版でModが正常に起動する確率を上げます",
-  "version": "1.0.8",
+  "id": "cjkdatacompat",
+  "name": "CJK Data Compability",
+  "description": "Reduce the difference between the CJK version and the English version of the data and increase the probability that the mod will start normally.",
+  "version": "1.0.8.0",
   "manifestVersion": 1,
   "image_deltas": [],
   "files": {

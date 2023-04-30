@@ -4,9 +4,6 @@
   "description": "日本語版と英語版のデータの差異を減らし、日本語版でModが正常に起動する確率を上げます",
   "version": "1.0.8",
   "manifestVersion": 1,
-  "_flags": [
-    "do_olid"
-  ],
   "image_deltas": [],
   "files": {
     "plugins": [],
@@ -23,10 +20,6 @@
       "data/CommonEvents.jsond",
       "data/Enemies.jsond",
       "data/Items.jsond",
-      "data/Map005.jsond",
-      "data/Map073.jsond",
-      "data/Map082.jsond",
-      "data/Map440.jsond",
       "data/MapInfos.jsond",
       "data/Skills.jsond",
       "data/States.jsond",

@@ -11753,8 +11753,9 @@
     "path": "/69/params"
   },
   {
-    "op": "remove",
-    "path": "/69/effects/0"
+    "op": "replace",
+    "path": "/69/effects",
+    "value": []
   },
   {
     "op": "replace",
@@ -11766,8 +11767,9 @@
     "path": "/68/params"
   },
   {
-    "op": "remove",
-    "path": "/68/effects/0"
+    "op": "replace",
+    "path": "/68/effects",
+    "value": []
   },
   {
     "op": "remove",

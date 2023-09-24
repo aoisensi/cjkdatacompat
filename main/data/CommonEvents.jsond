@@ -1,6 +1,9009 @@
 [
   {
     "op": "replace",
+    "path": "/63",
+    "value": {
+      "id": 63,
+      "list": [
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Stuffed toy"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Basils house"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Missing"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Space pirate mixtape"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Front row tickets"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Missing friends"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Dailys dilemma"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            9,
+            9,
+            0,
+            3,
+            7,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            9,
+            0,
+            92,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 1,
+          "parameters": [
+            6,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            9,
+            0,
+            96,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 2,
+          "parameters": [
+            10,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 2,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            9,
+            0,
+            497,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 3,
+          "parameters": [
+            2,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 3,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            9,
+            0,
+            100,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 4,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 4,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            1,
+            9,
+            0,
+            106,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 5,
+          "parameters": [
+            53,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 5,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 5,
+          "parameters": [
+            1,
+            9,
+            0,
+            111,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 6,
+          "parameters": [
+            53,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 6,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 6,
+          "parameters": [
+            1,
+            9,
+            0,
+            345,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 7,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 7,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 7,
+          "parameters": [
+            1,
+            9,
+            0,
+            124,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 8,
+          "parameters": [
+            33,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 8,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 8,
+          "parameters": [
+            1,
+            9,
+            0,
+            131,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 9,
+          "parameters": [
+            10,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 9,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 9,
+          "parameters": [
+            1,
+            9,
+            0,
+            145,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 10,
+          "parameters": [
+            23,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 10,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 10,
+          "parameters": [
+            1,
+            9,
+            0,
+            150,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 11,
+          "parameters": [
+            20,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 11,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 11,
+          "parameters": [
+            1,
+            9,
+            0,
+            140,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 12,
+          "parameters": [
+            24,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 12,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 12,
+          "parameters": [
+            1,
+            9,
+            0,
+            347,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 13,
+          "parameters": [
+            13,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 13,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 13,
+          "parameters": [
+            1,
+            9,
+            0,
+            158,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 14,
+          "parameters": [
+            18,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 14,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 14,
+          "parameters": [
+            1,
+            9,
+            0,
+            164,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 15,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 15,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 15,
+          "parameters": [
+            1,
+            9,
+            0,
+            165,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 16,
+          "parameters": [
+            13,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 16,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 16,
+          "parameters": [
+            1,
+            9,
+            0,
+            183,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 17,
+          "parameters": [
+            52,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 17,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 17,
+          "parameters": [
+            1,
+            9,
+            0,
+            180,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 18,
+          "parameters": [
+            33,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 18,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 18,
+          "parameters": [
+            1,
+            9,
+            0,
+            191,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 19,
+          "parameters": [
+            20,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 19,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 19,
+          "parameters": [
+            1,
+            9,
+            0,
+            202,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 20,
+          "parameters": [
+            4,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 20,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 20,
+          "parameters": [
+            1,
+            9,
+            0,
+            197,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 21,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 21,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 21,
+          "parameters": [
+            1,
+            9,
+            0,
+            215,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 22,
+          "parameters": [
+            11,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 22,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 22,
+          "parameters": [
+            1,
+            9,
+            0,
+            223,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 23,
+          "parameters": [
+            7,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 23,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 23,
+          "parameters": [
+            1,
+            9,
+            0,
+            250,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 24,
+          "parameters": [
+            67,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 24,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 24,
+          "parameters": [
+            1,
+            9,
+            0,
+            236,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 25,
+          "parameters": [
+            38,
+            {
+              "list": [
+                {
+                  "code": 25,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 25,
+          "parameters": [
+            {
+              "code": 25,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 25,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 25,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 356,
+          "indent": 0,
+          "parameters": [
+            "ShowMessage XX_QUEST.message_10"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            15
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Basil house"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1559,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('BasilHouse');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('BasilHouse', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('BasilHouse',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            981,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.removeQuest('BasilHouse');"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('BasilHouse', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('BasilHouse',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Empty House"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1584,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Abandoned');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1057,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.removeQuest('Abandoned');"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Abandoned', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Abandoned',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Missing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            992,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.removeQuest('Missing');"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            981,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('Missing');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Missing',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1038,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 16);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            9,
+            9,
+            0,
+            3,
+            7,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1034,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 16);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            1,
+            9,
+            0,
+            92,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 5,
+          "parameters": [
+            "FOREST PLAYGROUND"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 5,
+          "parameters": [
+            1,
+            974,
+            0,
+            4,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 6,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 3);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 6,
+          "parameters": [
+            1,
+            972,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 7,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 2);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 7,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 0);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 5,
+          "parameters": [
+            1,
+            9,
+            0,
+            96,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 6,
+          "parameters": [
+            "PATH TO BASIL II"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 6,
+          "parameters": [
+            1,
+            974,
+            0,
+            4,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 7,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 3);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 7,
+          "parameters": [
+            1,
+            972,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 8,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 2);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 8,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 1);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 6,
+          "parameters": [
+            1,
+            9,
+            0,
+            497,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 7,
+          "parameters": [
+            "PATH TO BASIL (BS)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 7,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 1);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 7,
+          "parameters": [
+            1,
+            9,
+            0,
+            100,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 8,
+          "parameters": [
+            "KITE KID"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 8,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 4);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 8,
+          "parameters": [
+            1,
+            9,
+            0,
+            106,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 9,
+          "parameters": [
+            "ORANGE OASIS"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 9,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 5);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 9,
+          "parameters": [
+            1,
+            9,
+            0,
+            111,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 10,
+          "parameters": [
+            "RAIN TOWN"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 10,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 6);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 10,
+          "parameters": [
+            1,
+            9,
+            0,
+            124,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 11,
+          "parameters": [
+            "OTHERWORLD CAMPSITE"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 11,
+          "parameters": [
+            0,
+            994,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 12,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 11);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 12,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 7);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 11,
+          "parameters": [
+            1,
+            9,
+            0,
+            131,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 12,
+          "parameters": [
+            "FROZEN LAKE"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 12,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 8);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 12,
+          "parameters": [
+            1,
+            9,
+            0,
+            145,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 13,
+          "parameters": [
+            "JUNKYARD IV"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 13,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 9);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 13,
+          "parameters": [
+            1,
+            9,
+            0,
+            150,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 14,
+          "parameters": [
+            "Junkyard IX"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 14,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 10);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 14,
+          "parameters": [
+            1,
+            9,
+            0,
+            140,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 15,
+          "parameters": [
+            "FROZEN FOREST VII"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 15,
+          "parameters": [
+            1,
+            9,
+            0,
+            347,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 16,
+          "parameters": [
+            "FROZEN FOREST IX"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 16,
+          "parameters": [
+            1,
+            9,
+            0,
+            158,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 17,
+          "parameters": [
+            "Pyrefly IV"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 17,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 11);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 17,
+          "parameters": [
+            1,
+            9,
+            0,
+            164,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 18,
+          "parameters": [
+            "Pyrefly to SM town"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 18,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 12);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 18,
+          "parameters": [
+            1,
+            9,
+            0,
+            165,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 19,
+          "parameters": [
+            "Sproutmole Town I"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 19,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 13);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 19,
+          "parameters": [
+            1,
+            9,
+            0,
+            183,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 20,
+          "parameters": [
+            "Underground dungeon"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 20,
+          "parameters": [
+            0,
+            1020,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 21,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 17);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 21,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 14);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 20,
+          "parameters": [
+            1,
+            9,
+            0,
+            180,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 21,
+          "parameters": [
+            "Servants Quarters"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 21,
+          "parameters": [
+            0,
+            1020,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 22,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 17);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 22,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 15);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 21,
+          "parameters": [
+            "Default"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 21,
+          "parameters": [
+            "this.setQuestMessageIndex('Missing', 16);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Space pirate mixtape"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1202,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Mixtape');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('Mixtape', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('Mixtape',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            994,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Mixtape', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Mixtape',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            8,
+            130
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Mixtape', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Mixtape',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            465,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('Mixtape', 3);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('Mixtape',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Front row tickets"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            8,
+            131
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('FrontRow');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1022,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 3);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1203,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1016,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1022,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 3);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1203,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1016,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('FrontRow', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('FrontRow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Missing friends"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1038,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('Alone', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('Alone',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1035,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('Alone');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Alone', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Alone',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Stuffed toy"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "this.addQuest('Aubergine');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "this.setQuestCompleteState('Aubergine',true);"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Flower Puzzle"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            190,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('FlowerPuzzle');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('FlowerPuzzle', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('FlowerPuzzle',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            191,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            192,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FlowerPuzzle', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FlowerPuzzle',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FlowerPuzzle', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FlowerPuzzle',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('FlowerPuzzle', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('FlowerPuzzle',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Leafie"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1661,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Leafie');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('Leafie', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('Leafie',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            615,
+            0,
+            50,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Leafie', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Leafie',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Lost ball"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1034,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            189,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1546,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.removeQuest('LostBall');"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('LostBall');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            12,
+            "!!$gameSwitches.value(1546) || $gameActors.actor(2)._skills.contains(69)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1545,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1546,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('LostBall');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1544,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.addQuest('LostBall');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1545,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('LostBall', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('LostBall',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Pet rock"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            10,
+            50,
+            true
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            10,
+            62,
+            true
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('Hector');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Hector', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Hector',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 2,
+          "parameters": [
+            "LUCA 01/23 -> Added a fix for avoiding to show again"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 2,
+          "parameters": [
+            "the quest when Hector Jr is equipped to somebody that"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 2,
+          "parameters": [
+            "is outside of the party."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            12,
+            "[1,2,3,4].every(id => !$gameActors.actor(id).isEquipped($dataArmors[62]))"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.addQuest('Hector');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Hector', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Hector',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Whereabouts of Duckie Jr"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            203,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Duckie');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            204,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            205,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Duckie', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Duckie',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Duckie', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Duckie',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Duckie', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Duckie',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Scarecrow (stick in the mud)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            181,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('StickInTheMud');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            182,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('StickInTheMud', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('StickInTheMud',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('StickInTheMud', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('StickInTheMud',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Strange request (TV girl)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            167,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('StrangeRequest');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            168,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('StrangeRequest', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('StrangeRequest',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            8,
+            168
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            8,
+            169
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            8,
+            167
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 5,
+          "parameters": [
+            "this.setQuestMessageIndex('StrangeRequest', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 5,
+          "parameters": [
+            "this.setQuestCompleteState('StrangeRequest',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 5,
+          "parameters": [
+            "this.setQuestMessageIndex('StrangeRequest', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 5,
+          "parameters": [
+            "this.setQuestCompleteState('StrangeRequest',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('StrangeRequest', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('StrangeRequest',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('StrangeRequest', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('StrangeRequest',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Itchy"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            198,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Itchy');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            199,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            200,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Itchy', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Itchy',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Itchy', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Itchy',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Itchy', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Itchy',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Orange Joe"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            201,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Orange');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            202,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Orange', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Orange',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Orange', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Orange',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Raintown"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            251,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Raintown');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('Raintown', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('Raintown',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            220,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Raintown', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Raintown',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            219,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Raintown', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Raintown',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Present for Pamie"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            249,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('PresentForPalmie', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('PresentForPalmie',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            733,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.addQuest('PresentForPalmie');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('PresentForPalmie', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('PresentForPalmie',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Weeping Willow"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            416,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Willow');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            8,
+            161
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            417,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Willow', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Willow',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Willow', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Willow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Willow', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Willow',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Fascinating literature (Demi)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            173,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('FascinatingLiterature');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            174,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            175,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FascinatingLiterature', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FascinatingLiterature',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('FascinatingLiterature', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('FascinatingLiterature',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('FascinatingLiterature', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('FascinatingLiterature',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "A good listener (Candlie)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            209,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Candlie');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            210,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            211,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Candlie', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Candlie',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Candlie', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Candlie',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Candlie', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Candlie',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Care package"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            186,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('CarePackage');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            187,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('CarePackage', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('CarePackage',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('CarePackage', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('CarePackage',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Sweaty snack"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            418,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Sweaty');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            163,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Sweaty', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Sweaty',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Sweaty', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Sweaty',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Pessis thing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            748,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Pessi');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            742,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            752,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Pessi', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Pessi',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Pessi', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Pessi',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Pessi', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Pessi',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "B.E.D."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            161,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('BED');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            750,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('BED', 3);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('BED',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            162,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            165,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('BED', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('BED',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestMessageIndex('BED', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "this.setQuestCompleteState('BED',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('BED', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('BED',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Ghost party"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            193,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('GhostParty');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            1035,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('GhostParty', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('GhostParty',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            606,
+            0,
+            6,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('GhostParty', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('GhostParty',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('GhostParty', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('GhostParty',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Call of inspiration (pool noodle)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            419,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('PoolNoodle');"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 1,
+          "parameters": [
+            "//---------------------------------"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 1,
+          "parameters": [
+            "// Fix for Cool Noodle Missing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            12,
+            "$gameSelfSwitches.value([196,20,'B']) && !$gameParty.hasItem($dataWeapons[18],true)"
+          ]
+        },
+        {
+          "code": 127,
+          "indent": 2,
+          "parameters": [
+            18,
+            0,
+            0,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            9,
+            18,
+            true
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('PoolNoodle', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('PoolNoodle',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('PoolNoodle', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('PoolNoodle',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Squizzards (Sea cow farm)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            196,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Squizzards');"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestMessageIndex('Squizzards', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.setQuestCompleteState('Squizzards',false);"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            197,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Squizzards', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Squizzards',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Son of a space pirate"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            177,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Pinkbeard');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            178,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            179,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Pinkbeard', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Pinkbeard',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Pinkbeard', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Pinkbeard',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Pinkbeard', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Pinkbeard',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Feed humphrey"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            188,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Humphrey');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            189,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Humphrey', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Humphrey',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Humphrey', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Humphrey',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Marina"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            206,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Marina');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            208,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Marina', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Marina',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            8,
+            177
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Marina', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Marina',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Marina', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Marina',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Medusa"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            212,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Medusa');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            214,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Medusa', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Medusa',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            8,
+            178
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Medusa', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Medusa',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Medusa', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Medusa',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Molly"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            215,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "this.addQuest('Molly');"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            216,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestMessageIndex('Molly', 2);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "this.setQuestCompleteState('Molly',true);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            8,
+            179
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Molly', 1);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Molly',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestMessageIndex('Molly', 0);"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.setQuestCompleteState('Molly',false);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "this.callQuestMenu();"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            20
+          ]
+        },
+        {
+          "code": 356,
+          "indent": 0,
+          "parameters": [
+            "ShowMessage XX_QUEST.message_15"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            20
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            9,
+            9,
+            0,
+            3,
+            7,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            9,
+            0,
+            92,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 1,
+          "parameters": [
+            6,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            9,
+            0,
+            96,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 2,
+          "parameters": [
+            10,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 2,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            9,
+            0,
+            497,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 3,
+          "parameters": [
+            2,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 3,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            9,
+            0,
+            100,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 4,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 4,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            1,
+            9,
+            0,
+            106,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 5,
+          "parameters": [
+            53,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 5,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 5,
+          "parameters": [
+            1,
+            9,
+            0,
+            111,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 6,
+          "parameters": [
+            53,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 6,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 6,
+          "parameters": [
+            1,
+            9,
+            0,
+            345,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 7,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 7,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 7,
+          "parameters": [
+            1,
+            9,
+            0,
+            124,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 8,
+          "parameters": [
+            33,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 8,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 8,
+          "parameters": [
+            1,
+            9,
+            0,
+            131,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 9,
+          "parameters": [
+            10,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 9,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 9,
+          "parameters": [
+            1,
+            9,
+            0,
+            145,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 10,
+          "parameters": [
+            23,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 10,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 10,
+          "parameters": [
+            1,
+            9,
+            0,
+            150,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 11,
+          "parameters": [
+            20,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 11,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 11,
+          "parameters": [
+            1,
+            9,
+            0,
+            140,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 12,
+          "parameters": [
+            24,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 12,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 12,
+          "parameters": [
+            1,
+            9,
+            0,
+            347,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 13,
+          "parameters": [
+            13,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 13,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 13,
+          "parameters": [
+            1,
+            9,
+            0,
+            158,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 14,
+          "parameters": [
+            18,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 14,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 14,
+          "parameters": [
+            1,
+            9,
+            0,
+            164,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 15,
+          "parameters": [
+            0,
+            1057,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 16,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 19,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 16,
+          "parameters": [
+            {
+              "code": 19,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 205,
+          "indent": 16,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 16,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 15,
+          "parameters": [
+            1,
+            9,
+            0,
+            165,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 16,
+          "parameters": [
+            13,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 16,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 16,
+          "parameters": [
+            1,
+            9,
+            0,
+            183,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 17,
+          "parameters": [
+            52,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 17,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 17,
+          "parameters": [
+            1,
+            9,
+            0,
+            180,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 18,
+          "parameters": [
+            33,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 18,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 18,
+          "parameters": [
+            1,
+            9,
+            0,
+            191,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 19,
+          "parameters": [
+            20,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 19,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 19,
+          "parameters": [
+            1,
+            9,
+            0,
+            202,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 20,
+          "parameters": [
+            4,
+            {
+              "list": [
+                {
+                  "code": 19,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 20,
+          "parameters": [
+            {
+              "code": 19,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 20,
+          "parameters": [
+            1,
+            9,
+            0,
+            197,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 21,
+          "parameters": [
+            15,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 21,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 21,
+          "parameters": [
+            1,
+            9,
+            0,
+            215,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 22,
+          "parameters": [
+            11,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 22,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 22,
+          "parameters": [
+            1,
+            9,
+            0,
+            223,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 23,
+          "parameters": [
+            7,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 23,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 23,
+          "parameters": [
+            1,
+            9,
+            0,
+            250,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 24,
+          "parameters": [
+            67,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 24,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 24,
+          "parameters": [
+            1,
+            9,
+            0,
+            236,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 25,
+          "parameters": [
+            38,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 25,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 25,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 25,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 24,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 23,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 22,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 21,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 20,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 19,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 18,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 17,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 16,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 15,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 14,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 13,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 12,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 11,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 10,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 9,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 8,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 7,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            714,
+            714,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "name": "★★ MARI QUEST TRACKER",
+      "switchId": 714,
+      "trigger": 1
+    }
+  },
+  {
+    "op": "replace",
     "path": "/236",
     "value": {
       "id": 236,

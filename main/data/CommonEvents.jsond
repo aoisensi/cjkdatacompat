@@ -1,0 +1,1802 @@
+[
+  {
+    "op": "replace",
+    "path": "/236",
+    "value": {
+      "id": 236,
+      "list": [
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1630,
+            1630,
+            1
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    30
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 41,
+                  "parameters": [
+                    "DW_OMORI",
+                    0
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(0,4)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(1,4)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(2,4)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(0,5)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(1,5)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(2,5)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    180
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(0,6)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(1,6)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                30
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 41,
+              "parameters": [
+                "DW_OMORI",
+                0
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(0,4)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(1,4)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(2,4)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(0,5)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(1,5)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(2,5)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                180
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(0,6)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(1,6)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1050,
+            1050,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 241,
+          "indent": 0,
+          "parameters": [
+            {
+              "name": "",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            },
+            0
+          ]
+        },
+        {
+          "code": 245,
+          "indent": 0,
+          "parameters": [
+            {
+              "name": "",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            },
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 44,
+                  "parameters": [
+                    {
+                      "name": "GEN_stab",
+                      "volume": 90,
+                      "pitch": 100,
+                      "pan": 0
+                    }
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(2,6)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(0,7)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    90
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(1,7)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 15,
+                  "parameters": [
+                    12
+                  ],
+                  "indent": 0
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(2,7)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 44,
+              "parameters": [
+                {
+                  "name": "GEN_stab",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(2,6)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(0,7)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                90
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(1,7)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 15,
+              "parameters": [
+                12
+              ],
+              "indent": 0
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(2,7)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            75
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 0,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            1,
+            false
+          ]
+        },
+        {
+          "code": 221,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 235,
+          "indent": 0,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 235,
+          "indent": 0,
+          "parameters": [
+            2
+          ]
+        },
+        {
+          "code": 235,
+          "indent": 0,
+          "parameters": [
+            69
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            237,
+            237,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1067,
+            1067,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "$gameScreen.removeHorrorEffect('noise')"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "$gameScreen.removeHorrorEffect('glitch')"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1041,
+            1041,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1042,
+            1042,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            210
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "this.setCustomFrameXY(null,null)"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "this.setCustomFrameXY(null,null)"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 211,
+          "indent": 0,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------------"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------------"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            150
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "SceneManager._scene._messageWindow.terminateMessage();"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "var dir = $gameVariables.value(1170);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var map = $gameVariables.value(1171);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var px = $gameVariables.value(1172);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var py = $gameVariables.value(1173);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// MapID"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(9, map);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// X"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(10, px);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Y"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(11, py);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Direction"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(12, dir);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Fade Type (0 - Black, 1 - White, 2 - None)"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(13, 2);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Fade Duration"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameVariables.setValue(14, 30);"
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            31
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            971,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1038,
+            0
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 2,
+          "parameters": [
+            22
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            1037,
+            0
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 3,
+          "parameters": [
+            20
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            1035,
+            0
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            19
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            18
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 117,
+          "indent": 1,
+          "parameters": [
+            22
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "Return followers to original position"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "var zx = $gameVariables.value(1141);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var zy = $gameVariables.value(1142);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var zdir = $gameVariables.value(1143);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var ox = $gameVariables.value(1144);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var oy = $gameVariables.value(1145);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var odir = $gameVariables.value(1146);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var tx = $gameVariables.value(1147);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var ty = $gameVariables.value(1148);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var tdir = $gameVariables.value(1149);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(0).setPosition(zx, zy);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(0).setDirection(zdir);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(1).setPosition(ox, oy);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(1).setDirection(odir);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(2).setPosition(tx, ty);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(2).setDirection(tdir);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer.setDirection($gameVariables.value(1170));"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "// Fix for weird characters position"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(0)._spriteOffsetX = 0"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer._followers.follower(0)._spriteOffsetY = 0"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1022,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            0,
+            1016,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            5,
+            5,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 2,
+          "parameters": [
+            26
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1171,
+            0,
+            258,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 1,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "$gamePlayer._spriteOffsetY = +6"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "$gamePlayer._followers.follower(0)._spriteOffsetY = +6"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "$gamePlayer._followers.follower(1)._spriteOffsetY = +6"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 45,
+                  "parameters": [
+                    "$gamePlayer._followers.follower(2)._spriteOffsetY = +6"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "$gamePlayer._spriteOffsetY = +6"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "$gamePlayer._followers.follower(0)._spriteOffsetY = +6"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "$gamePlayer._followers.follower(1)._spriteOffsetY = +6"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "$gamePlayer._followers.follower(2)._spriteOffsetY = +6"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1171,
+            0,
+            121,
+            0
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 1,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "$gamePlayer._spriteOffsetY = +6"
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 1,
+          "parameters": [
+            {
+              "code": 45,
+              "parameters": [
+                "$gamePlayer._spriteOffsetY = +6"
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1084,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "let fog = this.generateMapFog()"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "fog.name = 'fog'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "fog.move.x = 1;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  fog.opacity = 75;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  fog.blendMode = 0;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "this.createMapFog('fog1', fog);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1084,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "let fog = this.generateMapFog()"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "fog.name = 'fog'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "fog.move.x = 1;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  fog.opacity = 200;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  fog.blendMode = 0;"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "this.createMapFog('fog1', fog);"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            26
+          ]
+        },
+        {
+          "code": 235,
+          "indent": 0,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 222,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1128,
+            1128,
+            1
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            5,
+            5,
+            0
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            4,
+            4,
+            1
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            7
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            41
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1130,
+            1130,
+            1
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1628,
+            1628,
+            1
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1948,
+            1948,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1887,
+            1
+          ]
+        },
+        {
+          "code": 244,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            1887,
+            1887,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "name": "★ Stab: Pocket",
+      "switchId": 1,
+      "trigger": 0
+    }
+  }
+]

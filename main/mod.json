@@ -1,8 +1,8 @@
 {
   "id": "cjkdatacompat",
   "name": "CJK Data Compability",
-  "description": "Reduce the difference between the CJK version and the English version of the data and increase the probability that the mod will start normally.",
-  "version": "1.0.8.0",
+  "description": "A prerequisite mod to successfully load another mods in localized versions.",
+  "version": "1.0.8.1",
   "manifestVersion": 1,
   "image_deltas": [],
   "files": {
@@ -17,6 +17,7 @@
       "data/Actors.jsond",
       "data/Armors.jsond",
       "data/Classes.jsond",
+      "data/CommonEvents.jsond",
       "data/Enemies.jsond",
       "data/Items.jsond",
       "data/MapInfos.jsond",

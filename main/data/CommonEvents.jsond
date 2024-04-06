@@ -1,6 +1,73 @@
 [
   {
     "op": "replace",
+    "path": "/62",
+    "value": 
+    {
+      "id": 62,
+      "list": [
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "-----------------------------------------------"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 0,
+          "parameters": [
+            "★ GRAPHICS: ON LOAD"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 0,
+          "parameters": [
+            "This common event has been created as a failsafe"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 0,
+          "parameters": [
+            "to be processed after game loading."
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 0,
+          "parameters": [
+            "-----------------------------------------------"
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            27
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "--------------------------------------------------"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "name": "★ GRAPHICS: ON LOAD",
+      "switchId": 1,
+      "trigger": 0
+    }
+  },
+  {
+    "op": "replace",
     "path": "/63",
     "value": {
       "id": 63,

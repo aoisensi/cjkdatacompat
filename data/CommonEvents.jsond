@@ -10868,5 +10868,271 @@
       "switchId": 1,
       "trigger": 0
     }
+  },
+  {
+    "op": "replace",
+    "path": "/31",
+    "value": {
+      "id": 31,
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            13,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            13,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 2,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              0
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            13,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 221,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "// MapID"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var mapId = $gameVariables.value(9);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// X"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var x = $gameVariables.value(10);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Y"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var y = $gameVariables.value(11);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// Direction"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "var direction = $gameVariables.value(12);"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            ""
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "// INITIALIZE TELEPORT"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gamePlayer.reserveTransfer(mapId, x, y, direction, 2);"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 0,
+          "parameters": [
+            "------------------------------------------------------"
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            39
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1085,
+            1085,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 0,
+          "parameters": [
+            422
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            22,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 356,
+          "indent": 1,
+          "parameters": [
+            "exaFC.clearAll"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "name": "★ Teleporting Style",
+      "switchId": 1,
+      "trigger": 0
+    }
   }
 ]

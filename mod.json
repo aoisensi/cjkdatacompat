@@ -2,7 +2,7 @@
   "id": "cjkdatacompat",
   "name": "CJK Data Compability",
   "description": "A prerequisite mod to successfully load another mods in localized versions.",
-  "version": "1.0.8.2",
+  "version": "1.3.0",
   "manifestVersion": 1,
   "image_deltas": [],
   "files": {

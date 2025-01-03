@@ -25,7 +25,8 @@
       "data/States.jsond",
       "data/Troops.jsond",
       "data/Weapons.jsond",
-      "data/Map005.jsond"
+      "data/Map005.jsond",
+      "data/Map073.jsond"
     ]
   },
   "priority": -100,

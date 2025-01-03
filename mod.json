@@ -24,7 +24,8 @@
       "data/Skills.jsond",
       "data/States.jsond",
       "data/Troops.jsond",
-      "data/Weapons.jsond"
+      "data/Weapons.jsond",
+      "data/Map005.jsond"
     ]
   },
   "priority": -100,
